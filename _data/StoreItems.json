@@ -1912,19 +1912,19 @@
       "abr": "personamonosword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "personaplasmasword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_PlasmaSwordBladelink",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "personazeushammer",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_ZeusHammerBladelink",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "pew",
@@ -2120,175 +2120,175 @@
     },
     {
       "abr": "psytrainer(beckon)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Beckon",
       "price": 917
     },
     {
       "abr": "psytrainer(berserkpulse)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_BerserkPulse",
       "price": 1667
     },
     {
       "abr": "psytrainer(berserk)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Berserk",
       "price": 1417
     },
     {
       "abr": "psytrainer(blindingpulse)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_BlindingPulse",
       "price": 667
     },
     {
       "abr": "psytrainer(burden)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Burden",
       "price": 417
     },
     {
       "abr": "psytrainer(chaosskip)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_ChaosSkip",
       "price": 917
     },
     {
       "abr": "psytrainer(chunkskip)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Chunkskip",
       "price": 417
     },
     {
       "abr": "psytrainer(farskip)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Farskip",
       "price": 1417
     },
     {
       "abr": "psytrainer(flashstorm)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Flashstorm",
       "price": 1417
     },
     {
       "abr": "psytrainer(focus)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Focus",
       "price": 1167
     },
     {
       "abr": "psytrainer(invisibility)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Invisibility",
       "price": 1417
     },
     {
       "abr": "psytrainer(manhunterpulse)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_ManhunterPulse",
       "price": 1667
     },
     {
       "abr": "psytrainer(masschaosskip)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_MassChaosSkip",
       "price": 1667
     },
     {
       "abr": "psytrainer(neuralheatdump)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_EntropyDump",
       "price": 667
     },
     {
       "abr": "psytrainer(neuroquake)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Neuroquake",
       "price": 1667
     },
     {
       "abr": "psytrainer(painblock)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Painblock",
       "price": 417
     },
     {
       "abr": "psytrainer(skip)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Skip",
       "price": 1167
     },
     {
       "abr": "psytrainer(skipshield)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_BulletShield",
       "price": 1667
     },
     {
       "abr": "psytrainer(smokepop)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Smokepop",
       "price": 1167
     },
     {
       "abr": "psytrainer(solarpinhole)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_SolarPinhole",
       "price": 417
     },
     {
       "abr": "psytrainer(stun)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Stun",
       "price": 417
     },
     {
       "abr": "psytrainer(vertigopulse)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_VertigoPulse",
       "price": 917
     },
     {
       "abr": "psytrainer(wallraise)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Wallraise",
       "price": 1167
     },
     {
       "abr": "psytrainer(waterskip)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_Waterskip",
       "price": 667
     },
     {
       "abr": "psytrainer(wordofinspiration)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_WordOfInspiration",
       "price": 1417
     },
     {
       "abr": "psytrainer(wordofjoy)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_WordOfJoy",
       "price": 667
     },
     {
       "abr": "psytrainer(wordoflove)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_WordOfLove",
       "price": 917
     },
     {
       "abr": "psytrainer(wordofserenity)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_WordOfSerenity",
       "price": 1167
     },
     {
       "abr": "psytrainer(wordoftrust)",
-      "category": "Psytrainers",
+      "category": "Psyskill potions",
       "defname": "Psytrainer_WordOfTrust",
       "price": 417
     },
@@ -2296,7 +2296,7 @@
       "abr": "pumpshotgun",
       "category": "Ranged weapons",
       "defname": "Gun_PumpShotgun",
-      "price": 273
+      "price": -10
     },
     {
       "abr": "pyre",
@@ -2516,73 +2516,73 @@
     },
     {
       "abr": "skilltrainer(animals)",
-      "category": "Skilltrainers",
+      "category": "Skill potions",
       "defname": "Neurotrainer_Animals",
       "price": 1250
     },
     {
       "abr": "skilltrainer(artistic)",
-      "category": "Skilltrainers",
+      "category": "Skill potions",
       "defname": "Neurotrainer_Artistic",
       "price": 1250
     },
     {
       "abr": "skilltrainer(construction)",
-      "category": "Skilltrainers",
+      "category": "Skill potions",
       "defname": "Neurotrainer_Construction",
       "price": 1250
     },
     {
       "abr": "skilltrainer(cooking)",
-      "category": "Skilltrainers",
+      "category": "Skill potions",
       "defname": "Neurotrainer_Cooking",
       "price": 1250
     },
     {
       "abr": "skilltrainer(crafting)",
-      "category": "Skilltrainers",
+      "category": "Skill potions",
       "defname": "Neurotrainer_Crafting",
       "price": 1250
     },
     {
       "abr": "skilltrainer(intellectual)",
-      "category": "Skilltrainers",
+      "category": "Skill potions",
       "defname": "Neurotrainer_Intellectual",
       "price": 1250
     },
     {
       "abr": "skilltrainer(medical)",
-      "category": "Skilltrainers",
+      "category": "Skill potions",
       "defname": "Neurotrainer_Medicine",
       "price": 1250
     },
     {
       "abr": "skilltrainer(melee)",
-      "category": "Skilltrainers",
+      "category": "Skill potions",
       "defname": "Neurotrainer_Melee",
       "price": 1250
     },
     {
       "abr": "skilltrainer(mining)",
-      "category": "Skilltrainers",
+      "category": "Skill potions",
       "defname": "Neurotrainer_Mining",
       "price": 1250
     },
     {
       "abr": "skilltrainer(plants)",
-      "category": "Skilltrainers",
+      "category": "Skill potions",
       "defname": "Neurotrainer_Plants",
       "price": 1250
     },
     {
       "abr": "skilltrainer(shooting)",
-      "category": "Skilltrainers",
+      "category": "Skill potions",
       "defname": "Neurotrainer_Shooting",
       "price": 1250
     },
     {
       "abr": "skilltrainer(social)",
-      "category": "Skilltrainers",
+      "category": "Skill potions",
       "defname": "Neurotrainer_Social",
       "price": 1250
     },
@@ -10607,7 +10607,157 @@
       "category": "Furniture",
       "defname": "Bed_SimpleGuest",
       "price": 137
+    },
+    {
+      "abr": "ancientscroll",
+      "category": "Items",
+      "defname": "AncientScroll",
+      "price": 1667
+    },
+    {
+      "abr": "animalinsanityorb",
+      "category": "Artifacts",
+      "defname": "AnimalInsanityGem",
+      "price": 1167
+    },
+    {
+      "abr": "animalsskillpotion",
+      "category": "Skill potions",
+      "defname": "SkillPotionAnimals",
+      "price": 1250
+    },
+    {
+      "abr": "artisticskillpotion",
+      "category": "Skill potions",
+      "defname": "SkillPotionArtistic",
+      "price": 1250
+    },
+    {
+      "abr": "blessedweave",
+      "category": "Textiles",
+      "defname": "Blessedweave",
+      "price": 15
+    },
+    {
+      "abr": "constructionskillpotion",
+      "category": "Skill potions",
+      "defname": "SkillPotionConstruction",
+      "price": 1250
+    },
+    {
+      "abr": "cookingskillpotion",
+      "category": "Skill potions",
+      "defname": "SkillPotionCooking",
+      "price": 1250
+    },
+    {
+      "abr": "craftingskillpotion",
+      "category": "Skill potions",
+      "defname": "SkillPotionCrafting",
+      "price": 1250
+    },
+    {
+      "abr": "cyclonestaff",
+      "category": "Utility",
+      "defname": "CycloneStaff",
+      "price": 1333
+    },
+    {
+      "abr": "destructionstaff",
+      "category": "Utility",
+      "defname": "DestructionStaff",
+      "price": 2000
+    },
+    {
+      "abr": "devil'spotion",
+      "category": "Drugs",
+      "defname": "LuciferiumPotion",
+      "price": 117
+    },
+    {
+      "abr": "firebeamstaff",
+      "category": "Utility",
+      "defname": "FirebeamStaff",
+      "price": 2000
+    },
+    {
+      "abr": "healingpotion",
+      "category": "Drugs",
+      "defname": "HealingPotion",
+      "price": 2167
+    },
+    {
+      "abr": "insanitystaff",
+      "category": "Utility",
+      "defname": "InsanityStaff",
+      "price": 1083
+    },
+    {
+      "abr": "intellectualskillpotion",
+      "category": "Skill potions",
+      "defname": "SkillPotionIntellectual",
+      "price": 1250
+    },
+    {
+      "abr": "legendarymedicine",
+      "category": "Medicine",
+      "defname": "LegendaryMedicine",
+      "price": 83
+    },
+    {
+      "abr": "lifepotion",
+      "category": "Drugs",
+      "defname": "LifePotion",
+      "price": 2833
+    },
+    {
+      "abr": "medicineskillpotion",
+      "category": "Skill potions",
+      "defname": "SkillPotionMedicine",
+      "price": 1250
+    },
+    {
+      "abr": "meleeskillpotion",
+      "category": "Skill potions",
+      "defname": "SkillPotionMelee",
+      "price": 1250
+    },
+    {
+      "abr": "miningskillpotion",
+      "category": "Skill potions",
+      "defname": "SkillPotionMining",
+      "price": 1250
+    },
+    {
+      "abr": "plantsskillpotion",
+      "category": "Skill potions",
+      "defname": "SkillPotionPlants",
+      "price": 1250
+    },
+    {
+      "abr": "shockingstaff",
+      "category": "Utility",
+      "defname": "ShockingStaff",
+      "price": 917
+    },
+    {
+      "abr": "shootingskillpotion",
+      "category": "Skill potions",
+      "defname": "SkillPotionShooting",
+      "price": 1250
+    },
+    {
+      "abr": "socialskillpotion",
+      "category": "Skill potions",
+      "defname": "SkillPotionSocial",
+      "price": 1250
+    },
+    {
+      "abr": "soothingorb",
+      "category": "Artifacts",
+      "defname": "SootheBlessingGem",
+      "price": 1000
     }
   ],
-  "total": 1768
+  "total": 1793
 }
