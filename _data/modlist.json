@@ -12,6 +12,12 @@
     "version": "9.0.1"
   },
   {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.3.842.0"
+  },
+  {
     "author": "miyamiya",
     "name": "Compressed Raid",
     "steamId": "2377478084",
@@ -206,6 +212,12 @@
   {
     "author": "TheRugDealer",
     "name": "Medieval Overhaul Biomes Patch for Empire",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nunahur Al-Shamikh",
+    "name": "Medieval Prosthetics",
     "steamId": null,
     "version": null
   },
