@@ -3595,7 +3595,7 @@
       "defName": "RT_DemoCommon",
       "name": "traitdemo:common",
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 2500,
       "degree": 0
@@ -3625,7 +3625,7 @@
       "defName": "RT_DemoUncommon",
       "name": "traitdemo:uncommon",
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 2500,
       "degree": 0
@@ -3655,7 +3655,7 @@
       "defName": "RT_DemoRare",
       "name": "traitdemo:rare",
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 2500,
       "degree": 0
@@ -3685,7 +3685,7 @@
       "defName": "RT_DemoEpic",
       "name": "traitdemo:epic",
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 2500,
       "degree": 0
@@ -3715,7 +3715,7 @@
       "defName": "RT_DemoLegendary",
       "name": "traitdemo:legendary",
       "canAdd": false,
-      "canRemove": true,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 2500,
       "degree": 0
@@ -4421,7 +4421,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -4453,7 +4453,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -4485,7 +4485,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -4515,7 +4515,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -4545,7 +4545,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -4575,7 +4575,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -4605,7 +4605,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -4635,7 +4635,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -4770,10 +4770,10 @@
       },
       "defName": "Undead",
       "name": "undead",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -4909,7 +4909,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -5182,10 +5182,10 @@
       },
       "defName": "TM_Empath",
       "name": "empath",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -5338,10 +5338,10 @@
       },
       "defName": "TM_Wanderer",
       "name": "wanderer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -5496,10 +5496,10 @@
       },
       "defName": "InnerFire",
       "name": "firemage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -5652,10 +5652,10 @@
       },
       "defName": "HeartOfFrost",
       "name": "icemage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -5804,10 +5804,10 @@
       },
       "defName": "StormBorn",
       "name": "lightningmage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -5964,10 +5964,10 @@
       },
       "defName": "Arcanist",
       "name": "arcanemage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -6122,10 +6122,10 @@
       },
       "defName": "Druid",
       "name": "druid",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -6276,10 +6276,10 @@
       },
       "defName": "Paladin",
       "name": "paladin",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -6428,10 +6428,10 @@
       },
       "defName": "Summoner",
       "name": "summoner",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -6586,10 +6586,10 @@
       },
       "defName": "Necromancer",
       "name": "necromancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -6768,10 +6768,10 @@
       },
       "defName": "Lich",
       "name": "lich",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -6930,10 +6930,10 @@
       },
       "defName": "Priest",
       "name": "priest",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -7078,10 +7078,10 @@
       },
       "defName": "TM_Bard",
       "name": "entertainer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -7226,10 +7226,10 @@
       },
       "defName": "TM_Bard",
       "name": "performer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -7374,10 +7374,10 @@
       },
       "defName": "TM_Bard",
       "name": "minstrel",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 2
     },
     {
@@ -7522,10 +7522,10 @@
       },
       "defName": "TM_Bard",
       "name": "bard",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 3
     },
     {
@@ -7690,10 +7690,10 @@
       },
       "defName": "Succubus",
       "name": "succubus",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -7858,10 +7858,10 @@
       },
       "defName": "Warlock",
       "name": "warlock",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8022,10 +8022,10 @@
       },
       "defName": "Geomancer",
       "name": "geomancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8190,10 +8190,10 @@
       },
       "defName": "Technomancer",
       "name": "technomancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8348,10 +8348,10 @@
       },
       "defName": "BloodMage",
       "name": "bloodmage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8508,10 +8508,10 @@
       },
       "defName": "Enchanter",
       "name": "enchanter",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8660,10 +8660,10 @@
       },
       "defName": "Chronomancer",
       "name": "chronomancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -8812,10 +8812,10 @@
       },
       "defName": "ChaosMage",
       "name": "chaosmage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -9094,10 +9094,10 @@
       },
       "defName": "TM_TheShadow",
       "name": "shadow",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -9374,10 +9374,10 @@
       },
       "defName": "TM_Brightmage",
       "name": "brightmage",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -9652,10 +9652,10 @@
       },
       "defName": "TM_Shaman",
       "name": "shaman",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -9926,10 +9926,10 @@
       },
       "defName": "TM_Golemancer",
       "name": "golemancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -10090,10 +10090,10 @@
       },
       "defName": "TM_Possessed",
       "name": "possessed",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -10354,10 +10354,10 @@
       },
       "defName": "TM_Possessor",
       "name": "spirit",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -10493,7 +10493,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -10646,10 +10646,10 @@
       },
       "defName": "TM_Wayfarer",
       "name": "wayfarer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -10928,10 +10928,10 @@
       },
       "defName": "TM_Apothecary",
       "name": "apothecary",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -11096,10 +11096,10 @@
       },
       "defName": "Gladiator",
       "name": "gladiator",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -11256,10 +11256,10 @@
       },
       "defName": "Ranger",
       "name": "woodsman",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -11416,10 +11416,10 @@
       },
       "defName": "Ranger",
       "name": "hunter",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -11576,10 +11576,10 @@
       },
       "defName": "Ranger",
       "name": "scout",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 2
     },
     {
@@ -11736,10 +11736,10 @@
       },
       "defName": "Ranger",
       "name": "ranger",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 3
     },
     {
@@ -11886,10 +11886,10 @@
       },
       "defName": "TM_Sniper",
       "name": "sharpshooter",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -12036,10 +12036,10 @@
       },
       "defName": "TM_Sniper",
       "name": "sniper",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -12186,10 +12186,10 @@
       },
       "defName": "TM_Sniper",
       "name": "mastersniper",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 2
     },
     {
@@ -12336,10 +12336,10 @@
       },
       "defName": "TM_Sniper",
       "name": "legendarysniper",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 3
     },
     {
@@ -12484,10 +12484,10 @@
       },
       "defName": "Bladedancer",
       "name": "bladesman",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -12632,10 +12632,10 @@
       },
       "defName": "Bladedancer",
       "name": "blademaster",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 1
     },
     {
@@ -12782,10 +12782,10 @@
       },
       "defName": "Bladedancer",
       "name": "bladedancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 2
     },
     {
@@ -12932,10 +12932,10 @@
       },
       "defName": "Bladedancer",
       "name": "legendarybladedancer",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 3
     },
     {
@@ -13094,10 +13094,10 @@
       },
       "defName": "Faceless",
       "name": "faceless",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -13252,10 +13252,10 @@
       },
       "defName": "TM_Psionic",
       "name": "psionic",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -13404,10 +13404,10 @@
       },
       "defName": "DeathKnight",
       "name": "deathknight",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -13562,10 +13562,10 @@
       },
       "defName": "TM_Monk",
       "name": "monk",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -13714,10 +13714,10 @@
       },
       "defName": "TM_Commander",
       "name": "commander",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     },
     {
@@ -13874,10 +13874,10 @@
       },
       "defName": "TM_SuperSoldier",
       "name": "supersoldier",
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 3500,
-      "removePrice": 5500,
+      "removePrice": 2500,
       "degree": 0
     }
   ],
