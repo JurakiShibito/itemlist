@@ -6,7 +6,7 @@
 
       ],
       "conflicts": [
-
+        "prude"
       ],
       "bypassLimit": false,
       "data": {
@@ -16,7 +16,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "prude"
         ],
         "stats": [
 
@@ -36,7 +36,8 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [
-
+        "bleedingheart",
+        "desensitized"
       ],
       "bypassLimit": false,
       "data": {
@@ -46,7 +47,8 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "bleedingheart",
+          "desensitized"
         ],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -99,7 +101,9 @@
         "x50% global certainty loss factor"
       ],
       "conflicts": [
-
+        "bleedingheart",
+        "desensitized",
+        "open-minded"
       ],
       "bypassLimit": false,
       "data": {
@@ -109,7 +113,9 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "bleedingheart",
+          "desensitized",
+          "open-minded"
         ],
         "stats": [
           "Morbid meditation focus type allowed.",
@@ -130,7 +136,8 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [
-
+        "bleedingheart",
+        "gourmet"
       ],
       "bypassLimit": false,
       "data": {
@@ -140,7 +147,8 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "bleedingheart",
+          "gourmet"
         ],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -748,7 +756,7 @@
         "Morbid meditation focus type allowed."
       ],
       "conflicts": [
-
+        "outdoorsy"
       ],
       "bypassLimit": false,
       "data": {
@@ -758,7 +766,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "outdoorsy"
         ],
         "stats": [
           "Morbid meditation focus type allowed."
@@ -838,7 +846,7 @@
 
       ],
       "conflicts": [
-
+        "open-minded"
       ],
       "bypassLimit": false,
       "data": {
@@ -848,7 +856,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "open-minded"
         ],
         "stats": [
 
@@ -868,7 +876,7 @@
 
       ],
       "conflicts": [
-
+        "open-minded"
       ],
       "bypassLimit": false,
       "data": {
@@ -878,7 +886,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "open-minded"
         ],
         "stats": [
 
@@ -1483,7 +1491,7 @@
         "+8% mental break threshold"
       ],
       "conflicts": [
-
+        "heavysleeper"
       ],
       "bypassLimit": false,
       "data": {
@@ -1493,7 +1501,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "heavysleeper"
         ],
         "stats": [
           "+20% global work speed",
@@ -1515,7 +1523,7 @@
         "+14% mental break threshold"
       ],
       "conflicts": [
-
+        "heavysleeper"
       ],
       "bypassLimit": false,
       "data": {
@@ -1525,7 +1533,7 @@
         "mod": "RimWorld",
         "karmaTypeForAdding": null,
         "conflicts": [
-
+          "heavysleeper"
         ],
         "stats": [
           "+40% global work speed",
@@ -2065,7 +2073,7 @@
     {
       "description": "Timmy finds it difficult to sleep because of his condition. he will prioritize sleep less, wake up sooner, and get less rest from sleeping.",
       "stats": [
-
+        "+150% rest rate multiplier"
       ],
       "conflicts": [
         "heavysleeper"
@@ -2081,7 +2089,7 @@
           "heavysleeper"
         ],
         "stats": [
-
+          "+150% rest rate multiplier"
         ]
       },
       "defName": "Insomniac",

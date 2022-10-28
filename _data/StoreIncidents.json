@@ -113,22 +113,12 @@
 	{
 		"abr": "meteor",
 		"price": 150,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "psychicdrone",
-		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "psychicsoothe",
-		"price": 250,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "ambrosiasprout",
@@ -179,6 +169,11 @@
 		"abr": "alphabeavers",
 		"price": 1000,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 2000,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -366,15 +361,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 75
+	"total": 73
 }
