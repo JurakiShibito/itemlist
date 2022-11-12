@@ -39,7 +39,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.4.1.0"
+    "version": "2.5.1.0"
   },
   {
     "author": "Smash Phil | Dr_Zhivago",
@@ -48,10 +48,22 @@
     "version": null
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.3.842.0"
+    "author": "newcolonist",
+    "name": "Large Faction Bases",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. MapGen FactionBase",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AtrociousCollector",
+    "name": "Choose your enemy base",
+    "steamId": "2366709688",
+    "version": "1.0.0.0"
   },
   {
     "author": "miyamiya",
@@ -102,30 +114,6 @@
     "version": "1.4.1"
   },
   {
-    "author": "Telefonmast",
-    "name": "Graphics Settings+",
-    "steamId": "1678847247",
-    "version": "1.0.0"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.4.1.1"
-  },
-  {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Linq",
-    "name": "Psychology (unofficial) v1.1-1.4",
-    "steamId": "2016263135",
-    "version": "1.0.7"
-  },
-  {
     "author": "Uuugggg",
     "name": "Five Second Rule",
     "steamId": "1324190225",
@@ -135,7 +123,7 @@
     "author": "TheEyeOfBrows",
     "name": "Fluffy Breakdowns (1.4 Update)",
     "steamId": "2584064444",
-    "version": "1.1.0"
+    "version": "1.1.3"
   },
   {
     "author": "m00nl1ght",
@@ -148,6 +136,18 @@
     "name": "Guards For Me",
     "steamId": "1855885448",
     "version": "3.0.6.0"
+  },
+  {
+    "author": "Telefonmast",
+    "name": "Graphics Settings+",
+    "steamId": "1678847247",
+    "version": "1.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
   },
   {
     "author": "erdelf",
@@ -213,7 +213,7 @@
     "author": "Little White Mouse",
     "name": "LWM's Deep Storage",
     "steamId": "1617282896",
-    "version": "1.4.0.2"
+    "version": "1.4.0.6"
   },
   {
     "author": "Oskar Potocki and  Kikohi",
@@ -249,7 +249,7 @@
     "author": "pelador",
     "name": "Apothecary (Continued)",
     "steamId": "2195469123",
-    "version": "1.3.2"
+    "version": "1.4.1"
   },
   {
     "author": "Archie",
@@ -324,6 +324,18 @@
     "version": "1.0-20210719-030003"
   },
   {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.3.842.0"
+  },
+  {
+    "author": "Linq",
+    "name": "Psychology (unofficial) v1.1-1.4",
+    "steamId": "2016263135",
+    "version": "1.0.7"
+  },
+  {
     "author": "legodude17",
     "name": "Quality Colors",
     "steamId": "2420141361",
@@ -358,6 +370,12 @@
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
     "version": "2.5.8.10"
+  },
+  {
+    "author": "Kure",
+    "name": "Kure's Rimworld of Magic Class Expansion Pack",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Sierra",
