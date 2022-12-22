@@ -30,6 +30,12 @@
     "version": "1.4.1206.0"
   },
   {
+    "author": "GoryMoon",
+    "name": "CloseAll",
+    "steamId": "2018479759",
+    "version": "1.4.7964.40819"
+  },
+  {
     "author": "miyamiya",
     "name": "Compressed Raid",
     "steamId": "2377478084",
@@ -44,6 +50,12 @@
   {
     "author": "Pyrce",
     "name": "Dire Raids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
     "steamId": null,
     "version": null
   },
