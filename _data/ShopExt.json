@@ -3557,7 +3557,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 500
     },
     {
       "data": {
@@ -3585,7 +3585,7 @@
       },
       "description": "A zombie",
       "defName": "Zombie",
-      "enabled": true,
+      "enabled": false,
       "name": "Zombie",
       "price": 1
     }
