@@ -89,7 +89,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -3397,7 +3397,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "Leather_Pig": {
     "CustomName": null,
@@ -23580,7 +23580,7 @@
     "KarmaType": null
   },
   "Turret_M240B": {
-    "CustomName": null,
+    "CustomName": "m240b-1",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -27337,7 +27337,7 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": null
+    "KarmaType": "Bad"
   },
   "Meat_Dryad_Basic": {
     "CustomName": null,
