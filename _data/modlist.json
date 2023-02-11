@@ -87,7 +87,7 @@
     "author": "Mlie",
     "name": "Durable Clothes (Continued)",
     "steamId": "2015395963",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "author": "Ykara(Original) elStrages(1.4Update)",
@@ -198,6 +198,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Scherub",
+    "name": "Planning Extended",
+    "steamId": "2877392159",
+    "version": "1.6.1"
+  },
+  {
     "author": "Amnabi",
     "name": "Quality And Durability (Continued)",
     "steamId": "2572086023",
@@ -211,15 +217,21 @@
   },
   {
     "author": "Hatti",
-    "name": "QualitySurgeon",
-    "steamId": null,
-    "version": null
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.17"
+  },
+  {
+    "author": "Reiquard",
+    "name": "Quest Expiration Critical Alert",
+    "steamId": "2405632805",
+    "version": "1.0.0.0"
   },
   {
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8420.13342"
+    "version": "1.0.8439.11038"
   },
   {
     "author": "Ratys",
@@ -296,6 +308,12 @@
   {
     "author": "rooki1",
     "name": "Rimsenal - Security Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
     "steamId": null,
     "version": null
   },
@@ -411,7 +429,7 @@
     "author": "Andreas Pardeike",
     "name": "Zombieland",
     "steamId": "928376710",
-    "version": "3.5.0.0"
+    "version": "3.6.0.0"
   },
   {
     "author": "Smash Phil and Neceros",
@@ -422,6 +440,12 @@
   {
     "author": "ELIF",
     "name": "[ELIF] SRTS - Helicopters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
     "steamId": null,
     "version": null
   },
