@@ -3665,6 +3665,216 @@
       },
       "defName": "VCEF_Fisherman",
       "name": "fisherman"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is truly gigantic by the standards of their kind. They are sturdier than usual, but being significantly larger than normal for their kind does slow them down somewhat and make them more prone to early heart attacks and other health-issues.",
+      "stats": [
+        "x130% body size multipler",
+        "x110% construction speed",
+        "x90% move speed",
+        "x80% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x130% body size multipler",
+          "x110% construction speed",
+          "x90% move speed",
+          "x80% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes (Core)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Gigantism",
+      "name": "gigantism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is taller and bulkier than usual for their kind. This makes them sturdier but slightly slower.",
+      "stats": [
+        "x115% body size multipler",
+        "x105% construction speed",
+        "x95% move speed",
+        "x95% lifespan factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x115% body size multipler",
+          "x105% construction speed",
+          "x95% move speed",
+          "x95% lifespan factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes (Core)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Large",
+      "name": "large"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is a bit smaller than usual for their kind.",
+      "stats": [
+        "x80% body size multipler",
+        "x95% mining speed",
+        "x95% construction speed",
+        "x95% deep drilling speed",
+        "x93% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x80% body size multipler",
+          "x95% mining speed",
+          "x95% construction speed",
+          "x95% deep drilling speed",
+          "x93% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes (Core)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Small",
+      "name": "small"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is much smaller than usual for their kind.",
+      "stats": [
+        "x60% body size multipler",
+        "x75% mining speed",
+        "x75% construction speed",
+        "x75% deep drilling speed",
+        "x85% move speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x60% body size multipler",
+          "x75% mining speed",
+          "x75% construction speed",
+          "x75% deep drilling speed",
+          "x85% move speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes (Core)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Dwarfism",
+      "name": "dwarfism"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.35 minimum learning speed",
+        "+15% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.35 minimum learning speed",
+          "+15% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes (Core)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Passioned_Learning",
+      "name": "diligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy learns much faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
+      "stats": [
+        "+0.65 minimum learning speed",
+        "+30% global learning factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+0.65 minimum learning speed",
+          "+30% global learning factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes (Core)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "Very_Passioned_Learning",
+      "name": "verydiligentstudent"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is large enough to use oversized weapons.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Big and Small Genes (Core)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "BS_Giant",
+      "name": "giant"
     }
   ],
   "races": [
@@ -3679,8 +3889,8 @@
           "+100% Melee parry chance",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
@@ -3691,7 +3901,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 500
     },
     {
       "data": {
@@ -3705,8 +3915,8 @@
           "+$8000 Market value",
           "+10.00 Move speed",
           "+0% Psychic sensitivity",
-          "-200.0C Minimum comfortable temperature",
-          "+200.0C Maximum comfortable temperature",
+          "-360.0F Minimum comfortable temperature",
+          "+360.0F Maximum comfortable temperature",
           "+500% Pain shock threshold",
           "+100% Toxic resistance",
           "+15% Mental break threshold",
@@ -3747,8 +3957,8 @@
           "+0 Meat amount",
           "+$4000 Market value",
           "+5.60 Move speed",
-          "-30.0C Minimum comfortable temperature",
-          "+45.0C Maximum comfortable temperature",
+          "-54.0F Minimum comfortable temperature",
+          "+81.0F Maximum comfortable temperature",
           "+42% Mental break threshold",
           "+160% Global learning factor",
           "+140% Global work speed",
@@ -3785,8 +3995,8 @@
           "+0 Meat amount",
           "+$2400 Market value",
           "+5.10 Move speed",
-          "-20.0C Minimum comfortable temperature",
-          "+40.0C Maximum comfortable temperature",
+          "-36.0F Minimum comfortable temperature",
+          "+72.0F Maximum comfortable temperature",
           "+120% Global work speed",
           "+35% Mental break threshold",
           "+120% Global learning factor",
@@ -3823,8 +4033,8 @@
           "+0 Meat amount",
           "+$1600 Market value",
           "+4.10 Move speed",
-          "-10.0C Minimum comfortable temperature",
-          "+35.0C Maximum comfortable temperature",
+          "-18.0F Minimum comfortable temperature",
+          "+63.0F Maximum comfortable temperature",
           "+80% Global work speed",
           "+28% Mental break threshold",
           "+80% Global learning factor",
@@ -3860,8 +4070,8 @@
           "+0 Meat amount",
           "+$1000 Market value",
           "+3.60 Move speed",
-          "+0.0C Minimum comfortable temperature",
-          "+30.0C Maximum comfortable temperature",
+          "+0.0F Minimum comfortable temperature",
+          "+54.0F Maximum comfortable temperature",
           "+16% Mental break threshold",
           "+0% Global learning factor",
           "+60% Global work speed",
@@ -3898,8 +4108,8 @@
           "+0 Meat amount",
           "+$18000 Market value",
           "+5.20 Move speed",
-          "-200.0C Minimum comfortable temperature",
-          "+200.0C Maximum comfortable temperature",
+          "-360.0F Minimum comfortable temperature",
+          "+360.0F Maximum comfortable temperature",
           "+11.56 Armor - Sharp",
           "+18.889 Armor - Blunt",
           "+100.0% Armor - Heat",

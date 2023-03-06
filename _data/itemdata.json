@@ -10319,7 +10319,7 @@
     "Mod": "Biotech",
     "KarmaType": null
   },
-  "AdvancedArchotechLeg": {
+  "BATR_Titan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10336,10 +10336,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small for Android Tiers Reforged",
     "KarmaType": null
   },
-  "AdvancedArchotechArm": {
+  "BATR_Bouncer": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10356,10 +10356,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small for Android Tiers Reforged",
     "KarmaType": null
   },
-  "ArchotechObliterator": {
+  "BATR_Roomba": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10376,10 +10376,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small for Android Tiers Reforged",
     "KarmaType": null
   },
-  "ArchotechHeart": {
+  "BATR_Mechanic": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10396,10 +10396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small for Android Tiers Reforged",
     "KarmaType": null
   },
-  "ArchotechKidney": {
+  "BATR_Ogre": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10416,10 +10416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small for Android Tiers Reforged",
     "KarmaType": null
   },
-  "ArchotechLiver": {
+  "BATR_Jotun": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10436,10 +10436,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small for Android Tiers Reforged",
     "KarmaType": null
   },
-  "ArchotechPelvis": {
+  "BS_MealLargeLavish_Meat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10456,10 +10456,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small Genes (Core)",
     "KarmaType": null
   },
-  "ArchotechSpine": {
+  "BS_MealLargeLavish_Veg": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10476,10 +10476,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small Genes (Core)",
     "KarmaType": null
   },
-  "ArchotechLung": {
+  "BS_MealLargeLavish": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10496,10 +10496,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small Genes (Core)",
     "KarmaType": null
   },
-  "ArchotechStomach": {
+  "BS_MealLargeFine_Meat": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10516,10 +10516,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small Genes (Core)",
     "KarmaType": null
   },
-  "ArchotechDenture": {
+  "BS_MealLargeFine_Veg": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10536,10 +10536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small Genes (Core)",
     "KarmaType": null
   },
-  "ArchotechEar": {
+  "BS_MealLargeFine": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10556,10 +10556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small Genes (Core)",
     "KarmaType": null
   },
-  "ArchotechDeathClaw": {
+  "BS_MealLargeSimple": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10576,10 +10576,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small Genes (Core)",
     "KarmaType": null
   },
-  "ArchotechBrainMelder": {
+  "BS_MealLargeSurvivalPack": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -10596,107 +10596,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Archotech Expanded",
-    "KarmaType": null
-  },
-  "ArchotechMembrane": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Archotech Expanded",
-    "KarmaType": null
-  },
-  "BasicArchotechWorkbench": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Archotech Expanded",
-    "KarmaType": null
-  },
-  "Attomachinery": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Archotech Expanded",
-    "KarmaType": null
-  },
-  "Picomachinery": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Archotech Expanded",
-    "KarmaType": null
-  },
-  "Nanomachinery": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1.0,
-    "ResearchOverrides": null,
-    "IsUsable": false,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Archotech Expanded",
+    "Mod": "Big and Small Genes (Core)",
     "KarmaType": null
   },
   "VFEI_InsectoidLeg": {
@@ -35909,7 +35809,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -35929,7 +35829,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -35949,7 +35849,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -35969,7 +35869,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -35989,7 +35889,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -36009,7 +35909,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -36029,7 +35929,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -36049,7 +35949,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -36069,7 +35969,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -36089,7 +35989,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -36109,7 +36009,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -36129,7 +36029,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
