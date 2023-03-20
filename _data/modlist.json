@@ -139,6 +139,12 @@
   },
   {
     "author": "3HST Limited",
+    "name": "Bill Doors' Luxury Guns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "3HST Limited",
     "name": "Bill Doors' Framework",
     "steamId": "2897160312",
     "version": "1.0.0.0"
@@ -148,6 +154,12 @@
     "name": "Bill Doors' Plasma Weapons",
     "steamId": "2937054043",
     "version": "1.0.0"
+  },
+  {
+    "author": "Syrus",
+    "name": "Biosculpter Pod and Neural Supercharger Resize",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Krkr",
@@ -291,7 +303,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.11.0.0"
+    "version": "1.12.1.0"
   },
   {
     "author": "Windward'Snow",
@@ -351,7 +363,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8461.5369"
+    "version": "1.0.8473.41945"
   },
   {
     "author": "Ratys",

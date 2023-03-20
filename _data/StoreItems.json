@@ -686,7 +686,7 @@
 	},
 	{
 		"abr": "chickenegg(unfert.)",
-		"price": -10,
+		"price": 12,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized"
 	},
@@ -740,7 +740,7 @@
 	},
 	{
 		"abr": "duckegg(unfert.)",
-		"price": -10,
+		"price": 12,
 		"category": "Eggs (unfert.)",
 		"defname": "EggDuckUnfertilized"
 	},
@@ -752,7 +752,7 @@
 	},
 	{
 		"abr": "gooseegg(unfert.)",
-		"price": -10,
+		"price": 15,
 		"category": "Eggs (unfert.)",
 		"defname": "EggGooseUnfertilized"
 	},
@@ -3236,7 +3236,7 @@
 	},
 	{
 		"abr": "insectoidegg(unfert.)",
-		"price": -10,
+		"price": 5,
 		"category": "Eggs (unfert.)",
 		"defname": "VFEI_EggInsectoidUnfertilized"
 	},
@@ -5845,12 +5845,6 @@
 		"defname": "ATR_DroneResurrectorKit"
 	},
 	{
-		"abr": "swarmshell",
-		"price": 292,
-		"category": "Mortar shells",
-		"defname": "ATR_MicroscytherShell"
-	},
-	{
 		"abr": "chemicalcapsule",
 		"price": 8,
 		"category": "Manufactured",
@@ -5900,7 +5894,7 @@
 	},
 	{
 		"abr": "mechpoleaxe",
-		"price": 6667,
+		"price": -10,
 		"category": "Mech weapons",
 		"defname": "ATR_MechPoleaxe"
 	},
@@ -7196,7 +7190,7 @@
 	},
 	{
 		"abr": "archostrichegg(unfert.)",
-		"price": -10,
+		"price": 38,
 		"category": "Eggs (unfert.)",
 		"defname": "EggArchostrichUnfertilized"
 	},
@@ -7334,91 +7328,91 @@
 	},
 	{
 		"abr": "shipblueprint(heavybomber)",
-		"price": 3333,
+		"price": -10,
 		"category": "Ship blueprints",
 		"defname": "ShipBPBomberHeavy"
 	},
 	{
 		"abr": "shipblueprint(fireflytransport)",
-		"price": 6667,
+		"price": -10,
 		"category": "Ship blueprints",
 		"defname": "ShipBPCargoFirefly"
 	},
 	{
 		"abr": "shipblueprint(corvette)",
-		"price": 6667,
+		"price": -10,
 		"category": "Ship blueprints",
 		"defname": "ShipBPCorvette"
 	},
 	{
 		"abr": "shipblueprint(corvettegunship)",
-		"price": 6667,
+		"price": -10,
 		"category": "Ship blueprints",
 		"defname": "ShipBPCorvetteGunship"
 	},
 	{
 		"abr": "shipblueprint(torpedocorvette)",
-		"price": 6667,
+		"price": -10,
 		"category": "Ship blueprints",
 		"defname": "ShipBPCorvetteTorp"
 	},
 	{
 		"abr": "shipblueprint(corvette)",
-		"price": 6667,
+		"price": -10,
 		"category": "Ship blueprints",
 		"defname": "ShipBPCorvetteWinged"
 	},
 	{
 		"abr": "shipblueprint(archerfrigate)",
-		"price": 10000,
+		"price": -10,
 		"category": "Ship blueprints",
 		"defname": "ShipBPFrigateArcher"
 	},
 	{
 		"abr": "shipblueprint(frigate)",
-		"price": 10000,
+		"price": -10,
 		"category": "Ship blueprints",
 		"defname": "ShipBPFrigateWinged"
 	},
 	{
 		"abr": "shipblueprint(ancientmartiancorvette)",
-		"price": 6667,
+		"price": -10,
 		"category": "Ship blueprints",
 		"defname": "ShipBPTachinante"
 	},
 	{
 		"abr": "shipblueprint(smalltransport)",
-		"price": 3333,
+		"price": -10,
 		"category": "Ship blueprints",
 		"defname": "ShipBPTransportSmall"
 	},
 	{
 		"abr": "archotechuplink",
-		"price": 8542,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ArchotechUplink"
 	},
 	{
 		"abr": "archotechpillaralpha",
-		"price": 16783,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipArchotechPillarA"
 	},
 	{
 		"abr": "archotechpillarbeta",
-		"price": 16783,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipArchotechPillarB"
 	},
 	{
 		"abr": "archotechpillargamma",
-		"price": 16783,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipArchotechPillarC"
 	},
 	{
 		"abr": "archotechpillardelta",
-		"price": 16783,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipArchotechPillarD"
 	},
@@ -7478,7 +7472,7 @@
 	},
 	{
 		"abr": "psychicflayercore",
-		"price": 6667,
+		"price": -10,
 		"category": "Items",
 		"defname": "ArchotechPsychicCore"
 	},
@@ -10963,12 +10957,6 @@
 		"defname": "Ammo_20x42mmGrenade_HE"
 	},
 	{
-		"abr": "20x42mmgrenade(he-airburst)",
-		"price": 4,
-		"category": "20x42mm Grenade",
-		"defname": "Ammo_20x42mmGrenade_HE_TFuzed"
-	},
-	{
 		"abr": "20x42mmgrenade(emp)",
 		"price": 5,
 		"category": "20x42mm Grenade",
@@ -12253,30 +12241,6 @@
 		"defname": "Ammo_12Gauge_ElectroSlug"
 	},
 	{
-		"abr": "20gaugeshell(buck)",
-		"price": 1,
-		"category": "20 gauge",
-		"defname": "Ammo_20Gauge_Buck"
-	},
-	{
-		"abr": "20gaugeshell(slug)",
-		"price": 1,
-		"category": "20 gauge",
-		"defname": "Ammo_20Gauge_Slug"
-	},
-	{
-		"abr": "20gaugeshell(bean)",
-		"price": 1,
-		"category": "20 gauge",
-		"defname": "Ammo_20Gauge_Beanbag"
-	},
-	{
-		"abr": "20gaugeshell(emp)",
-		"price": 1,
-		"category": "20 gauge",
-		"defname": "Ammo_20Gauge_ElectroSlug"
-	},
-	{
 		"abr": "23x75mmrshell(buck)",
 		"price": 1,
 		"category": "23x75mmR",
@@ -12948,6 +12912,96 @@
 		"category": "Meals",
 		"defname": "BS_MealLargeLavish_Veg"
 	},
+	{
+		"abr": "pacificationarm",
+		"price": 883,
+		"category": "Mechanical",
+		"defname": "ATR_PacificationArm"
+	},
+	{
+		"abr": "rendingarm",
+		"price": 883,
+		"category": "Mechanical",
+		"defname": "ATR_RendingArm"
+	},
+	{
+		"abr": "scalpelarm",
+		"price": 883,
+		"category": "Mechanical",
+		"defname": "ATR_ScalpelArm"
+	},
+	{
+		"abr": "12gaugeshell(bird)",
+		"price": 1,
+		"category": "12 gauge",
+		"defname": "AVCE_Ammo_12Gauge_Bird"
+	},
+	{
+		"abr": "23x75mmrshell(bird)",
+		"price": 1,
+		"category": "23x75mmR",
+		"defname": "AVCE_Ammo_23x75mmR_Bird"
+	},
+	{
+		"abr": "12gaugeshell(breaching)",
+		"price": 1,
+		"category": "12 gauge",
+		"defname": "AVCE_Ammo_12Gauge_Breaching"
+	},
+	{
+		"abr": "23x75mmrshell(breaching)",
+		"price": 1,
+		"category": "23x75mmR",
+		"defname": "AVCE_Ammo_23x75mmR_Breaching"
+	},
+	{
+		"abr": "12gaugeshell(dart)",
+		"price": 1,
+		"category": "12 gauge",
+		"defname": "AVCE_Ammo_12Gauge_Dart"
+	},
+	{
+		"abr": "23x75mmrshell(dart)",
+		"price": 1,
+		"category": "23x75mmR",
+		"defname": "AVCE_Ammo_23x75mmR_Dart"
+	},
+	{
+		"abr": "12gaugeshell(dragon'sbreath)",
+		"price": 1,
+		"category": "12 gauge",
+		"defname": "AVCE_Ammo_12Gauge_DragonsBreath"
+	},
+	{
+		"abr": "23x75mmrshell(dragon'sbreath)",
+		"price": 3,
+		"category": "23x75mmR",
+		"defname": "AVCE_Ammo_23x75mmR_DragonsBreath"
+	},
+	{
+		"abr": "12gaugeshell(frag)",
+		"price": 2,
+		"category": "12 gauge",
+		"defname": "AVCE_Ammo_12Gauge_Frag"
+	},
+	{
+		"abr": "23x75mmrshell(frag)",
+		"price": 6,
+		"category": "23x75mmR",
+		"defname": "AVCE_Ammo_23x75mmR_Frag"
+	},
+	{
+		"abr": "12gaugeshell(muzzlebang)",
+		"price": 1,
+		"category": "12 gauge",
+		"defname": "AVCE_Ammo_12Gauge_Muzzlebang"
+	},
+	{
+		"abr": "23x75mmrshell(muzzlebang)",
+		"price": 1,
+		"category": "23x75mmR",
+		"defname": "AVCE_Ammo_23x75mmR_Muzzlebang"
+	},
 	],
-	"total": 2171
+	"total": 2187
 }
