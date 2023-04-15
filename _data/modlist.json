@@ -162,6 +162,12 @@
     "version": null
   },
   {
+    "author": "Darknote",
+    "name": "Bunk Beds",
+    "steamId": "2961752749",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Krkr",
     "name": "CAI 5000 - Advanced AI + Fog Of War",
     "steamId": "2938891185",
@@ -210,6 +216,12 @@
     "version": null
   },
   {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Pyrce",
     "name": "Dire Raids",
     "steamId": null,
@@ -249,7 +261,7 @@
     "author": "Mlie",
     "name": "Durable Clothes (Continued)",
     "steamId": "2015395963",
-    "version": "1.4.3"
+    "version": "1.4.4"
   },
   {
     "author": "Ykara(Original) elStrages(1.4Update)",
@@ -300,10 +312,34 @@
     "version": "2.6.0.0"
   },
   {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kentington, Thain and SonicTHI",
+    "name": "Save Our Ship 2",
+    "steamId": "1909914131",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Pyrce",
+    "name": "TerrainMovementKit",
+    "steamId": "2048567351",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "Xeyeco",
+    "name": "Manned Maneuvering Unit",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.1.0"
+    "version": "1.12.4.0"
   },
   {
     "author": "Windward'Snow",
@@ -363,7 +399,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8473.41945"
+    "version": "1.0.8494.5276"
   },
   {
     "author": "Ratys",
@@ -460,18 +496,6 @@
     "name": "SRTS Expanded (continued)",
     "steamId": "2938738526",
     "version": "1.5.0"
-  },
-  {
-    "author": "Murmur",
-    "name": "Wall Light",
-    "steamId": "1423699208",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Kentington, Thain and SonicTHI",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": "0.0.0.0"
   },
   {
     "author": "Roolo",

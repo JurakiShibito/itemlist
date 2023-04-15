@@ -3940,9 +3940,9 @@
       },
       "description": "It is undeniable that this is an archotech device in the form of a mechanical humanoid. It is also undeniable that this is not a true archotech, however. It enigmatically states that \"I myself am a common misconception about archotechs,\" and refuses to elaborate - and also admits that it lies about its birthdate. It is of completely alien comprehension, and can not integrate with the SkyMind. Beings such as this speak nothing of their origin, purpose, or reason for being on a rim world. What could it want, and why does it seem content to participate in normal society? \n\nAnd why are clothes the only thing it refuses to participate in and seems upset by - is it some secret archotech code?",
       "defName": "ATR_Tier5Android",
-      "enabled": false,
+      "enabled": true,
       "name": "T5 Android",
-      "price": 13333
+      "price": 150000
     },
     {
       "data": {
@@ -3983,7 +3983,7 @@
       },
       "description": "The pinnacle of known android theory and practice, the class of tier four androids is marked by the possession of a special AI persona core. While these cores are ultratech technology, the chassis and internals are all high spacer technology. \n\nTier four androids are a cut above the rest, and they know it too - ego complexes and disdain toward others are very common amongst them.",
       "defName": "ATR_Tier4Android",
-      "enabled": false,
+      "enabled": true,
       "name": "T4 Android",
       "price": 6667
     },
@@ -4103,7 +4103,7 @@
       "defName": "ATR_Tier1Android",
       "enabled": true,
       "name": "T1 Android",
-      "price": 1667
+      "price": 500
     },
     {
       "data": {
