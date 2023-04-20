@@ -3909,9 +3909,9 @@
         "stats": [
           "+92.50 Mass",
           "+0% Flammability",
-          "+1.3 Melee dodge chance",
-          "+125% Melee critical chance",
-          "+125% Melee parry chance",
+          "+0.0 Melee dodge chance",
+          "+0% Melee critical chance",
+          "+0% Melee parry chance",
           "+$8000 Market value",
           "+10.00 Move speed",
           "+0% Psychic sensitivity",
@@ -3926,14 +3926,9 @@
           "+0 Leather amount",
           "+0 Meat amount",
           "+10.00% Social impact",
-          "+78 Armor - Blunt",
-          "+35 Armor - Sharp",
-          "+60% Night vision efficiency",
-          "+125.00% Aiming accuracy",
-          "+0% Smoke sensitivity",
-          "+20% Suppressability",
-          "+80 Carry weight",
-          "+40 Bulk capacity"
+          "+23.111 Armor - Blunt",
+          "+14.72 Armor - Sharp",
+          "+14.72 Body part RHA"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -4016,14 +4011,16 @@
           "+140% Maintenance retention efficiency",
           "+25% Night vision efficiency",
           "+20% Suppressability",
-          "+0% Smoke sensitivity"
+          "+0% Smoke sensitivity",
+          "+45 Carry weight",
+          "+22.5 Bulk capacity"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
       "description": "Androids classified as tier three are often qualified by their large stature - standing at a height ranging from seven to nine feet - and impressive capabilities. They are incredibly durable, modular, and capable. Requiring extensive amounts of rare resources, they are generally only mass-produced on glitterworlds.",
       "defName": "ATR_Tier3Android",
-      "enabled": false,
+      "enabled": true,
       "name": "T3 Android",
       "price": 4000
     },
@@ -4062,7 +4059,7 @@
       },
       "description": "The most common tier of androids, tier two androids are classified as the lowest specifications required for fully autonomous sapience. When fully clothed or when viewed from afar, they are easily mistaken for shorter, scrawnier humans. Indeed, tier two intelligences are often the most humanlike and most likely to seek integration into human society.",
       "defName": "ATR_Tier2Android",
-      "enabled": false,
+      "enabled": true,
       "name": "T2 Android",
       "price": 2667
     },
@@ -4111,9 +4108,9 @@
         "stats": [
           "+450.00 Mass",
           "+0% Flammability",
-          "+1.0 Melee dodge chance",
-          "+100% Melee critical chance",
-          "+100% Melee parry chance",
+          "+0.0 Melee dodge chance",
+          "+0% Melee critical chance",
+          "+0% Melee parry chance",
           "+100% Pain shock threshold",
           "+0% Psychic sensitivity",
           "+100% Toxic resistance",
@@ -4125,8 +4122,8 @@
           "+5.20 Move speed",
           "-360.0F Minimum comfortable temperature",
           "+360.0F Maximum comfortable temperature",
-          "+30 Armor - Sharp",
-          "+67.5 Armor - Blunt",
+          "+11.56 Armor - Sharp",
+          "+18.889 Armor - Blunt",
           "+100.0% Armor - Heat",
           "+20% Injury healing factor",
           "+75% Incoming damage multiplier",
@@ -4134,10 +4131,7 @@
           "+0% Stagger time multiplier",
           "+90% EMP resistance",
           "+80% Maintenance retention efficiency",
-          "+40% Night vision efficiency",
-          "+0% Smoke sensitivity",
-          "+200 Carry weight",
-          "+100 Bulk capacity"
+          "+11.56 Body part RHA"
         ],
         "mod": "Unknown",
         "karmaType": null
