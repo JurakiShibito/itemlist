@@ -9046,535 +9046,535 @@
       "abr": "caviar",
       "category": "Meals",
       "defname": "RH2_Ration_Caviar",
-      "price": -10
+      "price": 50
     },
     {
       "abr": "ultraboostimplant",
       "category": "Elite collection",
       "defname": "DF_UltraBoost_Implant",
-      "price": -10
+      "price": 25000
     },
     {
       "abr": "devil'simplant",
       "category": "Elite collection",
       "defname": "DF_Devils_Implant",
-      "price": -10
+      "price": 25000
     },
     {
       "abr": "volatileimplant",
       "category": "Elite collection",
       "defname": "DF_Volatile_Implant",
-      "price": -10
+      "price": 25000
     },
     {
       "abr": "x-duskimplant",
       "category": "Elite collection",
       "defname": "DF_XDusk_Implant",
-      "price": -10
+      "price": 25000
     },
     {
       "abr": "dawnimplant",
       "category": "Elite collection",
       "defname": "DF_Dawn_Implant",
-      "price": -10
+      "price": 41667
     },
     {
       "abr": "trinityimplant",
       "category": "Epic collection",
       "defname": "DF_Trinity_Implant",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "ghastlyimplant",
       "category": "Epic collection",
       "defname": "DF_Ghastly_Implant",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "celerityimplant",
       "category": "Epic collection",
       "defname": "DF_Celerity_Implant",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "scrutinyimplant",
       "category": "Epic collection",
       "defname": "DF_Scrutiny_Implant",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "versatilityimplant",
       "category": "Epic collection",
       "defname": "DF_Versatility_Implant",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "masteryimplant",
       "category": "Epic collection",
       "defname": "DF_Mastery_Implant",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "calamityimplant",
       "category": "Epic collection",
       "defname": "DF_Calamity_Implant",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "lethalityimplant",
       "category": "Epic collection",
       "defname": "DF_Lethality_Implant",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "mortalityimplant",
       "category": "Epic collection",
       "defname": "DF_Mortality_Implant",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "prosperityimplant",
       "category": "Epic collection",
       "defname": "DF_Prosperity_Implant",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "motlimplant",
       "category": "Voidtech",
       "defname": "DF_MOTL_Implant",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "hasteimplant",
       "category": "Voidtech",
       "defname": "DF_Haste_Implant",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "cateyeimplant",
       "category": "Voidtech",
       "defname": "DF_CatEye_Implant",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "ghostimplant",
       "category": "Voidtech",
       "defname": "DF_Ghost_Implant",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "destructionimplant",
       "category": "Voidtech",
       "defname": "DF_Destruction_Implant",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "amberimplant",
       "category": "Voidtech",
       "defname": "DF_Amber_Implant",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "geniusimplant",
       "category": "Voidtech",
       "defname": "DF_Genius_Implant",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "goldenrabbitimplant",
       "category": "Voidtech",
       "defname": "DF_GoldenRabbit_Implant",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "dataimplant",
       "category": "Voidtech",
       "defname": "DF_Data_Implant",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "havocimplant",
       "category": "Voidtech",
       "defname": "DF_Havoc_Implant",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "superseducerimplant",
       "category": "Bionic",
       "defname": "RH_AestheticShaper",
-      "price": -10
+      "price": 3717
     },
     {
       "abr": "v.o.i.d.implant",
       "category": "Voidtech",
       "defname": "DF_Voidtech_Implant",
-      "price": -10
+      "price": 58333
     },
     {
       "abr": "x-hyperimplant",
       "category": "X collection",
       "defname": "DF_XHyper_Implant",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "x-perceptionimplant",
       "category": "X collection",
       "defname": "DF_XPerception_Implant",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "x-ironskinimplant",
       "category": "X collection",
       "defname": "DF_XIronskin_Implant",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "x-violenceimplant",
       "category": "X collection",
       "defname": "DF_XViolence_Implant",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "voidtecheye",
       "category": "Voidtech",
       "defname": "RH2_VOIDArchotechEye",
-      "price": -10
+      "price": 7500
     },
     {
       "abr": "voidtecharm",
       "category": "Voidtech",
       "defname": "RH2_VOIDArchotechArm",
-      "price": -10
+      "price": 5333
     },
     {
       "abr": "voidtechleg",
       "category": "Voidtech",
       "defname": "RH2_VOIDArchotechLeg",
-      "price": -10
+      "price": 7500
     },
     {
       "abr": "nerotonin-vserum",
       "category": "Nerotonin serum",
       "defname": "RH2_NerotoninV_Implant",
-      "price": -10
+      "price": 416667
     },
     {
       "abr": "nerotonin-2bserum",
       "category": "Nerotonin serum",
       "defname": "RH2_Nerotonin2b_Implant",
-      "price": -10
+      "price": 433333
     },
     {
       "abr": "nerotonin-4bserum",
       "category": "Nerotonin serum",
       "defname": "RH2_Nerotonin4b_Implant",
-      "price": -10
+      "price": 833333
     },
     {
       "abr": "voidtechspine",
       "category": "Voidtech",
       "defname": "RH_VOIDBionicSpine",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "voidtechheart",
       "category": "Voidtech",
       "defname": "RH_VOIDBionicHeart",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "voidtechstomach",
       "category": "Voidtech",
       "defname": "RH_VOIDBionicStomach",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "voidtechear",
       "category": "Voidtech",
       "defname": "RH_VOIDBionicEar",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "voidtechlung",
       "category": "Voidtech",
       "defname": "RH_VOIDBionicLung",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "voidtechkidney",
       "category": "Voidtech",
       "defname": "RH_VOIDBionicKidney",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "voidtechliver",
       "category": "Voidtech",
       "defname": "RH_VOIDBionicLiver",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "voidtechhalf-cycler",
       "category": "Voidtech",
       "defname": "RH_VOIDCircadianHalfCycler",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "voidtechaiimplant",
       "category": "Voidtech",
       "defname": "VOIDBrain_Implant",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "voidtechnose",
       "category": "Voidtech",
       "defname": "RH_VOIDAestheticNose",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "n-4controlimplant",
       "category": "Voidtech",
       "defname": "Void_SecronomControlChip",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "corpobed",
       "category": "Furniture",
       "defname": "RH2_CorpoBed",
-      "price": -10
+      "price": 157
     },
     {
       "abr": "corpodoublebed",
       "category": "Furniture",
       "defname": "RH2_CorpoDoubleBed",
-      "price": -10
+      "price": 633
     },
     {
       "abr": "voidtechpowercell",
       "category": "Special",
       "defname": "RH_VOIDPowerCell",
-      "price": -10
+      "price": 166667
     },
     {
       "abr": "corpoarmchair",
       "category": "Furniture",
       "defname": "RH_Corpo_Armchair",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "corpotable(1x2)",
       "category": "Furniture",
       "defname": "RH_Corpo_Table1x2c",
-      "price": -10
+      "price": 98
     },
     {
       "abr": "corpodesk(1x2)",
       "category": "Furniture",
       "defname": "RH_Corpo_Desk1x2c",
-      "price": -10
+      "price": 98
     },
     {
       "abr": "corpotable(2x4)",
       "category": "Furniture",
       "defname": "RH_Corpo_Table2x4c",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "corpotable(1x1)",
       "category": "Furniture",
       "defname": "RH_Corpo_Table1x1c",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "corpolamp",
       "category": "Furniture",
       "defname": "RH_Corpo_StandingLamp",
-      "price": -10
+      "price": 81
     },
     {
       "abr": "corpolamp(red)",
       "category": "Furniture",
       "defname": "RH_Corpo_StandingLamp_Red",
-      "price": -10
+      "price": 81
     },
     {
       "abr": "corpolamp(green)",
       "category": "Furniture",
       "defname": "RH_Corpo_StandingLamp_Green",
-      "price": -10
+      "price": 81
     },
     {
       "abr": "corpolamp(blue)",
       "category": "Furniture",
       "defname": "RH_Corpo_StandingLamp_Blue",
-      "price": -10
+      "price": 81
     },
     {
       "abr": "corpodrape",
       "category": "Furniture",
       "defname": "RH_Corpo_Drape",
-      "price": -10
+      "price": 608
     },
     {
       "abr": "meetingwhiteboard(graphs)",
       "category": "Furniture",
       "defname": "RH_Corpo_Whiteboard_A",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "meetingwhiteboard(charts)",
       "category": "Furniture",
       "defname": "RH_Corpo_Whiteboard_B",
-      "price": -10
+      "price": 442
     },
     {
       "abr": "corpobrazier",
       "category": "Furniture",
       "defname": "RH_Corpo_Brazier",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "redwine",
       "category": "Drugs",
       "defname": "RH_RedWine",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "nerotonin-8b",
       "category": "Misc",
       "defname": "RH_Nerotonin8B",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "v.o.i.d.reactive",
       "category": "Fairview armor",
       "defname": "RHApparel_VOIDReactive_PowerArmor",
-      "price": -10
+      "price": 8333
     },
     {
       "abr": "vengeanceguard",
       "category": "Fairview armor",
       "defname": "RHApparel_VengeanceGuard_PowerArmor",
-      "price": -10
+      "price": 41667
     },
     {
       "abr": "v.o.i.d.helmet",
       "category": "Headgear",
       "defname": "RHApparel_VOIDReactive_Helmet",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "duskhelmet",
       "category": "Headgear",
       "defname": "RHApparel_DuskReactive_Helmet",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "cloakhood",
       "category": "Headgear",
       "defname": "RHApparel_DFCloak_Hood",
-      "price": -10
+      "price": 144
     },
     {
       "abr": "cloak",
       "category": "Apparel",
       "defname": "RHApparel_DFCloak_Poncho",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "voidtechskin",
       "category": "Voidtech apparel",
       "defname": "RHApparel_VOID_SpeedSkin",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "voidtechsuit",
       "category": "Voidtech apparel",
       "defname": "RHApparel_VOID_BusinessSuit",
-      "price": -10
+      "price": 742
     },
     {
       "abr": "duskrazor",
       "category": "Melee weapons",
       "defname": "RNMelee_DFDuskBlade_Sword",
-      "price": -10
+      "price": 3500
     },
     {
       "abr": "amputator",
       "category": "Melee weapons",
       "defname": "RNMelee_DFAmputator_Blade",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "dualblade",
       "category": "Melee weapons",
       "defname": "RNMelee_DFDual_Blade",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "grinder",
       "category": "Melee weapons",
       "defname": "RNMelee_DFGrinder_Chainsaw",
-      "price": -10
+      "price": 5417
     },
     {
       "abr": "longshotpp-10",
       "category": "Ranged weapons",
       "defname": "RNGun_Longshot_PP10AMR",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "wraithcannon",
       "category": "Ranged weapons",
       "defname": "RNGun_WraithCannon_HMG",
-      "price": -10
+      "price": 16667
     },
     {
       "abr": "gau-19",
       "category": "Ranged weapons",
       "defname": "RNGun_GAU19_HMG",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "duskmag",
       "category": "Ranged weapons",
       "defname": "RNGun_DuskMAG_HMG",
-      "price": -10
+      "price": 8083
     },
     {
       "abr": "corpseblaster",
       "category": "Ranged weapons",
       "defname": "RNGun_CorpseBlaster_Shotgun",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "duskstriker",
       "category": "Ranged weapons",
       "defname": "RNGun_DuskStriker_Shotgun",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "duskenforcer",
       "category": "Ranged weapons",
       "defname": "RNGun_DuskEnforcer_Revolver",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "corpsedestroyer",
       "category": "Ranged weapons",
       "defname": "RNGun_CorpseDestroyer_GPMG",
-      "price": -10
+      "price": 4167
     },
     {
       "abr": "duskcarbine",
       "category": "Ranged weapons",
       "defname": "RNGun_DuskCarbine_DMR",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "gaussrifle",
       "category": "Ranged weapons",
       "defname": "RNGun_DFGAUSSRifle_AMR",
-      "price": -10
+      "price": 8333
     },
     {
       "abr": "slabbed",
@@ -10306,103 +10306,103 @@
       "abr": "mothermeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_Mother",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "titanmeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_Titan",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "wraithmeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_Wraith",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "giantspidermeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_GiantSpider",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "stalkermeat",
       "category": "Meat",
       "defname": "Meat_RH_DF2_Stalker",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "evolvedrumblermeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_EvolvedRumbler",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "evolvedlongarmsmeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_EvolvedLongArms",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "irridiatedlongarmsmeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_IrridiatedLongArms",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "volatileleapermeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_VolatileLeaper",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "blacktitanmeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_BlackTitan",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "blackwraithmeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_BlackWraith",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "blackleapermeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_BlackLeaper",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "devilhoundmeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_DevilHound",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "tendrilmeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_Tendril",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "bonemeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_Bone",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "roidhulkmeat",
       "category": "Meat",
       "defname": "Meat_RH_DF2_RoidHulk",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "reapermeat",
       "category": "Meat",
       "defname": "Meat_RH_DF_Reaper",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "techprint(cataphractarmor)",
@@ -13183,6 +13183,78 @@
       "price": 8
     },
     {
+      "abr": "animalgiantizer",
+      "category": "Misc",
+      "defname": "BS_Giant_Serum",
+      "price": 1667
+    },
+    {
+      "abr": "animalminimizer",
+      "category": "Misc",
+      "defname": "BS_Shrink_Serum",
+      "price": 1667
+    },
+    {
+      "abr": "archotechstargate",
+      "category": "Special",
+      "defname": "StargateMod_Stargate",
+      "price": -10
+    },
+    {
+      "abr": "dialhomedevice",
+      "category": "Special",
+      "defname": "StargateMod_DialHomeDevice",
+      "price": 14150
+    },
+    {
+      "abr": "encodedflare(bombardment)",
+      "category": "Utility",
+      "defname": "Belt_Flare_bombardment",
+      "price": 917
+    },
+    {
+      "abr": "encodedflare(evac)",
+      "category": "Utility",
+      "defname": "Belt_Flare_Evac",
+      "price": 917
+    },
+    {
+      "abr": "irisinstallationkit",
+      "category": "Items",
+      "defname": "StargateMod_IrisInstallKit",
+      "price": 8675
+    },
+    {
+      "abr": "makeshiftstargate",
+      "category": "Special",
+      "defname": "StargateMod_OrlinStargate",
+      "price": -10
+    },
+    {
+      "abr": "mechanitorneedlerifle",
+      "category": "Ranged weapons",
+      "defname": "WS_MechaNSR",
+      "price": 600
+    },
+    {
+      "abr": "needlesniperturret",
+      "category": "Security",
+      "defname": "WS_Turret_NeedleSniperTurret",
+      "price": 725
+    },
+    {
+      "abr": "stargate",
+      "category": "Special",
+      "defname": "StargateMod_AdvancedStargate",
+      "price": -10
+    },
+    {
+      "abr": "stargatecoordinates",
+      "category": "Artifacts",
+      "defname": "StargateMod_GlyphScrap",
+      "price": 25000
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
@@ -13355,78 +13427,6 @@
       "category": "Furniture",
       "defname": "LMGG_Thing_RepairDoubleBedGuest",
       "price": 8150
-    },
-    {
-      "abr": "animalgiantizer",
-      "category": "Misc",
-      "defname": "BS_Giant_Serum",
-      "price": 1667
-    },
-    {
-      "abr": "animalminimizer",
-      "category": "Misc",
-      "defname": "BS_Shrink_Serum",
-      "price": 1667
-    },
-    {
-      "abr": "archotechstargate",
-      "category": "Special",
-      "defname": "StargateMod_Stargate",
-      "price": 3333
-    },
-    {
-      "abr": "dialhomedevice",
-      "category": "Special",
-      "defname": "StargateMod_DialHomeDevice",
-      "price": 14150
-    },
-    {
-      "abr": "encodedflare(bombardment)",
-      "category": "Utility",
-      "defname": "Belt_Flare_bombardment",
-      "price": 917
-    },
-    {
-      "abr": "encodedflare(evac)",
-      "category": "Utility",
-      "defname": "Belt_Flare_Evac",
-      "price": 917
-    },
-    {
-      "abr": "irisinstallationkit",
-      "category": "Items",
-      "defname": "StargateMod_IrisInstallKit",
-      "price": 8675
-    },
-    {
-      "abr": "makeshiftstargate",
-      "category": "Special",
-      "defname": "StargateMod_OrlinStargate",
-      "price": 1750
-    },
-    {
-      "abr": "mechanitorneedlerifle",
-      "category": "Ranged weapons",
-      "defname": "WS_MechaNSR",
-      "price": 600
-    },
-    {
-      "abr": "needlesniperturret",
-      "category": "Security",
-      "defname": "WS_Turret_NeedleSniperTurret",
-      "price": 725
-    },
-    {
-      "abr": "stargate",
-      "category": "Special",
-      "defname": "StargateMod_AdvancedStargate",
-      "price": 4167
-    },
-    {
-      "abr": "stargatecoordinates",
-      "category": "Artifacts",
-      "defname": "StargateMod_GlyphScrap",
-      "price": 1500
     }
   ],
   "total": 2238
