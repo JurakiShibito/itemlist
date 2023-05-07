@@ -230,7 +230,7 @@
 	},
 	{
 		"abr": "sunlamp",
-		"price": 129,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SunLamp"
 	},
@@ -296,7 +296,7 @@
 	},
 	{
 		"abr": "flatscreentelevision",
-		"price": 1533,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "FlatscreenTelevision"
 	},
@@ -338,13 +338,13 @@
 	},
 	{
 		"abr": "vitalsmonitor",
-		"price": 358,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VitalsMonitor"
 	},
 	{
 		"abr": "toolcabinet",
-		"price": 642,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ToolCabinet"
 	},
@@ -386,7 +386,7 @@
 	},
 	{
 		"abr": "electrictailorbench",
-		"price": 533,
+		"price": -10,
 		"category": "Production",
 		"defname": "ElectricTailoringBench"
 	},
@@ -398,19 +398,19 @@
 	},
 	{
 		"abr": "electricsmithy",
-		"price": 492,
+		"price": -10,
 		"category": "Production",
 		"defname": "ElectricSmithy"
 	},
 	{
 		"abr": "machiningtable",
-		"price": 758,
+		"price": -10,
 		"category": "Production",
 		"defname": "TableMachining"
 	},
 	{
 		"abr": "electricstove",
-		"price": 375,
+		"price": -10,
 		"category": "Production",
 		"defname": "ElectricStove"
 	},
@@ -440,7 +440,7 @@
 	},
 	{
 		"abr": "electricsmelter",
-		"price": 667,
+		"price": -10,
 		"category": "Production",
 		"defname": "ElectricSmelter"
 	},
@@ -470,79 +470,79 @@
 	},
 	{
 		"abr": "iedtrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_HighExplosive"
 	},
 	{
 		"abr": "iedincendiarytrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_Incendiary"
 	},
 	{
 		"abr": "iedemptrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_EMP"
 	},
 	{
 		"abr": "iedsmoketrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_Smoke"
 	},
 	{
 		"abr": "iedfirefoamtrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_Firefoam"
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
-		"price": 2008,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_AntigrainWarhead"
 	},
 	{
 		"abr": "mini-turret",
-		"price": 492,
+		"price": -10,
 		"category": "Security",
 		"defname": "Turret_MiniTurret"
 	},
 	{
 		"abr": "mortar",
-		"price": 1500,
+		"price": -10,
 		"category": "Security",
 		"defname": "Turret_Mortar"
 	},
 	{
 		"abr": "foamturret",
-		"price": 1025,
+		"price": -10,
 		"category": "Security",
 		"defname": "Turret_FoamTurret"
 	},
 	{
 		"abr": "psychicemanator",
-		"price": 2167,
+		"price": -10,
 		"category": "Special",
 		"defname": "PsychicEmanator"
 	},
 	{
 		"abr": "vanometricpowercell",
-		"price": 2000,
+		"price": -10,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
 	{
 		"abr": "infinitechemreactor",
-		"price": 2500,
+		"price": -10,
 		"category": "Special",
 		"defname": "InfiniteChemreactor"
 	},
 	{
 		"abr": "heater",
-		"price": 218,
+		"price": -10,
 		"category": "Temperature",
 		"defname": "Heater"
 	},
@@ -680,79 +680,79 @@
 	},
 	{
 		"abr": "chickenegg(unfert.)",
-		"price": 9,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized"
 	},
 	{
 		"abr": "chickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized"
 	},
 	{
 		"abr": "cobraegg(fert.)",
-		"price": 33,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
 	},
 	{
 		"abr": "iguanaegg(fert.)",
-		"price": 42,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized"
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized"
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
-		"price": 32,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
 	},
 	{
 		"abr": "emuegg(fert.)",
-		"price": 30,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized"
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
 	{
 		"abr": "turkeyegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized"
 	},
 	{
 		"abr": "duckegg(unfert.)",
-		"price": 9,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggDuckUnfertilized"
 	},
 	{
 		"abr": "duckegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDuckFertilized"
 	},
 	{
 		"abr": "gooseegg(unfert.)",
-		"price": 9,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggGooseUnfertilized"
 	},
 	{
 		"abr": "gooseegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGooseFertilized"
 	},
@@ -794,13 +794,13 @@
 	},
 	{
 		"abr": "chemfuel",
-		"price": 4,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "Chemfuel"
 	},
 	{
 		"abr": "reinforcedbarrel",
-		"price": 1000,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ReinforcedBarrel"
 	},
@@ -1952,19 +1952,19 @@
 	},
 	{
 		"abr": "unstablepowercell",
-		"price": 667,
+		"price": -10,
 		"category": "Special",
 		"defname": "UnstablePowerCell"
 	},
 	{
 		"abr": "mechnode",
-		"price": 333,
+		"price": -10,
 		"category": "Special",
 		"defname": "Gloomlight"
 	},
 	{
 		"abr": "shiplandingbeacon",
-		"price": 185,
+		"price": -10,
 		"category": "Misc",
 		"defname": "ShipLandingBeacon"
 	},
@@ -2258,7 +2258,7 @@
 	},
 	{
 		"abr": "biosculpterpod",
-		"price": 758,
+		"price": -10,
 		"category": "Misc",
 		"defname": "BiosculpterPod"
 	},
@@ -2270,7 +2270,7 @@
 	},
 	{
 		"abr": "christmastree",
-		"price": 263,
+		"price": 2630,
 		"category": "Misc",
 		"defname": "ChristmasTree"
 	},
@@ -2336,7 +2336,7 @@
 	},
 	{
 		"abr": "loudspeaker",
-		"price": 367,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Loudspeaker"
 	},
@@ -2726,13 +2726,13 @@
 	},
 	{
 		"abr": "iedtoxtrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_ToxGas"
 	},
 	{
 		"abr": "subcoreencoder",
-		"price": 525,
+		"price": -10,
 		"category": "Production",
 		"defname": "SubcoreEncoder"
 	},
@@ -2756,7 +2756,7 @@
 	},
 	{
 		"abr": "basicsubcore",
-		"price": 333,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "SubcoreBasic"
 	},
@@ -2780,13 +2780,13 @@
 	},
 	{
 		"abr": "powerfocuschip",
-		"price": 1667,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "PowerfocusChip"
 	},
 	{
 		"abr": "nanostructuringchip",
-		"price": 2500,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "NanostructuringChip"
 	},
@@ -2810,7 +2810,7 @@
 	},
 	{
 		"abr": "xenogerm",
-		"price": 167,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Xenogerm"
 	},
@@ -2828,7 +2828,7 @@
 	},
 	{
 		"abr": "ovum",
-		"price": 83,
+		"price": -10,
 		"category": "Misc",
 		"defname": "HumanOvum"
 	},
@@ -2840,31 +2840,31 @@
 	},
 	{
 		"abr": "kidromper",
-		"price": 112,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Apparel_KidRomper"
 	},
 	{
 		"abr": "kidshirt",
-		"price": 74,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Apparel_KidShirt"
 	},
 	{
 		"abr": "kidpants",
-		"price": 74,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Apparel_KidPants"
 	},
 	{
 		"abr": "kidparka",
-		"price": 172,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Apparel_KidParka"
 	},
 	{
 		"abr": "kidtribalwear",
-		"price": 108,
+		"price": -10,
 		"category": "Misc",
 		"defname": "Apparel_KidTribal"
 	},
@@ -2906,7 +2906,7 @@
 	},
 	{
 		"abr": "gasmask",
-		"price": 176,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_GasMask"
 	},
@@ -3146,43 +3146,43 @@
 	},
 	{
 		"abr": "griffinegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggGriffinFertilized"
 	},
 	{
 		"abr": "phoenixegg(fert.)",
-		"price": 17,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggPhoenixFertilized"
 	},
 	{
 		"abr": "salamanderegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggSalamanderFertilized"
 	},
 	{
 		"abr": "fenghuangegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggFenghuangFertilized"
 	},
 	{
 		"abr": "stymphalianbirdegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggStymphalianBirdFertilized"
 	},
 	{
 		"abr": "ieltxuegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggIeltxuFertilized"
 	},
 	{
 		"abr": "basiliskegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggBasiliskFertilized"
 	},
@@ -3350,13 +3350,13 @@
 	},
 	{
 		"abr": "blindsalamanderegg(fert.)",
-		"price": 40,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "VAECaves_EggSalamanderFertilized"
 	},
 	{
 		"abr": "cavecrawleregg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "VAECaves_CaveCrawlerEggFertilized"
 	},
@@ -3518,13 +3518,13 @@
 	},
 	{
 		"abr": "shrink-raymini-turret",
-		"price": 992,
+		"price": -10,
 		"category": "Security",
 		"defname": "BMAD_ShrinkTurret"
 	},
 	{
 		"abr": "growth-raymini-turret",
-		"price": 992,
+		"price": -10,
 		"category": "Security",
 		"defname": "BMAD_GrowthTurret"
 	},
@@ -4952,7 +4952,7 @@
 	},
 	{
 		"abr": "ancientreliquary",
-		"price": 1242,
+		"price": -10,
 		"category": "Art",
 		"defname": "DankPyon_AncientReliquaryEmpty"
 	},
@@ -5534,37 +5534,37 @@
 	},
 	{
 		"abr": "largeforestcobraegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "DankPyon_EggLargeForestCobraFertilized"
 	},
 	{
 		"abr": "largecavecobraegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "DankPyon_EggLargeCobraCaveFertilized"
 	},
 	{
 		"abr": "giantforestconstrictoregg(fert.)",
-		"price": 1667,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "DankPyon_EggConstrictorForestFertilized"
 	},
 	{
 		"abr": "giantcaveconstrictoregg(fert.)",
-		"price": 1667,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "DankPyon_EggConstrictorCaveFertilized"
 	},
 	{
 		"abr": "giantforestlindwurmegg(fert.)",
-		"price": 2500,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "DankPyon_EggLindwurmForestFertilized"
 	},
 	{
 		"abr": "giantcavelindwurmegg(fert.)",
-		"price": 2500,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "DankPyon_EggLindwurmCaveFertilized"
 	},
@@ -5960,7 +5960,7 @@
 	},
 	{
 		"abr": "basiccomponent",
-		"price": 25,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "DankPyon_ComponentBasic"
 	},
@@ -7556,31 +7556,31 @@
 	},
 	{
 		"abr": "industrialcameraonpolemount",
-		"price": 261,
+		"price": -10,
 		"category": "Security",
 		"defname": "CombatAI_IndustrialPoleCCTV"
 	},
 	{
 		"abr": "spacercameraonpolemount",
-		"price": 658,
+		"price": -10,
 		"category": "Security",
 		"defname": "CombatAI_SpacerPoleCCTV"
 	},
 	{
 		"abr": "industrialwallmountedcctv",
-		"price": 658,
+		"price": -10,
 		"category": "Security",
 		"defname": "CombatAI_CCTVTurretIndustrial"
 	},
 	{
 		"abr": "spacerwallmountedcctv",
-		"price": 833,
+		"price": -10,
 		"category": "Security",
 		"defname": "CombatAI_CCTVTurretSpacer"
 	},
 	{
 		"abr": "indoorautomatedcamera",
-		"price": 140,
+		"price": -10,
 		"category": "Security",
 		"defname": "CombatAI_IndoorCCTV"
 	},
@@ -7616,7 +7616,7 @@
 	},
 	{
 		"abr": "industrialtent",
-		"price": 392,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "ModernTent"
 	},
@@ -8270,19 +8270,19 @@
 	},
 	{
 		"abr": "kitchensink",
-		"price": 167,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "KitchenSink"
 	},
 	{
 		"abr": "toilet",
-		"price": 72,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "ToiletStuff"
 	},
 	{
 		"abr": "smarttoilet",
-		"price": 182,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "ToiletAdvStuff"
 	},
@@ -8312,7 +8312,7 @@
 	},
 	{
 		"abr": "powershower",
-		"price": 170,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "ShowerAdvStuff"
 	},
@@ -8324,7 +8324,7 @@
 	},
 	{
 		"abr": "washingmachine",
-		"price": 433,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "WashingMachine"
 	},
@@ -8336,7 +8336,7 @@
 	},
 	{
 		"abr": "electricsaunaheater",
-		"price": 725,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "DBHSaunaHeaterElec"
 	},
@@ -8348,7 +8348,7 @@
 	},
 	{
 		"abr": "electricpump",
-		"price": 316,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "ElectricPump"
 	},
@@ -8366,31 +8366,31 @@
 	},
 	{
 		"abr": "gasboiler",
-		"price": 425,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "GasBoiler"
 	},
 	{
 		"abr": "electricboiler",
-		"price": 425,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "ElectricBoiler"
 	},
 	{
 		"abr": "hotwatertank",
-		"price": 195,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "HotWaterTank"
 	},
 	{
 		"abr": "radiator",
-		"price": 85,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "RadiatorStuffed"
 	},
 	{
 		"abr": "largeradiator",
-		"price": 252,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "RadiatorLarge"
 	},
@@ -8402,31 +8402,31 @@
 	},
 	{
 		"abr": "ceilingfan2x2",
-		"price": 184,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "CeilingFan"
 	},
 	{
 		"abr": "ceilingfan1x1",
-		"price": 184,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "CeilingFanS"
 	},
 	{
 		"abr": "air-conoutdoorunit",
-		"price": 458,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "AirConOutdoorUnit"
 	},
 	{
 		"abr": "air-conindoorunit",
-		"price": 82,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "AirconIndoorUnit"
 	},
 	{
 		"abr": "walk-infreezerunit",
-		"price": 153,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "FreezerUnit"
 	},
@@ -8444,13 +8444,13 @@
 	},
 	{
 		"abr": "biosolidscomposter",
-		"price": 116,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "BiosolidsComposter"
 	},
 	{
 		"abr": "biosolids",
-		"price": 1,
+		"price": -10,
 		"category": "Waste",
 		"defname": "Biosolids"
 	},
@@ -9170,7 +9170,7 @@
 	},
 	{
 		"abr": "electricstove",
-		"price": 383,
+		"price": -10,
 		"category": "Production",
 		"defname": "GL_ElectricStove"
 	},
@@ -9188,7 +9188,7 @@
 	},
 	{
 		"abr": "electrictailorbench",
-		"price": 542,
+		"price": -10,
 		"category": "Production",
 		"defname": "GL_ElectricTailoringBench"
 	},
@@ -9200,7 +9200,7 @@
 	},
 	{
 		"abr": "electricsmithy",
-		"price": 533,
+		"price": -10,
 		"category": "Production",
 		"defname": "GL_ElectricSmithy"
 	},
@@ -9242,7 +9242,7 @@
 	},
 	{
 		"abr": "mecha-golem",
-		"price": 5000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_MechaGolem"
 	},
@@ -9278,7 +9278,7 @@
 	},
 	{
 		"abr": "shardofspiritextraction",
-		"price": 1167,
+		"price": 500,
 		"category": "Magic artifacts",
 		"defname": "TM_Artifact_ClassExtraction"
 	},
@@ -10046,7 +10046,7 @@
 	},
 	{
 		"abr": "druidspell:fertilelands",
-		"price": 1233,
+		"price": -10,
 		"category": "Scrolls",
 		"defname": "SpellOf_FertileLands"
 	},
@@ -10346,7 +10346,7 @@
 	},
 	{
 		"abr": "ruunbled",
-		"price": 13333,
+		"price": 23333,
 		"category": "Melee",
 		"defname": "TM_Ruunbled"
 	},
@@ -12110,7 +12110,7 @@
 	},
 	{
 		"abr": "micro-turret",
-		"price": 11,
+		"price": -10,
 		"category": "Security",
 		"defname": "TM_MicroTurretBD"
 	},
@@ -12416,73 +12416,73 @@
 	},
 	{
 		"abr": "dragonegg(unfert.)",
-		"price": 42,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggDragonUnfertilized"
 	},
 	{
 		"abr": "blackdragonegg(fert.)",
-		"price": 5333,
+		"price": -10,
 		"category": "Dragon eggs (fert.)",
 		"defname": "EggBlackDragonFertilized"
 	},
 	{
 		"abr": "bluedragonegg(fert.)",
-		"price": 4167,
+		"price": -10,
 		"category": "Dragon eggs (fert.)",
 		"defname": "EggBlueDragonFertilized"
 	},
 	{
 		"abr": "golddragonegg(fert.)",
-		"price": 6833,
+		"price": -10,
 		"category": "Dragon eggs (fert.)",
 		"defname": "EggGoldDragonFertilized"
 	},
 	{
 		"abr": "greendragonegg(fert.)",
-		"price": 4167,
+		"price": -10,
 		"category": "Dragon eggs (fert.)",
 		"defname": "EggGreenDragonFertilized"
 	},
 	{
 		"abr": "jadedragonegg(fert.)",
-		"price": 6833,
+		"price": -10,
 		"category": "Dragon eggs (fert.)",
 		"defname": "EggJadeDragonFertilized"
 	},
 	{
 		"abr": "purpledragonegg(fert.)",
-		"price": 4167,
+		"price": -10,
 		"category": "Dragon eggs (fert.)",
 		"defname": "EggPurpleDragonFertilized"
 	},
 	{
 		"abr": "reddragonegg(fert.)",
-		"price": 5333,
+		"price": -10,
 		"category": "Dragon eggs (fert.)",
 		"defname": "EggRedDragonFertilized"
 	},
 	{
 		"abr": "silverdragonegg(fert.)",
-		"price": 6833,
+		"price": -10,
 		"category": "Dragon eggs (fert.)",
 		"defname": "EggSilverDragonFertilized"
 	},
 	{
 		"abr": "truedragonegg(fert.)",
-		"price": 11083,
+		"price": -10,
 		"category": "Dragon eggs (fert.)",
 		"defname": "EggTrueDragonFertilized"
 	},
 	{
 		"abr": "whitedragonegg(fert.)",
-		"price": 4167,
+		"price": -10,
 		"category": "Dragon eggs (fert.)",
 		"defname": "EggWhiteDragonFertilized"
 	},
 	{
 		"abr": "yellowdragonegg(fert.)",
-		"price": 4167,
+		"price": -10,
 		"category": "Dragon eggs (fert.)",
 		"defname": "EggYellowDragonFertilized"
 	},
@@ -12812,61 +12812,61 @@
 	},
 	{
 		"abr": "demigryphegg(fert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDemigryphFertilized"
 	},
 	{
 		"abr": "demigrypheggs(unfert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggDemigryphUnfertilized"
 	},
 	{
 		"abr": "cheetahdemigryphegg(fert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCheetahDemigryphFertilized"
 	},
 	{
 		"abr": "crimsondemigryphegg(fert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCrimsonDemigryphFertilized"
 	},
 	{
 		"abr": "vulturedemigryphegg(fert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggVultureDemigryphFertilized"
 	},
 	{
 		"abr": "leoparddemigryphegg(fert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggLeopardDemigryphFertilized"
 	},
 	{
 		"abr": "pantherdemigryphegg(fert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggPantherDemigryphFertilized"
 	},
 	{
 		"abr": "tigerdemigryphegg(fert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTigerDemigryphFertilized"
 	},
 	{
 		"abr": "daermigryphegg(fert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDaermigryphFertilized"
 	},
 	{
 		"abr": "jadedemigryphegg(fert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggJadeDemigryphFertilized"
 	},
@@ -13412,13 +13412,13 @@
 	},
 	{
 		"abr": "werewolf",
-		"price": 833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MorrowRim_Werewolf"
 	},
 	{
 		"abr": "werewolflord",
-		"price": 833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MorrowRim_WerewolfLord"
 	},
@@ -14174,7 +14174,7 @@
 	},
 	{
 		"abr": "isr2g",
-		"price": 48,
+		"price": -10,
 		"category": "Power",
 		"defname": "RotR_ISR2G"
 	},
@@ -14294,271 +14294,271 @@
 	},
 	{
 		"abr": "ancientsystemrack",
-		"price": 9,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSystemRack"
 	},
 	{
 		"abr": "ancientequipmentblocks",
-		"price": 12,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientEquipmentBlocks"
 	},
 	{
 		"abr": "ancientmachine",
-		"price": 18,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMachine"
 	},
 	{
 		"abr": "ancientstoragecylinder",
-		"price": 12,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientStorageCylinder"
 	},
 	{
 		"abr": "ancientbed",
-		"price": 5,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientBed"
 	},
 	{
 		"abr": "ancientdisplaybank",
-		"price": 9,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientDisplayBank"
 	},
 	{
 		"abr": "ancientlockerbank",
-		"price": 5,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientLockerBank"
 	},
 	{
 		"abr": "ancientcrate",
-		"price": 2,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientCrate"
 	},
 	{
 		"abr": "ancientmilitarycrate",
-		"price": 2,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMilitaryCrate"
 	},
 	{
 		"abr": "ancientspacercrate",
-		"price": 2,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSpacerCrate"
 	},
 	{
 		"abr": "ancientbarrel",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientBarrel"
 	},
 	{
 		"abr": "ancientgenerator",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientGenerator"
 	},
 	{
 		"abr": "ancientoperatingtable",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientOperatingTable"
 	},
 	{
 		"abr": "ancientshoppingcart",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientShoppingCart"
 	},
 	{
 		"abr": "ancientpostbox",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientPostbox"
 	},
 	{
 		"abr": "ancientvendingmachine",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientVendingMachine"
 	},
 	{
 		"abr": "ancientairconditioner",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientAirConditioner"
 	},
 	{
 		"abr": "ancientkitchensink",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientKitchenSink"
 	},
 	{
 		"abr": "ancientstove",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientStove"
 	},
 	{
 		"abr": "ancientoven",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientOven"
 	},
 	{
 		"abr": "ancientatm",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientATM"
 	},
 	{
 		"abr": "ancientwashingmachine",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientWashingMachine"
 	},
 	{
 		"abr": "ancienthydrant",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientHydrant"
 	},
 	{
 		"abr": "ancientmicrowave",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMicrowave"
 	},
 	{
 		"abr": "ancienttoilet",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientToilet"
 	},
 	{
 		"abr": "ancientrefrigerator",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientRefrigerator"
 	},
 	{
 		"abr": "ancientsmallcrate",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSmallCrate"
 	},
 	{
 		"abr": "ancientlongcrate",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientLongCrate"
 	},
 	{
 		"abr": "ancientlargecrate",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientLargeCrate"
 	},
 	{
 		"abr": "ancientwheel",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientWheel"
 	},
 	{
 		"abr": "ancientgiantwheel",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientGiantWheel"
 	},
 	{
 		"abr": "ancienttanktrap",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientTankTrap"
 	},
 	{
 		"abr": "ancientmacro-engineblock",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientLargeRustedEngineBlock"
 	},
 	{
 		"abr": "ancientfence",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientFence"
 	},
 	{
 		"abr": "ancientrazorwire",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientRazorWire"
 	},
 	{
 		"abr": "ancientpipes",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientPipes"
 	},
 	{
 		"abr": "ancientmega-cannonplatform",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMegaCannonTripod"
 	},
 	{
 		"abr": "ancientmega-cannonbarrel",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMegaCannonBarrel"
 	},
 	{
 		"abr": "ancientcontainer",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientContainer"
 	},
 	{
 		"abr": "ancientmechanoiddetritus",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMechanoidShell"
 	},
 	{
 		"abr": "ancientmechdropbeacon",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientMechDropBeacon"
 	},
 	{
 		"abr": "ancientsecurityturret",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSecurityTurret"
 	},
 	{
 		"abr": "ancientengineblock",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientRustedEngineBlock"
 	},
 	{
 		"abr": "ancientnavbeacon",
-		"price": 1,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientShipBeacon"
 	},
 	{
 		"abr": "ancientspacejunk",
-		"price": 2,
+		"price": -10,
 		"category": "Misc",
 		"defname": "VME_AncientSpaceJunk"
 	},
@@ -14690,7 +14690,7 @@
 	},
 	{
 		"abr": "flatscreentv",
-		"price": 1450,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "LTS_TableTelevision"
 	},
@@ -14948,13 +14948,13 @@
 	},
 	{
 		"abr": "bloodscarabegg(fert.)",
-		"price": 17,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggBloodScarabFertilized"
 	},
 	{
 		"abr": "bloodscarabeggs(unfert.)",
-		"price": 17,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggBloodScarabUnfertilized"
 	},
@@ -15014,7 +15014,7 @@
 	},
 	{
 		"abr": "coldoneegg(fert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "DevDesigner_EggColdOneFertilized"
 	},
@@ -17093,7 +17093,7 @@
 		"price": 717,
 		"category": "Armor",
 		"defname": "Kenshi_UnstrainedMercenaryPlate"
-	}
+	},
 	],
 	"total": 2850
 }
