@@ -12350,7 +12350,7 @@
 	},
 	{
 		"abr": "dragon'sblood",
-		"price": 97,
+		"price": 970,
 		"category": "Drugs",
 		"defname": "DragonsBlood"
 	},
@@ -13292,7 +13292,7 @@
 	},
 	{
 		"abr": "totemofthehunter",
-		"price": 4333,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "MorrowRim_TotemHunter"
 	},
@@ -13334,31 +13334,31 @@
 	},
 	{
 		"abr": "totemofthehunter(guile)",
-		"price": 333,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "MorrowRim_TotemGuile"
 	},
 	{
 		"abr": "totemofthehunter(sight)",
-		"price": 333,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "MorrowRim_TotemSight"
 	},
 	{
 		"abr": "totemofthehunter(speed)",
-		"price": 333,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "MorrowRim_TotemSpeed"
 	},
 	{
 		"abr": "totemofthehunter(strength)",
-		"price": 333,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "MorrowRim_TotemStrength"
 	},
 	{
 		"abr": "werewolflordtotem",
-		"price": 833,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "MorrowRim_TotemWerewolfLord"
 	},
@@ -13400,7 +13400,7 @@
 	},
 	{
 		"abr": "rifleofthehunter",
-		"price": 2400,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "MorrowRim_Gun_Hunters"
 	},
@@ -17093,6 +17093,12 @@
 		"price": 717,
 		"category": "Armor",
 		"defname": "Kenshi_UnstrainedMercenaryPlate"
+	},
+	{
+		"abr": "unstrainedtincan",
+		"price": 293,
+		"category": "Headgear",
+		"defname": "Kenshi_UnstrainedTinCan"
 	},
 	],
 	"total": 2850

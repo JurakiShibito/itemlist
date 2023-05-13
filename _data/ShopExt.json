@@ -1937,7 +1937,7 @@
       "name": "giant"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
@@ -57991,7 +57991,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
+      "addPrice": 20000,
       "removePrice": 5500,
       "degree": 0,
       "description": "As long as Timmy still draws breath, there isn't one threat that the colony can't overcome!",
@@ -58502,8 +58502,8 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
