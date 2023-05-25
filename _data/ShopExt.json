@@ -1752,7 +1752,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes (Core)",
+        "mod": "Big and Small Genes",
         "karmaTypeForAdding": null
       },
       "defName": "Gigantism",
@@ -1784,7 +1784,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes (Core)",
+        "mod": "Big and Small Genes",
         "karmaTypeForAdding": null
       },
       "defName": "Large",
@@ -1818,7 +1818,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes (Core)",
+        "mod": "Big and Small Genes",
         "karmaTypeForAdding": null
       },
       "defName": "Small",
@@ -1852,7 +1852,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes (Core)",
+        "mod": "Big and Small Genes",
         "karmaTypeForAdding": null
       },
       "defName": "Dwarfism",
@@ -1880,7 +1880,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes (Core)",
+        "mod": "Big and Small Genes",
         "karmaTypeForAdding": null
       },
       "defName": "Passioned_Learning",
@@ -1908,7 +1908,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes (Core)",
+        "mod": "Big and Small Genes",
         "karmaTypeForAdding": null
       },
       "defName": "Very_Passioned_Learning",
@@ -1930,7 +1930,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes (Core)",
+        "mod": "Big and Small Genes",
         "karmaTypeForAdding": null
       },
       "defName": "BS_Giant",
@@ -58486,7 +58486,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Big and Small Genes (Core)",
+        "mod": "Big and Small + Prerequisites Framework",
         "karmaTypeForAdding": null
       },
       "defName": "BS_Gentle",

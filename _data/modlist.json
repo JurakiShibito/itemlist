@@ -157,15 +157,15 @@
   },
   {
     "author": "RedMattis",
-    "name": "Better Gene Prerequisites",
+    "name": "Big and Small + Prerequisites Framework",
     "steamId": "2925432336",
     "version": "1.0.0.0"
   },
   {
     "author": "RedMattis",
-    "name": "Big and Small Genes (Core)",
-    "steamId": "2920751126",
-    "version": "1.0.0.0"
+    "name": "Big and Small Genes",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "RedMattis",
@@ -207,7 +207,7 @@
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
-    "version": "1.6.3.0"
+    "version": "1.6.5.0"
   },
   {
     "author": "m00nl1ght-dev",
@@ -363,6 +363,12 @@
     "author": "DimonSever000",
     "name": "Faction Interface",
     "steamId": "2854657718",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Murmur",
+    "name": "Faction Raid Cooldown",
+    "steamId": "2345845316",
     "version": "1.0.0.0"
   },
   {
@@ -630,7 +636,7 @@
     "version": null
   },
   {
-    "author": "Helixien and Taranchuk",
+    "author": "Helixien",
     "name": "ReGrowth: Core",
     "steamId": "2260097569",
     "version": "1.0.0.0"
@@ -699,7 +705,7 @@
     "author": "Scherub",
     "name": "Planning Extended",
     "steamId": "2877392159",
-    "version": "1.8.0"
+    "version": "1.9.0"
   },
   {
     "author": "NilchEi",
@@ -723,7 +729,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8521.5340"
+    "version": "1.0.8539.10294"
   },
   {
     "author": "Jecrell",

@@ -658,9 +658,9 @@
   "use": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 1,
     "Mod": "ToolkitUtils"
   },
   "wear": {
