@@ -546,9 +546,9 @@
   "reviveme": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
-    "LocalCooldown": 14400,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "healall": {
@@ -572,7 +572,7 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 1800,
+    "LocalCooldown": 600,
     "Mod": "ToolkitUtils"
   },
   "surgery": {
@@ -658,9 +658,9 @@
   "use": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": true,
+    "HasLocalCooldown": false,
     "GlobalCooldown": 0,
-    "LocalCooldown": 1,
+    "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
   "wear": {

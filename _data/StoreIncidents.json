@@ -56,13 +56,8 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "solarflare",
-		"price": 500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 10000,
 		"karmatype": "Doom"
 	},
 	{
@@ -84,16 +79,6 @@
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "resourcepodcrash",
-		"price": 300,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "tradercaravan",
@@ -118,16 +103,6 @@
 	{
 		"abr": "herdmigration",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "farmanimals",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -161,26 +136,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "manhunterpack",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -197,7 +152,7 @@
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
@@ -244,11 +199,6 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "reviveme",
-		"price": 2833,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "healall",
@@ -351,5 +301,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 70
+	"total": 60
 }
