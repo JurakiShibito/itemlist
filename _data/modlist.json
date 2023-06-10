@@ -198,6 +198,30 @@
     "version": "3.0.7.0"
   },
   {
+    "author": "Owlchemist",
+    "name": "Cherry Picker",
+    "steamId": "2633276599",
+    "version": "1.4"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Chaingunfighter1 / Slippin' Jimmy",
+    "name": "Guns Galore - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chaingunfighter1 / Slippin' Jimmy",
+    "name": "Guns Galore - Industrial Age I",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Syrus",
     "name": "Healer Mech Serum Choice",
     "steamId": null,
@@ -328,12 +352,6 @@
     "name": "Quality Colors",
     "steamId": "2420141361",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Cherry Picker",
-    "steamId": "2633276599",
-    "version": "1.4"
   },
   {
     "author": "Malte Schulze",

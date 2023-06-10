@@ -28,7 +28,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "penoxycyline",
@@ -3172,7 +3172,7 @@
       "abr": "heavybandolier",
       "category": "Misc",
       "defname": "Apparel_Bandolier",
-      "price": -10
+      "price": 271
     },
     {
       "abr": "sash",
@@ -4024,7 +4024,7 @@
       "abr": "flamethrower",
       "category": "Ranged weapons",
       "defname": "TGWFlamethrower",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "mauser",
@@ -5416,7 +5416,7 @@
       "abr": "flamethrowerfuelcanister",
       "category": "Flamethrower Fuel",
       "defname": "TGW_Ammo_TGWFlamethrower_Gas",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "mortarshellbelt",
@@ -5485,11 +5485,743 @@
       "price": 67
     },
     {
+      "abr": "berdanmodel1868",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Berdan_Model1868_",
+      "price": 425
+    },
+    {
+      "abr": "berdanmodel1870",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Berdan_Model1870_",
+      "price": 425
+    },
+    {
+      "abr": "berdanmodel1870(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Berdan_Model1870_Bayonet_",
+      "price": 442
+    },
+    {
+      "abr": "berdanmodel1870cavalry",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Berdan_Model1870_Cavalry_",
+      "price": 358
+    },
+    {
+      "abr": "berdanmodel1870cavalry(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Berdan_Model1870_Cavalry_Bayonet_",
+      "price": 383
+    },
+    {
+      "abr": "berdanmodel1870cossack",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Berdan_Model1870_Cossack_",
+      "price": 392
+    },
+    {
+      "abr": "berdanmodel1870dragoon",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Berdan_Model1870_Dragoon_",
+      "price": 392
+    },
+    {
+      "abr": "borchardtc93",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Borchardt_C93_",
+      "price": 232
+    },
+    {
+      "abr": "borchardtc93stock",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Borchardt_C93_Stock_",
+      "price": 300
+    },
+    {
+      "abr": "chamelot-delvignem1873",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_ChamelotDelvigne_M1873_",
+      "price": 226
+    },
+    {
+      "abr": "chamelot-delvignem1873nickel",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_ChamelotDelvigne_M1873_Nickel_",
+      "price": 250
+    },
+    {
+      "abr": "chassepot1866",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Chassepot_1866_",
+      "price": 367
+    },
+    {
+      "abr": "chassepot1866(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Chassepot_1866_Bayonet_",
+      "price": 392
+    },
+    {
+      "abr": "chassepot1866artillery",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Chassepot_1866_Artillery_",
+      "price": 305
+    },
+    {
+      "abr": "chassepot1866cavalry",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Chassepot_1866_Cavalry_",
+      "price": 333
+    },
+    {
+      "abr": "dreyseneedlegunm1860fusilier",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Dreyse_NeedleGun_M1860_Fusilier_",
+      "price": 333
+    },
+    {
+      "abr": "dreyseneedlegunm1862",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Dreyse_NeedleGun_M1862_",
+      "price": 367
+    },
+    {
+      "abr": "dreyseneedlegunm1862(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Dreyse_NeedleGun_M1862_Bayonet_",
+      "price": 392
+    },
+    {
+      "abr": "eignerviennamodel",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Eigner_ViennaModel_",
+      "price": 226
+    },
+    {
+      "abr": "francottem1871",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Francotte_M1871_",
+      "price": 226
+    },
+    {
+      "abr": "früwirthm1872",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Fruwirth_M1872_",
+      "price": 321
+    },
+    {
+      "abr": "galoregunsmithtable",
+      "category": "Production",
+      "defname": "CGF1_MWP_Building_Gunsmith_Old",
+      "price": 134
+    },
+    {
+      "abr": "galoreweaponmachiningtable",
+      "category": "Production",
+      "defname": "CGF1_MWP_Building_Gunsmith",
+      "price": 331
+    },
+    {
+      "abr": "gasserm1870",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Gasser_M1870_",
+      "price": 226
+    },
+    {
+      "abr": "grasmodel1874",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Gras_Model1874_",
+      "price": 425
+    },
+    {
+      "abr": "grasmodel1874(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Gras_Model1874_Bayonet_",
+      "price": 442
+    },
+    {
+      "abr": "grasmodel1874artillery",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Gras_Model1874_Artillery_",
+      "price": 358
+    },
+    {
+      "abr": "grasmodel1874artillery(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Gras_Model1874_Artillery_Bayonet_",
+      "price": 383
+    },
+    {
+      "abr": "jarmannm1884",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Jarmann_M1884_",
+      "price": 425
+    },
+    {
+      "abr": "jarmannm1884(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Jarmann_M1884_Bayonet_",
+      "price": 442
+    },
+    {
+      "abr": "jarmannm1884navalcarbine",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Jarmann_M1884_NavalCarbine_",
+      "price": 375
+    },
+    {
+      "abr": "jarmannm1884prototype",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Jarmann_M1884_Prototype_",
+      "price": 592
+    },
+    {
+      "abr": "jarmannm1884swedish",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Jarmann_M1884_Swedish_",
+      "price": 425
+    },
+    {
+      "abr": "jarmannm1884swedish(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Jarmann_M1884_Swedish_Bayonet_",
+      "price": 442
+    },
+    {
+      "abr": "jarmannm1884/87",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Jarmann_M1884_87_",
+      "price": 425
+    },
+    {
+      "abr": "jarmannm1884/87(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Jarmann_M1884_87_Bayonet_",
+      "price": 442
+    },
+    {
+      "abr": "kammerladerarmym1860",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Army_M1860_",
+      "price": 417
+    },
+    {
+      "abr": "kammerladerarmym1860(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Army_M1860_Bayonet_",
+      "price": 442
+    },
+    {
+      "abr": "kammerladerarmym1860short",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Army_M1860_Short_",
+      "price": 383
+    },
+    {
+      "abr": "kammerladerarmym1860/67",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Army_M1860_67_",
+      "price": 417
+    },
+    {
+      "abr": "kammerladerarmym1860/67(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Army_M1860_67_Bayonet_",
+      "price": 442
+    },
+    {
+      "abr": "kammerladerarmym1860/67short",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Army_M1860_67_Short_",
+      "price": 383
+    },
+    {
+      "abr": "kammerladerarmym1865cavalry",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Army_M1865_Cavalry_",
+      "price": 350
+    },
+    {
+      "abr": "kammerladerarmym1865/67cavalry",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Army_M1865_67_Cavalry_",
+      "price": 350
+    },
+    {
+      "abr": "kammerladernavym1852/67",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Navy_M1852_67_",
+      "price": 383
+    },
+    {
+      "abr": "kammerladernavym1857/67",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Navy_M1857_67_",
+      "price": 383
+    },
+    {
+      "abr": "kammerladernavym1860",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Navy_M1860_",
+      "price": 417
+    },
+    {
+      "abr": "kammerladernavym1860(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Navy_M1860_Bayonet_",
+      "price": 442
+    },
+    {
+      "abr": "kammerladernavym1860/67",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Navy_M1860_67_",
+      "price": 417
+    },
+    {
+      "abr": "kammerladernavym1860/67(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Kammerlader_Navy_M1860_67_Bayonet_",
+      "price": 442
+    },
+    {
+      "abr": "krag-peterssonm1876",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_KragPetersson_M1876_",
+      "price": 442
+    },
+    {
+      "abr": "krag-peterssonm1876(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_KragPetersson_M1876_Bayonet_",
+      "price": 458
+    },
+    {
+      "abr": "krnkam1867",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Krnka_M1867_",
+      "price": 333
+    },
+    {
+      "abr": "krnkam1867(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Krnka_M1867_Bayonet_",
+      "price": 358
+    },
+    {
+      "abr": "lefaucheuxm1858",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Lefaucheux_M1858_",
+      "price": 226
+    },
+    {
+      "abr": "mannlicherm1894",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Mannlicher_M1894_",
+      "price": 232
+    },
+    {
+      "abr": "mauserc77target",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Mauser_C77_Target_",
+      "price": 229
+    },
+    {
+      "abr": "mauserc781stmodel",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Mauser_C78_1stModel_",
+      "price": 226
+    },
+    {
+      "abr": "mauserc782ndmodel",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Mauser_C78_2ndModel_",
+      "price": 226
+    },
+    {
+      "abr": "mauserc96",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Mauser_C96_",
+      "price": 232
+    },
+    {
+      "abr": "mauserc96carbine",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Mauser_C96_Carbine_",
+      "price": 350
+    },
+    {
+      "abr": "mauserc96stock",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Mauser_C96_Stock_",
+      "price": 300
+    },
+    {
+      "abr": "mauserm1871",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_MauserM1871_",
+      "price": 425
+    },
+    {
+      "abr": "mauserm1871(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_MauserM1871_Bayonet_",
+      "price": 442
+    },
+    {
+      "abr": "mauserm1871cavalry",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_MauserM1871_Cavalry_",
+      "price": 358
+    },
+    {
+      "abr": "mauserm1871jägerbüchse",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_MauserM1871_Jagerbuchse_",
+      "price": 408
+    },
+    {
+      "abr": "mauserm1871/84",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_MauserM1871_84_",
+      "price": 442
+    },
+    {
+      "abr": "mauserm1871/84(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_MauserM1871_84_Bayonet_",
+      "price": 458
+    },
+    {
+      "abr": "maximm1889prussian",
+      "category": "Security",
+      "defname": "CGF1_MWP_Turret_Maxim_M1889_Prussian_",
+      "price": 917
+    },
+    {
+      "abr": "maximm1889prussian",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Maxim_M1889_Prussian_",
+      "price": 758
+    },
+    {
+      "abr": "remingtonrollingblockm1867",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Remington_RollingBlock_M1867_",
+      "price": 367
+    },
+    {
+      "abr": "remingtonrollingblockm1867/84",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Remington_RollingBlock_M1867_84_",
+      "price": 367
+    },
+    {
+      "abr": "remingtonrollingblockm1867/96",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Remington_RollingBlock_M1867_96_",
+      "price": 367
+    },
+    {
+      "abr": "revolverm/1871",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Revolver_M1871_",
+      "price": 226
+    },
+    {
+      "abr": "s&wmodel3russian",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_SW_Model3_Russian_",
+      "price": 226
+    },
+    {
+      "abr": "s&wmodel3russiannickel",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_SW_Model3_Russian_Nickel_",
+      "price": 250
+    },
+    {
+      "abr": "salvator-dormusm1893",
+      "category": "Security",
+      "defname": "CGF1_MWP_Turret_SalvatorDormus_M1893_",
+      "price": 917
+    },
+    {
+      "abr": "salvator-dormusm1893",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_SalvatorDormus_M1893_",
+      "price": 758
+    },
+    {
+      "abr": "wänzlm1854/67",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Wanzl_M1854_67_",
+      "price": 333
+    },
+    {
+      "abr": "wänzlm1862/67",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Wanzl_M1862_67_",
+      "price": 367
+    },
+    {
+      "abr": "wänzlm1862/67(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Wanzl_M1862_67_Bayonet_",
+      "price": 392
+    },
+    {
+      "abr": "wänzlm1862/67extra-corps",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_Wanzl_M1862_67_ExtraCorps_",
+      "price": 305
+    },
+    {
+      "abr": "werndl-holubm1867",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_WerndlHolub_M1867_",
+      "price": 367
+    },
+    {
+      "abr": "werndl-holubm1867(bayonet)",
+      "category": "Ranged weapons",
+      "defname": "CGF1_MWP_WerndlHolub_M1867_Bayonet_",
+      "price": 392
+    },
+    {
+      "abr": "musketball",
+      "category": "Musket ball",
+      "defname": "Ammo_MusketBall",
+      "price": 1
+    },
+    {
+      "abr": "7.63x25mmmausercartridge(fmj)",
+      "category": "7.63x25mm Mauser",
+      "defname": "Ammo_763x25mmMauser_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "7.63x25mmmausercartridge(ap)",
+      "category": "7.63x25mm Mauser",
+      "defname": "Ammo_763x25mmMauser_AP",
+      "price": 1
+    },
+    {
+      "abr": "7.63x25mmmausercartridge(hp)",
+      "category": "7.63x25mm Mauser",
+      "defname": "Ammo_763x25mmMauser_HP",
+      "price": 1
+    },
+    {
+      "abr": "10.15x61mmrcartridge(fmj)",
+      "category": "10.15x61mmR",
+      "defname": "Ammo_1015x61mmR_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "10.6x25mmrreichsrevolvercartridge(fmj)",
+      "category": "10.6x25mmR Reichsrevolver",
+      "defname": "Ammo_106x25mmR_Reichsrevolver_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "10.75x58mmrberdancartridge(fmj)",
+      "category": "10.75x58mmR Berdan",
+      "defname": "Ammo_1075x58mmRBerdan_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "11.15x42mmrwerndlcartridge(fmj)",
+      "category": "11.15x42mmR Werndl",
+      "defname": "Ammo_1115x42mmRWerndl_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "11.3x36mmrmontenegrincartridge(fmj)",
+      "category": "11.3x36mmR Montenegrin",
+      "defname": "Ammo_113x36mmR_Montenegrin_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "11mmchassepotcartridge(fmj)",
+      "category": "11mm Chassepot",
+      "defname": "Ammo_11mmChassepot_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "11x17.8mmrcartridge(fmj)",
+      "category": "11x17.8mmR",
+      "defname": "Ammo_11x178mmR_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "11x59mmrgrascartridge(fmj)",
+      "category": "11x59mmR Gras",
+      "defname": "Ammo_11x59mmRGras_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "11x60mmrmausercartridge(fmj)",
+      "category": "11x60mmR Mauser",
+      "defname": "Ammo_11x60mmRMauser_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "12.17x42mmrfcartridge(fmj)",
+      "category": "12.17x42mm RF",
+      "defname": "Ammo_1217x42mmRF_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "12mmlefaucheuxpinfirecartridge(fmj)",
+      "category": "12mm Lefaucheux Pinfire",
+      "defname": "Ammo_12mmLefaucheuxPinfire_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "14.3×33mmrwänzlcartridge(fmj)",
+      "category": "14.3×33mmR Wänzl",
+      "defname": "Ammo_143x33mmRWanzl_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "15.24x40mmrkrnkacartridge(fmj)",
+      "category": "15.24x40mmR Krnka",
+      "defname": "Ammo_1524x40mmRKrnka_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "15.4mmdreyseneedlecartridge(fmj)",
+      "category": "15.4mm Dreyse Needle",
+      "defname": "Ammo_154mmDreyseNeedle_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "6.5x23mmrmannlichercartridge(fmj)",
+      "category": "6.5x23mmR Mannlicher",
+      "defname": "Ammo_65x23mmR_Mannlicher_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "7.2mmrimfirecartridge(fmj)",
+      "category": "7.2mm Rimfire",
+      "defname": "Ammo_72mmRimfire_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "7.65x25mmborchardtcartridge(fmj)",
+      "category": "7.65x25mm Borchardt",
+      "defname": "Ammo_765x25mmBorchardt_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "7.65x25mmborchardtcartridge(ap)",
+      "category": "7.65x25mm Borchardt",
+      "defname": "Ammo_765x25mmBorchardt_AP",
+      "price": 1
+    },
+    {
+      "abr": "7.65x25mmborchardtcartridge(hp)",
+      "category": "7.65x25mm Borchardt",
+      "defname": "Ammo_765x25mmBorchardt_HP",
+      "price": 1
+    },
+    {
+      "abr": ".44russiancartridge(fmj)",
+      "category": ".44 Russian",
+      "defname": "Ammo_44Russian_FMJ",
+      "price": 1
+    },
+    {
+      "abr": ".44russiancartridge(ap)",
+      "category": ".44 Russian",
+      "defname": "Ammo_44Russian_AP",
+      "price": 1
+    },
+    {
+      "abr": ".44russiancartridge(hp)",
+      "category": ".44 Russian",
+      "defname": "Ammo_44Russian_HP",
+      "price": 1
+    },
+    {
+      "abr": "8x50mmrmannlichercartridge(fmj)",
+      "category": "8x50mmR Mannlicher",
+      "defname": "Ammo_8x50mmRMannlicher_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "8x50mmrmannlichercartridge(ap)",
+      "category": "8x50mmR Mannlicher",
+      "defname": "Ammo_8x50mmRMannlicher_AP",
+      "price": 1
+    },
+    {
+      "abr": "8x50mmrmannlichercartridge(hp)",
+      "category": "8x50mmR Mannlicher",
+      "defname": "Ammo_8x50mmRMannlicher_HP",
+      "price": 1
+    },
+    {
+      "abr": "8x50mmrmannlichercartridge(ap-i)",
+      "category": "8x50mmR Mannlicher",
+      "defname": "Ammo_8x50mmRMannlicher_Incendiary",
+      "price": 1
+    },
+    {
+      "abr": "8x50mmrmannlichercartridge(ap-he)",
+      "category": "8x50mmR Mannlicher",
+      "defname": "Ammo_8x50mmRMannlicher_HE",
+      "price": 1
+    },
+    {
+      "abr": "8x50mmrmannlichercartridge(sabot)",
+      "category": "8x50mmR Mannlicher",
+      "defname": "Ammo_8x50mmRMannlicher_Sabot",
+      "price": 1
+    },
+    {
+      "abr": "8x58mmrdanishkragcartridge(fmj)",
+      "category": "8x58mmR Danish Krag",
+      "defname": "Ammo_8x58mmRDanishKrag_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "8x58mmrdanishkragcartridge(ap)",
+      "category": "8x58mmR Danish Krag",
+      "defname": "Ammo_8x58mmRDanishKrag_AP",
+      "price": 1
+    },
+    {
+      "abr": "8x58mmrdanishkragcartridge(hp)",
+      "category": "8x58mmR Danish Krag",
+      "defname": "Ammo_8x58mmRDanishKrag_HP",
+      "price": 1
+    },
+    {
+      "abr": "8x58mmrdanishkragcartridge(ap-i)",
+      "category": "8x58mmR Danish Krag",
+      "defname": "Ammo_8x58mmRDanishKrag_Incendiary",
+      "price": 1
+    },
+    {
+      "abr": "8x58mmrdanishkragcartridge(ap-he)",
+      "category": "8x58mmR Danish Krag",
+      "defname": "Ammo_8x58mmRDanishKrag_HE",
+      "price": 1
+    },
+    {
+      "abr": "8x58mmrdanishkragcartridge(sabot)",
+      "category": "8x58mmR Danish Krag",
+      "defname": "Ammo_8x58mmRDanishKrag_Sabot",
+      "price": 1
+    },
+    {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
     }
   ],
-  "total": 915
+  "total": 1037
 }
