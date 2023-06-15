@@ -48,6 +48,12 @@
     "version": null
   },
   {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "legodude17",
     "name": "Better Bed Assignment",
     "steamId": "2417077360",
@@ -70,6 +76,12 @@
     "name": "Bulk Carrier",
     "steamId": "1428989232",
     "version": "1.3.1241.102"
+  },
+  {
+    "author": "Mlie",
+    "name": "Rats!",
+    "steamId": "2496563418",
+    "version": "1.4.3"
   },
   {
     "author": "CE Team",
@@ -264,16 +276,16 @@
     "version": "1.12.6.0"
   },
   {
+    "author": "NoImageAvailable",
+    "name": "Mass Graves",
+    "steamId": "1542386771",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Keshash",
     "name": "More Caliber Textures for Combat Extended Ammo",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Captain Muscles (Nathan Harbour) and SaberVS7",
-    "name": "No One Left Behind",
-    "steamId": "2879457494",
-    "version": "1.1.1"
   },
   {
     "author": "avilmask",
@@ -357,7 +369,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8539.10294"
+    "version": "1.0.8560.38088"
   },
   {
     "author": "Lucifer",
@@ -450,6 +462,12 @@
     "version": "1.4.1.0"
   },
   {
+    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "name": "Vanilla Furniture Expanded - Security",
+    "steamId": "1845154007",
+    "version": "1.1.1.0"
+  },
+  {
     "author": "1trickPwnyta",
     "name": "Visible Raid Points",
     "steamId": "2562730174",
@@ -526,6 +544,12 @@
     "name": "[WD] Realistic Darkness (Light)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "[XND] Adrenaline! (Continued)",
+    "steamId": "2037728879",
+    "version": "1.4.1"
   },
   {
     "author": "Krkr",

@@ -1897,6 +1897,62 @@
       },
       "defName": "Hygienic",
       "name": "slob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1000,
+      "removePrice": 1000,
+      "degree": 0,
+      "description": "Timmy lives for the thrill of the action. he gets a rush from the adrenaline that flows throughout his veins.",
+      "stats": [],
+      "conflicts": [
+        "cool-headed"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "cool-headed"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[XND] Adrenaline! (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AdrenalineJunkie",
+      "name": "adrenalinejunkie"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 1000,
+      "removePrice": 1000,
+      "degree": 0,
+      "description": "Timmy tends to keep calm in heated situations and generally doesn't get an adrenaline rush from them.",
+      "stats": [
+        "-100.0% adrenaline production"
+      ],
+      "conflicts": [
+        "adrenalinejunkie"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "adrenalinejunkie"
+        ],
+        "stats": [
+          "-100.0% adrenaline production"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "[XND] Adrenaline! (Continued)",
+        "karmaTypeForAdding": null
+      },
+      "defName": "CoolHeaded",
+      "name": "cool-headed"
     }
   ],
   "races": [
