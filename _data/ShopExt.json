@@ -620,58 +620,6 @@
       "addPrice": 1000,
       "removePrice": 1000,
       "degree": 0,
-      "description": "Timmy feels limited in his feeble human body. he often dreams of being enhanced with artificial body parts or xenogenetics.",
-      "stats": [],
-      "conflicts": [
-        "bodypurist"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bodypurist"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null
-      },
-      "defName": "Transhumanist",
-      "name": "bodymodder"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": 0,
-      "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts and xenogenes are unethical and disgusting.",
-      "stats": [],
-      "conflicts": [
-        "bodymodder"
-      ],
-      "bypassLimit": false,
-      "data": {
-        "conflicts": [
-          "bodymodder"
-        ],
-        "stats": [],
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RimWorld",
-        "karmaTypeForAdding": null
-      },
-      "defName": "BodyPurist",
-      "name": "bodypurist"
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1000,
-      "removePrice": 1000,
-      "degree": 0,
       "description": "Timmy really dislikes and distrusts men.",
       "stats": [],
       "conflicts": [],
@@ -1953,6 +1901,28 @@
       },
       "defName": "CoolHeaded",
       "name": "cool-headed"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "This is a machine.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "PLA Steel Torrent",
+        "karmaTypeForAdding": null
+      },
+      "defName": "PLA_TraitWarMachine",
+      "name": "warmachine"
     }
   ],
   "races": [
