@@ -369,7 +369,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8569.40407"
+    "version": "1.0.8579.28808"
   },
   {
     "author": "Lucifer",
@@ -424,6 +424,12 @@
     "name": "Search and Destroy",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Share The Load",
+    "steamId": "1356838246",
+    "version": "1.0.0.0"
   },
   {
     "author": "Lanilor",
@@ -556,6 +562,12 @@
     "name": "[GMT] Trading Spot",
     "steamId": "2874517333",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] RIM AT WAR - WW2 Japanese Weapons",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Krazy4Games CLERK",
