@@ -13,9 +13,15 @@
   },
   {
     "author": "bradson",
+    "name": "Fishery - Modding Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradson",
     "name": "Performance Fish",
     "steamId": "",
-    "version": "1.0.0"
+    "version": "0.3.800.85"
   },
   {
     "author": "AUTOMATIC",
@@ -28,24 +34,6 @@
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "10.0.1"
-  },
-  {
-    "author": "Mlie",
-    "name": "Rats!",
-    "steamId": "2496563418",
-    "version": "1.4.4"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "2890901044",
-    "version": "1.4.5.3"
-  },
-  {
-    "author": "Faryzal2020",
-    "name": "Absolutely More Cannons - CE Version",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "UnlimitedHugs",
@@ -94,6 +82,18 @@
     "name": "Bulk Carrier",
     "steamId": "1428989232",
     "version": "1.3.1241.102"
+  },
+  {
+    "author": "Mlie",
+    "name": "Rats!",
+    "steamId": "2496563418",
+    "version": "1.4.4"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "2890901044",
+    "version": "1.4.5.3"
   },
   {
     "author": "Krkr",
@@ -150,6 +150,12 @@
     "version": "1.4"
   },
   {
+    "author": "SirVan",
+    "name": "Dark Ages : Crypts and Tombs",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Trojan - Troopersmith1 - Linq - deathrat",
     "name": "Death Rattle [1.4]",
     "steamId": null,
@@ -204,10 +210,22 @@
     "version": "1.4.0"
   },
   {
+    "author": "Karmgahl",
+    "name": "Faction Customizer",
+    "steamId": "2637999346",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Uuugggg",
     "name": "Five Second Rule",
     "steamId": "1324190225",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "GloomyLynx NukaFrog",
+    "name": "GloomyFurniture",
+    "steamId": "1558635181",
+    "version": "1.0.4"
   },
   {
     "author": "Telefonmast",
@@ -276,15 +294,21 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Keshash",
-    "name": "More Caliber Textures for Combat Extended Ammo",
+    "author": "avilmask",
+    "name": "Non uno Pinata (don't drop items)",
+    "steamId": "1778821244",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outland - More Floors",
     "steamId": null,
     "version": null
   },
   {
-    "author": "avilmask",
-    "name": "Non uno Pinata (don't drop items)",
-    "steamId": "1778821244",
+    "author": "Neronix17",
+    "name": "Outland - Terrain",
+    "steamId": "2850840457",
     "version": "1.0.0.0"
   },
   {
@@ -369,7 +393,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8579.28808"
+    "version": "1.0.8589.3035"
   },
   {
     "author": "Lucifer",
@@ -396,16 +420,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "空曜",
-    "name": "Aerocraft Framework",
-    "steamId": "2959802157",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Aoba",
-    "name": "RimThunder - Eastern Skies",
-    "steamId": null,
-    "version": null
+    "author": "Torann",
+    "name": "Rim War",
+    "steamId": "2222935097",
+    "version": "0.9.8.10"
   },
   {
     "author": "user19990313 and Trinity",
@@ -435,7 +453,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.4.2"
+    "version": "1.4.3"
   },
   {
     "author": "dhultgren",
@@ -486,6 +504,12 @@
     "version": "6.3.0.0.biotech.B4"
   },
   {
+    "author": "TRM",
+    "name": "Total Control",
+    "steamId": "2649548096",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "TwitchToolkit - Lootboxes (Unofficial)",
     "steamId": "1720021578",
@@ -510,6 +534,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Oskar Potocki",
     "name": "Vanilla Furniture Expanded - Props and Decor",
     "steamId": null,
@@ -520,6 +550,24 @@
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
     "version": "1.1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Ideology Expanded - Memes and Structures",
+    "steamId": "2636329500",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Erin",
+    "name": "Vanilla Races Expanded - Sanguophage",
+    "steamId": "2963116383",
+    "version": "1.0.0.0"
   },
   {
     "author": "1trickPwnyta",
@@ -534,16 +582,16 @@
     "version": "1.3.60.5"
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
-  },
-  {
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
     "version": "1.7.0"
+  },
+  {
+    "author": "bradson",
+    "name": "Xenotype Spawn Control",
+    "steamId": "2891975564",
+    "version": "1.0.0"
   },
   {
     "author": "FrozenSnowFox",
@@ -565,19 +613,7 @@
   },
   {
     "author": "Harkon",
-    "name": "[HRK] RIM AT WAR - WW2 Japanese Weapons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Krazy4Games CLERK",
-    "name": "[K4G] RimWorld War 2",
-    "steamId": "2951991212",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Krazy4Games",
-    "name": "[K4G] RimWorld War 2 Retextures",
+    "name": "[HRK] Medieval deathrest coffin",
     "steamId": null,
     "version": null
   },
@@ -606,28 +642,10 @@
     "version": null
   },
   {
-    "author": "Chicken Plucker",
-    "name": "[RH2] Rimmu-Nation² - Security",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Syrchalis",
     "name": "[SYR] Set Up Camp",
     "steamId": "1470065926",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Issac Zhuang",
-    "name": "PLA Steel Torrent",
-    "steamId": "2743947189",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Tittymcswaggy",
-    "name": "[TMC] Steel Torrent addon - T34 tank",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Wemd",

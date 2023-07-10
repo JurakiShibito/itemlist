@@ -28,7 +28,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": -10
+      "price": 117
     },
     {
       "abr": "penoxycyline",
@@ -70,145 +70,145 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": -10
+      "price": 4333
     },
     {
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "bioniceye",
       "category": "Bionic",
       "defname": "BionicEye",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicarm",
       "category": "Bionic",
       "defname": "BionicArm",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicleg",
       "category": "Bionic",
       "defname": "BionicLeg",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicspine",
       "category": "Bionic",
       "defname": "BionicSpine",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bionicstomach",
       "category": "Bionic",
       "defname": "BionicStomach",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "deathacidifier",
       "category": "Bionic",
       "defname": "DeathAcidifier",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "bionicear",
       "category": "Bionic",
       "defname": "BionicEar",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "bionictongue",
       "category": "Bionic",
       "defname": "BionicTongue",
-      "price": -10
+      "price": 942
     },
     {
       "abr": "heart",
       "category": "Natural",
       "defname": "Heart",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "lung",
       "category": "Natural",
       "defname": "Lung",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "kidney",
       "category": "Natural",
       "defname": "Kidney",
-      "price": -10
+      "price": 1500
     },
     {
       "abr": "liver",
       "category": "Natural",
       "defname": "Liver",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "prostheticleg",
       "category": "Prosthetic",
       "defname": "SimpleProstheticLeg",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "prostheticarm",
       "category": "Prosthetic",
       "defname": "SimpleProstheticArm",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "prostheticheart",
       "category": "Prosthetic",
       "defname": "SimpleProstheticHeart",
-      "price": -10
+      "price": 383
     },
     {
       "abr": "cochlearimplant",
       "category": "Prosthetic",
       "defname": "CochlearImplant",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "powerclaw",
       "category": "Prosthetic",
       "defname": "PowerClaw",
-      "price": -10
+      "price": 642
     },
     {
       "abr": "joywire",
       "category": "Prosthetic",
       "defname": "Joywire",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "painstopper",
       "category": "Prosthetic",
       "defname": "Painstopper",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "urn",
@@ -412,13 +412,13 @@
       "abr": "flatscreentelevision",
       "category": "Recreation",
       "defname": "FlatscreenTelevision",
-      "price": -10
+      "price": 1533
     },
     {
       "abr": "megascreentelevision",
       "category": "Recreation",
       "defname": "MegascreenTelevision",
-      "price": -10
+      "price": 2475
     },
     {
       "abr": "telescope",
@@ -436,7 +436,7 @@
       "abr": "orbitaltradebeacon",
       "category": "Misc",
       "defname": "OrbitalTradeBeacon",
-      "price": -10
+      "price": 185
     },
     {
       "abr": "firefoampopper",
@@ -478,7 +478,7 @@
       "abr": "battery",
       "category": "Power",
       "defname": "Battery",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "artbench",
@@ -568,7 +568,7 @@
       "abr": "fermentingbarrel",
       "category": "Production",
       "defname": "FermentingBarrel",
-      "price": 95
+      "price": 202
     },
     {
       "abr": "deepdrill",
@@ -598,7 +598,7 @@
       "abr": "iedemptrap",
       "category": "Security",
       "defname": "TrapIED_EMP",
-      "price": -10
+      "price": 383
     },
     {
       "abr": "iedsmoketrap",
@@ -616,13 +616,13 @@
       "abr": "iedantigrainwarheadtrap",
       "category": "Security",
       "defname": "TrapIED_AntigrainWarhead",
-      "price": -10
+      "price": 2508
     },
     {
       "abr": "mini-turret",
       "category": "Security",
       "defname": "Turret_MiniTurret",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "81mmmortar",
@@ -634,25 +634,25 @@
       "abr": "foamturret",
       "category": "Security",
       "defname": "Turret_FoamTurret",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "psychicemanator",
       "category": "Special",
       "defname": "PsychicEmanator",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "infinitechemreactor",
       "category": "Special",
       "defname": "InfiniteChemreactor",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "heater",
@@ -664,37 +664,37 @@
       "abr": "psychicanimalpulser",
       "category": "Artifacts",
       "defname": "PsychicAnimalPulser",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psychicsoothepulser",
       "category": "Artifacts",
       "defname": "PsychicSoothePulser",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "personacore",
       "category": "Misc",
       "defname": "AIPersonaCore",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "healermechserum",
       "category": "Misc",
       "defname": "MechSerumHealer",
-      "price": -10
+      "price": 2167
     },
     {
       "abr": "resurrectormechserum",
       "category": "Misc",
       "defname": "MechSerumResurrector",
-      "price": -10
+      "price": 2833
     },
     {
       "abr": "techprofsubpersonacore",
       "category": "Misc",
       "defname": "TechprofSubpersonaCore",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "thrumbohorn",
@@ -796,7 +796,7 @@
       "abr": "chickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggChickenUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenegg(fert.)",
@@ -850,7 +850,7 @@
       "abr": "duckegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggDuckUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "duckegg(fert.)",
@@ -862,7 +862,7 @@
       "abr": "gooseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggGooseUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "gooseegg(fert.)",
@@ -886,7 +886,7 @@
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "component",
@@ -904,7 +904,7 @@
       "abr": "neutroamine",
       "category": "Manufactured",
       "defname": "Neutroamine",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "chemfuel",
@@ -1198,7 +1198,7 @@
       "abr": "shieldbelt",
       "category": "Utility",
       "defname": "Apparel_ShieldBelt",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "cowboyhat",
@@ -1252,13 +1252,13 @@
       "abr": "marinehelmet",
       "category": "Headgear",
       "defname": "Apparel_PowerArmorHelmet",
-      "price": -10
+      "price": 1542
     },
     {
       "abr": "reconhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetRecon",
-      "price": -10
+      "price": 1317
     },
     {
       "abr": "psychicfoilhelmet",
@@ -1288,13 +1288,13 @@
       "abr": "psychicshocklance",
       "category": "Utility",
       "defname": "Apparel_PsychicShockLance",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psychicinsanitylance",
       "category": "Utility",
       "defname": "Apparel_PsychicInsanityLance",
-      "price": -10
+      "price": 1083
     },
     {
       "abr": "tribalwear",
@@ -1366,13 +1366,13 @@
       "abr": "marinearmor",
       "category": "Armor",
       "defname": "Apparel_PowerArmor",
-      "price": -10
+      "price": 5250
     },
     {
       "abr": "reconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorRecon",
-      "price": -10
+      "price": 3933
     },
     {
       "abr": "cape",
@@ -1474,7 +1474,7 @@
       "abr": "machinepistol",
       "category": "Ranged weapons",
       "defname": "Gun_MachinePistol",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "incendiarylauncher",
@@ -1510,7 +1510,7 @@
       "abr": "lmg",
       "category": "Ranged weapons",
       "defname": "Gun_LMG",
-      "price": -10
+      "price": 725
     },
     {
       "abr": "assaultrifle",
@@ -1522,25 +1522,25 @@
       "abr": "sniperrifle",
       "category": "Ranged weapons",
       "defname": "Gun_SniperRifle",
-      "price": -10
+      "price": 692
     },
     {
       "abr": "minigun",
       "category": "Ranged weapons",
       "defname": "Gun_Minigun",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "triplerocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_TripleRocket",
-      "price": -10
+      "price": 967
     },
     {
       "abr": "doomsdayrocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_DoomsdayRocket",
-      "price": -10
+      "price": 1200
     },
     {
       "abr": "fraggrenade",
@@ -1558,7 +1558,7 @@
       "abr": "empgrenade",
       "category": "Grenades",
       "defname": "Weapon_GrenadeEMP",
-      "price": -10
+      "price": 35
     },
     {
       "abr": "shortbow",
@@ -1582,25 +1582,25 @@
       "abr": "chargerifle",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeRifle",
-      "price": -10
+      "price": 1392
     },
     {
       "abr": "orbitalbombardmenttargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterBombardment",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "orbitalpowerbeamtargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterPowerBeam",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "tornadogenerator",
       "category": "Utility",
       "defname": "TornadoGenerator",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "dye",
@@ -1978,169 +1978,169 @@
       "abr": "psychicsensitizer",
       "category": "Archotech",
       "defname": "PsychicSensitizer",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psychicharmonizer",
       "category": "Archotech",
       "defname": "PsychicHarmonizer",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "psychicreader",
       "category": "Archotech",
       "defname": "PsychicReader",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "neurocalculator",
       "category": "Bionic",
       "defname": "Neurocalculator",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "learningassistant",
       "category": "Bionic",
       "defname": "LearningAssistant",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "gastro-analyzer",
       "category": "Bionic",
       "defname": "GastroAnalyzer",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "immunoenhancer",
       "category": "Bionic",
       "defname": "Immunoenhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "coagulator",
       "category": "Bionic",
       "defname": "Coagulator",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "healingenhancer",
       "category": "Bionic",
       "defname": "HealingEnhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "toughskingland",
       "category": "Bionic",
       "defname": "ToughskinGland",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "armorskingland",
       "category": "Bionic",
       "defname": "ArmorskinGland",
-      "price": -10
+      "price": 2458
     },
     {
       "abr": "stoneskingland",
       "category": "Bionic",
       "defname": "StoneskinGland",
-      "price": -10
+      "price": 3200
     },
     {
       "abr": "aestheticshaper",
       "category": "Bionic",
       "defname": "AestheticShaper",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "aestheticnose",
       "category": "Bionic",
       "defname": "AestheticNose",
-      "price": -10
+      "price": 975
     },
     {
       "abr": "loveenhancer",
       "category": "Bionic",
       "defname": "LoveEnhancer",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "sterilizingstomach",
       "category": "Bionic",
       "defname": "DetoxifierStomach",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "reprocessorstomach",
       "category": "Bionic",
       "defname": "ReprocessorStomach",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "nuclearstomach",
       "category": "Bionic",
       "defname": "NuclearStomach",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "circadianassistant",
       "category": "Bionic",
       "defname": "CircadianAssistant",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "circadianhalf-cycler",
       "category": "Bionic",
       "defname": "CircadianHalfCycler",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "mindscrew",
       "category": "Prosthetic",
       "defname": "Mindscrew",
-      "price": -10
+      "price": 350
     },
     {
       "abr": "drillarm",
       "category": "Prosthetic",
       "defname": "DrillArm",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "fieldhand",
       "category": "Prosthetic",
       "defname": "FieldHand",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "handtalon",
       "category": "Prosthetic",
       "defname": "HandTalon",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "elbowblade",
       "category": "Prosthetic",
       "defname": "ElbowBlade",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "kneespike",
       "category": "Prosthetic",
       "defname": "KneeSpike",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "venomfangs",
       "category": "Prosthetic",
       "defname": "VenomFangs",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "venomtalon",
       "category": "Prosthetic",
       "defname": "VenomTalon",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "drape",
@@ -2176,19 +2176,19 @@
       "abr": "unstablepowercell",
       "category": "Special",
       "defname": "UnstablePowerCell",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "mechnode",
       "category": "Special",
       "defname": "Gloomlight",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "shiplandingbeacon",
       "category": "Misc",
       "defname": "ShipLandingBeacon",
-      "price": -10
+      "price": 185
     },
     {
       "abr": "smallnatureshrine",
@@ -2200,13 +2200,13 @@
       "abr": "largenatureshrine",
       "category": "Misc",
       "defname": "NatureShrine_Large",
-      "price": -10
+      "price": 1183
     },
     {
       "abr": "animusstone",
       "category": "Misc",
       "defname": "AnimusStone",
-      "price": -10
+      "price": 8333
     },
     {
       "abr": "harp",
@@ -2230,49 +2230,49 @@
       "abr": "shieldcore",
       "category": "Misc",
       "defname": "BroadshieldCore",
-      "price": -10
+      "price": 583
     },
     {
       "abr": "jumppack",
       "category": "Utility",
       "defname": "Apparel_PackJump",
-      "price": -10
+      "price": 1075
     },
     {
       "abr": "low-shieldpack",
       "category": "Utility",
       "defname": "Apparel_PackBroadshield",
-      "price": -10
+      "price": 717
     },
     {
       "abr": "eltexhelmet",
       "category": "Headgear",
       "defname": "Apparel_PsyfocusHelmet",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "eltexskullcap",
       "category": "Headgear",
       "defname": "Apparel_EltexSkullcap",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "eltexshirt",
       "category": "Misc",
       "defname": "Apparel_PsyfocusShirt",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "eltexvest",
       "category": "Misc",
       "defname": "Apparel_PsyfocusVest",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "eltexrobe",
       "category": "Misc",
       "defname": "Apparel_PsyfocusRobe",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "formalshirt",
@@ -2338,91 +2338,91 @@
       "abr": "prestigereconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorReconPrestige",
-      "price": -10
+      "price": 4508
     },
     {
       "abr": "prestigereconhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetReconPrestige",
-      "price": -10
+      "price": 1775
     },
     {
       "abr": "prestigemarinearmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarinePrestige",
-      "price": -10
+      "price": 5925
     },
     {
       "abr": "prestigemarinehelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorMarineHelmetPrestige",
-      "price": -10
+      "price": 2200
     },
     {
       "abr": "cataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphract",
-      "price": -10
+      "price": 7550
     },
     {
       "abr": "cataphracthelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetCataphract",
-      "price": -10
+      "price": 2367
     },
     {
       "abr": "prestigecataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPrestige",
-      "price": -10
+      "price": 8450
     },
     {
       "abr": "prestigecataphracthelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetCataphractPrestige",
-      "price": -10
+      "price": 2825
     },
     {
       "abr": "locustarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorLocust",
-      "price": -10
+      "price": 5083
     },
     {
       "abr": "grenadierarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarineGrenadier",
-      "price": -10
+      "price": 5700
     },
     {
       "abr": "phoenixarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPhoenix",
-      "price": -10
+      "price": 8150
     },
     {
       "abr": "gunlink",
       "category": "Headgear",
       "defname": "Apparel_Gunlink",
-      "price": -10
+      "price": 575
     },
     {
       "abr": "personamonosword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "personazeushammer",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_ZeusHammerBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "personaplasmasword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_PlasmaSwordBladelink",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "axe",
@@ -2440,31 +2440,31 @@
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "plasmasword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PlasmaSword",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "orbitalmechclustertargeter",
       "category": "Utility",
       "defname": "OrbitalTargeterMechCluster",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "eltexstaff",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PsyfocusStaff",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "terrorsculpture",
@@ -2476,19 +2476,19 @@
       "abr": "sleepaccelerator",
       "category": "Misc",
       "defname": "SleepAccelerator",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "biosculpterpod",
       "category": "Misc",
       "defname": "BiosculpterPod",
-      "price": -10
+      "price": 758
     },
     {
       "abr": "neuralsupercharger",
       "category": "Misc",
       "defname": "NeuralSupercharger",
-      "price": -10
+      "price": 408
     },
     {
       "abr": "christmastree",
@@ -2500,7 +2500,7 @@
       "abr": "cannibalplatter",
       "category": "Misc",
       "defname": "CannibalPlatter",
-      "price": -10
+      "price": 220
     },
     {
       "abr": "effigy",
@@ -2512,7 +2512,7 @@
       "abr": "sacrificialflag",
       "category": "Misc",
       "defname": "SacrificialFlag",
-      "price": -10
+      "price": 198
     },
     {
       "abr": "pyre",
@@ -2524,13 +2524,13 @@
       "abr": "burnbong",
       "category": "Misc",
       "defname": "Burnbong",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "incenseshrine",
       "category": "Misc",
       "defname": "IncenseShrine",
-      "price": -10
+      "price": 272
     },
     {
       "abr": "lectern",
@@ -2554,13 +2554,13 @@
       "abr": "lightball",
       "category": "Misc",
       "defname": "LightBall",
-      "price": -10
+      "price": 154
     },
     {
       "abr": "loudspeaker",
       "category": "Misc",
       "defname": "Loudspeaker",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "drum",
@@ -2764,49 +2764,49 @@
       "abr": "chalice",
       "category": "Inert relics",
       "defname": "RelicInertCup",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "pendant",
       "category": "Inert relics",
       "defname": "RelicInertPendant",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "box",
       "category": "Inert relics",
       "defname": "RelicInertBox",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "tablet",
       "category": "Inert relics",
       "defname": "RelicInertTablet",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "fragment",
       "category": "Inert relics",
       "defname": "RelicInertFragment",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "hilt",
       "category": "Inert relics",
       "defname": "RelicInertSwordHandle",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "ark",
       "category": "Inert relics",
       "defname": "RelicInertArk",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "cube",
       "category": "Inert relics",
       "defname": "RelicInertCube",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "gauranlenseed",
@@ -2818,91 +2818,91 @@
       "abr": "detoxifierlung",
       "category": "Bionic",
       "defname": "DetoxifierLung",
-      "price": -10
+      "price": 1542
     },
     {
       "abr": "detoxifierkidney",
       "category": "Bionic",
       "defname": "DetoxifierKidney",
-      "price": -10
+      "price": 1800
     },
     {
       "abr": "mechlink",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "controlsublink(standard)",
       "category": "Mechtech",
       "defname": "ControlSublink",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "controlsublink(high)",
       "category": "Mechtech",
       "defname": "ControlSublinkHigh",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "remoterepairer",
       "category": "Mechtech",
       "defname": "RemoteRepairer",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "mechgestationprocessor",
       "category": "Mechtech",
       "defname": "MechFormfeeder",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "remoteshielder",
       "category": "Mechtech",
       "defname": "RemoteShielder",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "repairprobe",
       "category": "Mechtech",
       "defname": "RepairProbe",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "deathrestcasket",
       "category": "Misc",
       "defname": "DeathrestCasket",
-      "price": -10
+      "price": 492
     },
     {
       "abr": "hemopump",
       "category": "Misc",
       "defname": "Hemopump",
-      "price": -10
+      "price": 600
     },
     {
       "abr": "hemogenamplifier",
       "category": "Misc",
       "defname": "HemogenAmplifier",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "glucosoidpump",
       "category": "Misc",
       "defname": "GlucosoidPump",
-      "price": -10
+      "price": 858
     },
     {
       "abr": "psychofluidpump",
       "category": "Misc",
       "defname": "PsychofluidPump",
-      "price": -10
+      "price": 2042
     },
     {
       "abr": "deathrestaccelerator",
       "category": "Misc",
       "defname": "DeathrestAccelerator",
-      "price": -10
+      "price": 1183
     },
     {
       "abr": "toybox",
@@ -2920,7 +2920,7 @@
       "abr": "babydecoration",
       "category": "Furniture",
       "defname": "BabyDecoration",
-      "price": -10
+      "price": 205
     },
     {
       "abr": "crib",
@@ -2944,7 +2944,7 @@
       "abr": "pollutionpump",
       "category": "Misc",
       "defname": "PollutionPump",
-      "price": -10
+      "price": 315
     },
     {
       "abr": "bloodtorch",
@@ -2956,7 +2956,7 @@
       "abr": "mechbooster",
       "category": "Misc",
       "defname": "MechBooster",
-      "price": -10
+      "price": 575
     },
     {
       "abr": "iedtoxtrap",
@@ -2968,7 +2968,7 @@
       "abr": "subcoreencoder",
       "category": "Production",
       "defname": "SubcoreEncoder",
-      "price": -10
+      "price": 525
     },
     {
       "abr": "babyfood",
@@ -2998,139 +2998,139 @@
       "abr": "standardsubcore",
       "category": "Manufactured",
       "defname": "SubcoreRegular",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "highsubcore",
       "category": "Manufactured",
       "defname": "SubcoreHigh",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "signalchip",
       "category": "Manufactured",
       "defname": "SignalChip",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "powerfocuschip",
       "category": "Manufactured",
       "defname": "PowerfocusChip",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "nanostructuringchip",
       "category": "Manufactured",
       "defname": "NanostructuringChip",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "deathrestcapacityserum",
       "category": "Misc",
       "defname": "DeathrestCapacitySerum",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "genepack",
       "category": "Misc",
       "defname": "Genepack",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "xenogerm",
       "category": "Misc",
       "defname": "Xenogerm",
-      "price": -10
+      "price": 167
     },
     {
       "abr": "architecapsule",
       "category": "Misc",
       "defname": "ArchiteCapsule",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "mechanoidtransponder",
       "category": "Misc",
       "defname": "MechanoidTransponder",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "ovum",
       "category": "Misc",
       "defname": "HumanOvum",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "embryo",
       "category": "Misc",
       "defname": "HumanEmbryo",
-      "price": -10
+      "price": 83
     },
     {
       "abr": "kidromper",
       "category": "Misc",
       "defname": "Apparel_KidRomper",
-      "price": -10
+      "price": 112
     },
     {
       "abr": "kidshirt",
       "category": "Misc",
       "defname": "Apparel_KidShirt",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "kidpants",
       "category": "Misc",
       "defname": "Apparel_KidPants",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "kidparka",
       "category": "Misc",
       "defname": "Apparel_KidParka",
-      "price": -10
+      "price": 172
     },
     {
       "abr": "kidtribalwear",
       "category": "Misc",
       "defname": "Apparel_KidTribal",
-      "price": -10
+      "price": 108
     },
     {
       "abr": "kidhelmet",
       "category": "Headgear",
       "defname": "Apparel_KidHelmet",
-      "price": -10
+      "price": 79
     },
     {
       "abr": "airwireheadset",
       "category": "Headgear",
       "defname": "Apparel_AirwireHeadset",
-      "price": -10
+      "price": 383
     },
     {
       "abr": "arrayheadset",
       "category": "Headgear",
       "defname": "Apparel_ArrayHeadset",
-      "price": -10
+      "price": 600
     },
     {
       "abr": "integratorheadset",
       "category": "Headgear",
       "defname": "Apparel_IntegratorHeadset",
-      "price": -10
+      "price": 4192
     },
     {
       "abr": "mechcommanderhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetMechCommander",
-      "price": -10
+      "price": 2150
     },
     {
       "abr": "mechlordhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetMechlordHelmet",
-      "price": -10
+      "price": 9483
     },
     {
       "abr": "gasmask",
@@ -3148,25 +3148,25 @@
       "abr": "controlpack",
       "category": "Utility",
       "defname": "Apparel_PackControl",
-      "price": -10
+      "price": 658
     },
     {
       "abr": "bandwidthpack",
       "category": "Utility",
       "defname": "Apparel_PackBandwidth",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "toxpack",
       "category": "Utility",
       "defname": "Apparel_PackTox",
-      "price": -10
+      "price": 219
     },
     {
       "abr": "mechlordsuit",
       "category": "Armor",
       "defname": "Apparel_MechlordSuit",
-      "price": -10
+      "price": 12708
     },
     {
       "abr": "heavybandolier",
@@ -3184,13 +3184,13 @@
       "abr": "toxgrenade",
       "category": "Grenades",
       "defname": "Weapon_GrenadeTox",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "poluxseed",
       "category": "Misc",
       "defname": "PoluxSeed",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "wasterat",
@@ -3226,19 +3226,19 @@
       "abr": "chargeblasterauto-turret",
       "category": "Security",
       "defname": "Turret_Blaster",
-      "price": -10
+      "price": 1925
     },
     {
       "abr": "heavyauto-turret",
       "category": "Security",
       "defname": "Turret_Heavy",
-      "price": -10
+      "price": 1775
     },
     {
       "abr": "mediumauto-turret",
       "category": "Security",
       "defname": "Turret_Medium",
-      "price": -10
+      "price": 1142
     },
     {
       "abr": "kpvmachinegun",
@@ -3256,7 +3256,7 @@
       "abr": "ags-30",
       "category": "Security",
       "defname": "Turret_AGSThirty",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "90mmflakturret",
@@ -3292,7 +3292,7 @@
       "abr": "kidbackpack",
       "category": "Loadbearing gear",
       "defname": "CE_Apparel_KidBackpack",
-      "price": -10
+      "price": 91
     },
     {
       "abr": "tribalbackpack",
@@ -3304,7 +3304,7 @@
       "abr": "poweredexoframe",
       "category": "Loadbearing gear",
       "defname": "CE_Apparel_ExoFrame",
-      "price": -10
+      "price": 1708
     },
     {
       "abr": "platehelmet",
@@ -3415,88 +3415,40 @@
       "price": 1083
     },
     {
-      "abr": "cncmachine",
-      "category": "Production",
-      "defname": "CNCmachine",
-      "price": 2025
-    },
-    {
-      "abr": "cncmodule",
-      "category": "Misc",
-      "defname": "CNCmodule",
-      "price": 1883
-    },
-    {
-      "abr": "automatedfcscomputer",
-      "category": "AMC Materials",
-      "defname": "FCSComputer",
-      "price": -10
-    },
-    {
-      "abr": "m1944bs-3",
-      "category": "Security",
-      "defname": "100mmBS3_Turret",
-      "price": 1275
-    },
-    {
-      "abr": "pak44",
-      "category": "Security",
-      "defname": "128mmPak44_Turret",
-      "price": 1683
-    },
-    {
-      "abr": "pak40",
-      "category": "Security",
-      "defname": "75mmPak40_Turret",
-      "price": 883
-    },
-    {
-      "abr": "flak41",
-      "category": "Security",
-      "defname": "88mmFlak41_Turret",
-      "price": 1050
-    },
-    {
-      "abr": "7.5cmle.ig18",
-      "category": "Security",
-      "defname": "75mmLEIG18_Turret",
-      "price": 1167
-    },
-    {
       "abr": "parrotinthecage",
       "category": "Security",
       "defname": "CombatAI_TribalPoleCCTV",
-      "price": -10
+      "price": 164
     },
     {
       "abr": "industrialcameraonpolemount",
       "category": "Security",
       "defname": "CombatAI_IndustrialPoleCCTV",
-      "price": -10
+      "price": 261
     },
     {
       "abr": "spacercameraonpolemount",
       "category": "Security",
       "defname": "CombatAI_SpacerPoleCCTV",
-      "price": -10
+      "price": 658
     },
     {
       "abr": "industrialwallmountedcctv",
       "category": "Security",
       "defname": "CombatAI_CCTVTurretIndustrial",
-      "price": -10
+      "price": 658
     },
     {
       "abr": "spacerwallmountedcctv",
       "category": "Security",
       "defname": "CombatAI_CCTVTurretSpacer",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "indoorautomatedcamera",
       "category": "Security",
       "defname": "CombatAI_IndoorCCTV",
-      "price": -10
+      "price": 140
     },
     {
       "abr": "canopy",
@@ -3551,6 +3503,474 @@
       "category": "Furniture",
       "defname": "WoodPile",
       "price": 212
+    },
+    {
+      "abr": "skeletonstatue",
+      "category": "Art",
+      "defname": "DA_SkeletonStatue",
+      "price": 517
+    },
+    {
+      "abr": "sepulchralbrazier",
+      "category": "Furniture",
+      "defname": "DA_SepulchralBrazier",
+      "price": 211
+    },
+    {
+      "abr": "coffin",
+      "category": "Misc",
+      "defname": "DA_Coffin",
+      "price": 136
+    },
+    {
+      "abr": "impstatue",
+      "category": "Misc",
+      "defname": "DA_ImpStatue",
+      "price": 179
+    },
+    {
+      "abr": "gargoylestatue",
+      "category": "Misc",
+      "defname": "DA_GargoyleStatue",
+      "price": 254
+    },
+    {
+      "abr": "demonstatue",
+      "category": "Misc",
+      "defname": "DA_DemonStatue",
+      "price": 425
+    },
+    {
+      "abr": "heroicmemorial",
+      "category": "Misc",
+      "defname": "DA_HeroicMemorial",
+      "price": 892
+    },
+    {
+      "abr": "burialurn",
+      "category": "Misc",
+      "defname": "DA_BurialUrn",
+      "price": 102
+    },
+    {
+      "abr": "bed",
+      "category": "Furniture",
+      "defname": "RGK_bedSingle",
+      "price": 155
+    },
+    {
+      "abr": "bed",
+      "category": "Furniture",
+      "defname": "RGK_bedSingleB",
+      "price": 155
+    },
+    {
+      "abr": "doublebed",
+      "category": "Furniture",
+      "defname": "RGK_bedDouble",
+      "price": 292
+    },
+    {
+      "abr": "doublebed2",
+      "category": "Furniture",
+      "defname": "RGK_bedDoubleB",
+      "price": 292
+    },
+    {
+      "abr": "classydoublebed",
+      "category": "Furniture",
+      "defname": "GL_ClassyDoubleBed",
+      "price": 942
+    },
+    {
+      "abr": "dresser",
+      "category": "Furniture",
+      "defname": "RGK_Dresser",
+      "price": 179
+    },
+    {
+      "abr": "endtable",
+      "category": "Furniture",
+      "defname": "RGK_EndTable",
+      "price": 106
+    },
+    {
+      "abr": "endtable",
+      "category": "Furniture",
+      "defname": "RGK_EndTableWithLamp",
+      "price": 138
+    },
+    {
+      "abr": "endtable",
+      "category": "Furniture",
+      "defname": "RGK_EndTableWithLampE",
+      "price": 185
+    },
+    {
+      "abr": "bucket",
+      "category": "Furniture",
+      "defname": "RGK_bucketr",
+      "price": 87
+    },
+    {
+      "abr": "oakbarrel",
+      "category": "Furniture",
+      "defname": "RGK_orc",
+      "price": 87
+    },
+    {
+      "abr": "simplechair",
+      "category": "Furniture",
+      "defname": "RGK_SimpleChair",
+      "price": 87
+    },
+    {
+      "abr": "chair",
+      "category": "Furniture",
+      "defname": "RGK_Chair",
+      "price": 180
+    },
+    {
+      "abr": "diningchair",
+      "category": "Furniture",
+      "defname": "RGKDiningChair",
+      "price": 192
+    },
+    {
+      "abr": "bench",
+      "category": "Furniture",
+      "defname": "GL_Bench",
+      "price": 358
+    },
+    {
+      "abr": "table(2x2)",
+      "category": "Furniture",
+      "defname": "RGK_TableA",
+      "price": 176
+    },
+    {
+      "abr": "table(2x2)",
+      "category": "Furniture",
+      "defname": "RGK_TableC",
+      "price": 229
+    },
+    {
+      "abr": "classictable(2x2)",
+      "category": "Furniture",
+      "defname": "RGK_TableB",
+      "price": 392
+    },
+    {
+      "abr": "classictable(2x2)",
+      "category": "Furniture",
+      "defname": "RGK_TableD",
+      "price": 392
+    },
+    {
+      "abr": "classictable(2x1)",
+      "category": "Furniture",
+      "defname": "RGK_TableE",
+      "price": 367
+    },
+    {
+      "abr": "classictable(3x2)",
+      "category": "Furniture",
+      "defname": "RGK_TableF",
+      "price": 650
+    },
+    {
+      "abr": "classictable(2x2)",
+      "category": "Furniture",
+      "defname": "RGK_TableG",
+      "price": 692
+    },
+    {
+      "abr": "classictable(3x3)",
+      "category": "Furniture",
+      "defname": "RGK_TableH",
+      "price": 850
+    },
+    {
+      "abr": "minitable",
+      "category": "Furniture",
+      "defname": "RGK_MiniTableA",
+      "price": 88
+    },
+    {
+      "abr": "minitable",
+      "category": "Furniture",
+      "defname": "RGK_MiniTableB",
+      "price": 88
+    },
+    {
+      "abr": "winerack",
+      "category": "Furniture",
+      "defname": "RKGWineRackB",
+      "price": 185
+    },
+    {
+      "abr": "wardrobe",
+      "category": "Furniture",
+      "defname": "WardrobeA",
+      "price": 417
+    },
+    {
+      "abr": "wardrobe",
+      "category": "Furniture",
+      "defname": "WardrobeB",
+      "price": 433
+    },
+    {
+      "abr": "bookshelf",
+      "category": "Misc",
+      "defname": "GL_Bookshelf",
+      "price": 908
+    },
+    {
+      "abr": "cupboard",
+      "category": "Misc",
+      "defname": "GL_Cupboard",
+      "price": 417
+    },
+    {
+      "abr": "tablewareshelf",
+      "category": "Misc",
+      "defname": "GL_TablewareShelf",
+      "price": 279
+    },
+    {
+      "abr": "manger",
+      "category": "Furniture",
+      "defname": "RGK_Manger",
+      "price": 254
+    },
+    {
+      "abr": "shelf",
+      "category": "Furniture",
+      "defname": "GL_Shelf",
+      "price": 154
+    },
+    {
+      "abr": "bowl",
+      "category": "Furniture",
+      "defname": "RGK_DogBowl",
+      "price": 104
+    },
+    {
+      "abr": "locker",
+      "category": "Furniture",
+      "defname": "GL_Locker",
+      "price": 284
+    },
+    {
+      "abr": "replicaflower",
+      "category": "Furniture",
+      "defname": "RGK_Flower",
+      "price": 46
+    },
+    {
+      "abr": "teaset",
+      "category": "Furniture",
+      "defname": "RGK_Teaset",
+      "price": 67
+    },
+    {
+      "abr": "teddybear",
+      "category": "Furniture",
+      "defname": "GL_Teddy",
+      "price": 67
+    },
+    {
+      "abr": "chesstable",
+      "category": "Furniture",
+      "defname": "GL_ChessTable",
+      "price": 281
+    },
+    {
+      "abr": "pokertable",
+      "category": "Furniture",
+      "defname": "GL_PokerTable",
+      "price": 400
+    },
+    {
+      "abr": "billiardstable",
+      "category": "Furniture",
+      "defname": "GL_BilliardsTable",
+      "price": 600
+    },
+    {
+      "abr": "tubetelevision",
+      "category": "Recreation",
+      "defname": "GL_TubeTelevision",
+      "price": 625
+    },
+    {
+      "abr": "claasicrug(3x3)",
+      "category": "Furniture",
+      "defname": "RugA_Small",
+      "price": 304
+    },
+    {
+      "abr": "claasicrug(3x3)",
+      "category": "Furniture",
+      "defname": "RugB_Small",
+      "price": 304
+    },
+    {
+      "abr": "claasicrug(3x3)",
+      "category": "Furniture",
+      "defname": "RugC_Small",
+      "price": 304
+    },
+    {
+      "abr": "claasicrug(4x4)",
+      "category": "Furniture",
+      "defname": "RugA",
+      "price": 400
+    },
+    {
+      "abr": "claasicrug(4x4)",
+      "category": "Furniture",
+      "defname": "RugB",
+      "price": 400
+    },
+    {
+      "abr": "claasicrug(4x4)",
+      "category": "Furniture",
+      "defname": "RugC",
+      "price": 400
+    },
+    {
+      "abr": "claasicrug(5x5)",
+      "category": "Furniture",
+      "defname": "RugA_Large",
+      "price": 500
+    },
+    {
+      "abr": "claasicrug(5x5",
+      "category": "Furniture",
+      "defname": "RugB_Large",
+      "price": 500
+    },
+    {
+      "abr": "claasicrug(5x5",
+      "category": "Furniture",
+      "defname": "RugC_Large",
+      "price": 500
+    },
+    {
+      "abr": "window",
+      "category": "Furniture",
+      "defname": "RGK_window",
+      "price": 17
+    },
+    {
+      "abr": "fireplace",
+      "category": "Furniture",
+      "defname": "RGK_Fireplace",
+      "price": 392
+    },
+    {
+      "abr": "fireplacee",
+      "category": "Furniture",
+      "defname": "RGK_FireplaceE",
+      "price": 408
+    },
+    {
+      "abr": "lamp",
+      "category": "Furniture",
+      "defname": "RGK_lamp",
+      "price": 42
+    },
+    {
+      "abr": "lampm",
+      "category": "Furniture",
+      "defname": "RGK_LampM",
+      "price": 42
+    },
+    {
+      "abr": "lampe",
+      "category": "Furniture",
+      "defname": "RGK_lampE",
+      "price": 90
+    },
+    {
+      "abr": "lamp(white)",
+      "category": "Furniture",
+      "defname": "GL_lamp_White",
+      "price": 42
+    },
+    {
+      "abr": "lampm(white)",
+      "category": "Furniture",
+      "defname": "GL_LampM_White",
+      "price": 42
+    },
+    {
+      "abr": "lampe(white)",
+      "category": "Furniture",
+      "defname": "GL_lampE_White",
+      "price": 90
+    },
+    {
+      "abr": "jukebox",
+      "category": "Recreation",
+      "defname": "JukeBox",
+      "price": 1617
+    },
+    {
+      "abr": "simpleresearchbench",
+      "category": "Production",
+      "defname": "RGK_SimpleResearchBench",
+      "price": 350
+    },
+    {
+      "abr": "butchertable",
+      "category": "Production",
+      "defname": "GL_TableButcher",
+      "price": 279
+    },
+    {
+      "abr": "fueledstove",
+      "category": "Production",
+      "defname": "RGK_FueledStove",
+      "price": 279
+    },
+    {
+      "abr": "electricstove",
+      "category": "Production",
+      "defname": "GL_ElectricStove",
+      "price": 383
+    },
+    {
+      "abr": "bonfire",
+      "category": "Furniture",
+      "defname": "GL_Bonfire",
+      "price": 417
+    },
+    {
+      "abr": "handtailorbench",
+      "category": "Production",
+      "defname": "GL_HandTailoringBench",
+      "price": 225
+    },
+    {
+      "abr": "electrictailorbench",
+      "category": "Production",
+      "defname": "GL_ElectricTailoringBench",
+      "price": 542
+    },
+    {
+      "abr": "fueledsmithy",
+      "category": "Production",
+      "defname": "GL_FueledSmithy",
+      "price": 367
+    },
+    {
+      "abr": "electricsmithy",
+      "category": "Production",
+      "defname": "GL_ElectricSmithy",
+      "price": 533
     },
     {
       "abr": "bigshelf",
@@ -3646,13 +4066,13 @@
       "abr": "bionicbladder",
       "category": "Bionic",
       "defname": "BionicBladder",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "hygieneenhancer",
       "category": "Bionic",
       "defname": "HygieneEnhancer",
-      "price": -10
+      "price": 1308
     },
     {
       "abr": "plumbingvalve",
@@ -3877,82 +4297,40 @@
       "price": 1
     },
     {
-      "abr": "“eclipse”fh-203",
-      "category": "Aerocraft",
-      "defname": "MYDE_AF_FWCraft_Bombardment",
-      "price": -10
+      "abr": "chemfueltap",
+      "category": "Furniture",
+      "defname": "VCHE_ChemfuelTap",
+      "price": 194
     },
     {
-      "abr": "“pivot”nl-706",
-      "category": "Aerocraft",
-      "defname": "MYDE_AF_FWCraft_AerocraftCarrier",
-      "price": -10
+      "abr": "chemfueldrain",
+      "category": "Furniture",
+      "defname": "VCHE_ChemfuelDrain",
+      "price": 194
     },
     {
-      "abr": "“marauder”rf-01",
-      "category": "Aerocraft",
-      "defname": "MYDE_AF_RotorCraft_FourPropeller_Base",
-      "price": -10
+      "abr": "deepchempumpjack",
+      "category": "Production",
+      "defname": "VCHE_DeepchemPumpjack",
+      "price": 750
     },
     {
-      "abr": "“patrol”rt-63",
-      "category": "Aerocraft",
-      "defname": "MYDE_AF_RotorCraft_TwinPropeller_Base",
-      "price": -10
+      "abr": "deepchemtap",
+      "category": "Furniture",
+      "defname": "VCHE_DeepchemTap",
+      "price": 194
     },
     {
-      "abr": "dronepack",
-      "category": "Aerocraft",
-      "defname": "MYDE_AF_Apparel_SinglePropellerPack",
-      "price": -10
+      "abr": "deepchemdrain",
+      "category": "Furniture",
+      "defname": "VCHE_DeepchemDrain",
+      "price": 194
     },
     {
-      "abr": "“shield”ra-s",
-      "category": "Aerocraft",
-      "defname": "MYDE_AF_RotorCraft_AssistiveCraft_Base",
-      "price": -10
-    },
-    {
-      "abr": "basicgun",
-      "category": "Ranged weapons",
-      "defname": "MYDE_AF_UniversalWeapon_BaseGun",
-      "price": 63
-    },
-    {
-      "abr": "minigun",
-      "category": "Ranged weapons",
-      "defname": "MYDE_AF_UniversalWeapon_MiniGun",
-      "price": -10
-    },
-    {
-      "abr": "sniperrife",
-      "category": "Ranged weapons",
-      "defname": "MYDE_AF_UniversalWeapon_SniperGun",
-      "price": -10
-    },
-    {
-      "abr": "grenadegun",
-      "category": "Ranged weapons",
-      "defname": "MYDE_AF_UniversalWeapon_GrenadeGun",
-      "price": 254
-    },
-    {
-      "abr": "fa223drache",
-      "category": "Aerocraft",
-      "defname": "RT_Fa_223_Drache",
-      "price": -10
-    },
-    {
-      "abr": "polikarpovpo-2",
-      "category": "Aerocraft",
-      "defname": "RT_Po_2_Polikarpov",
-      "price": -10
-    },
-    {
-      "abr": "tupolevtb-1",
-      "category": "Aerocraft",
-      "defname": "RT_Tb_1_Tupolev",
-      "price": -10
+      "abr": "deepchem",
+      "category": "Manufactured",
+      "defname": "VCHE_Deepchem",
+      "price": 7
     },
     {
       "abr": "desk",
@@ -3994,13 +4372,13 @@
       "abr": "deployableturret",
       "category": "Security",
       "defname": "VFES_Turret_FloorTurret",
-      "price": -10
+      "price": 983
     },
     {
       "abr": "artillery",
       "category": "Security",
       "defname": "VFES_Turret_Artillery",
-      "price": -10
+      "price": 1408
     },
     {
       "abr": "decoy",
@@ -4030,13 +4408,13 @@
       "abr": "flameturret",
       "category": "Security",
       "defname": "VFES_Turret_Flame",
-      "price": -10
+      "price": 808
     },
     {
       "abr": "sentrygun",
       "category": "Security",
       "defname": "VFES_Turret_SentryGun",
-      "price": -10
+      "price": 1058
     },
     {
       "abr": "beartrap",
@@ -4048,2893 +4426,535 @@
       "abr": "smallshieldgenerator",
       "category": "Security",
       "defname": "VFES_ShieldGenerator_Small",
-      "price": -10
+      "price": 3983
     },
     {
       "abr": "archotechshieldgenerator",
       "category": "Special",
       "defname": "VFES_ShieldGenerator_Archotech",
-      "price": -10
+      "price": 4667
     },
     {
       "abr": "chargeturret",
       "category": "Security",
       "defname": "VFES_Turret_ChargeTurret",
-      "price": -10
+      "price": 1358
     },
     {
-      "abr": "deathsuperacidifier",
-      "category": "Bionic",
-      "defname": "VESWW_DeathSuperAcidifier",
-      "price": -10
+      "abr": "fleshcraftedarm",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedArm",
+      "price": 75
     },
     {
-      "abr": "type3anti-tankgrenade",
-      "category": "Japan",
-      "defname": "HRK_Type3GrenadeCE",
-      "price": 42
+      "abr": "fleshcraftedhand",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedHand",
+      "price": 75
     },
     {
-      "abr": "type14nambu",
-      "category": "Japan",
-      "defname": "HRK_Type14Nambu",
-      "price": 275
+      "abr": "fleshcraftedfinger",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedFinger",
+      "price": 75
     },
     {
-      "abr": "type26revolver",
-      "category": "Japan",
-      "defname": "HRK_Type26Revolver",
-      "price": 213
+      "abr": "fleshcraftedtoe",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedToe",
+      "price": 75
     },
     {
-      "abr": "type1nambusmg",
-      "category": "Japan",
-      "defname": "HRK_Type1NambuSMGB",
-      "price": 608
+      "abr": "fleshcraftedfoot",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedFoot",
+      "price": 75
     },
     {
-      "abr": "type100smg",
-      "category": "Japan",
-      "defname": "HRK_Type100SMGB",
-      "price": 625
+      "abr": "fleshcraftedleg",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedLeg",
+      "price": 75
     },
     {
-      "abr": "type99arisakarifle",
-      "category": "Japan",
-      "defname": "HRK_Type99ArisakaB",
-      "price": 358
+      "abr": "fleshcraftedheart",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedHeart",
+      "price": 75
     },
     {
-      "abr": "type99sniper",
-      "category": "Japan",
-      "defname": "HRK_Type99ArisakaSR",
-      "price": 417
+      "abr": "fleshcraftedlung",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedLung",
+      "price": 75
     },
     {
-      "abr": "type2riflegrenade",
-      "category": "Japan",
-      "defname": "HRK_Type99ArisakaGL",
-      "price": 310
+      "abr": "fleshcraftedkidney",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedKidney",
+      "price": 75
     },
     {
-      "abr": "type11lmg",
-      "category": "Japan",
-      "defname": "HRK_Type11LMG",
-      "price": 600
+      "abr": "fleshcraftedliver",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedLiver",
+      "price": 75
     },
     {
-      "abr": "type99lmg",
-      "category": "Japan",
-      "defname": "HRK_Type99LMGB",
-      "price": 783
+      "abr": "fleshcraftedeye",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedEye",
+      "price": 75
     },
     {
-      "abr": "type97automaticcannon",
-      "category": "Japan",
-      "defname": "HRK_Type97ATRifle",
-      "price": 1275
+      "abr": "fleshcraftedear",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedEar",
+      "price": 75
     },
     {
-      "abr": "type89grenadedischarger",
-      "category": "Japan",
-      "defname": "HRK_Type89GrenadeDischarger",
-      "price": 269
+      "abr": "fleshcraftednose",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedNose",
+      "price": 75
     },
     {
-      "abr": "type4rocketlauncher",
-      "category": "Japan",
-      "defname": "HRK_Type470mmRL",
-      "price": 633
+      "abr": "fleshcraftedjaw",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedJaw",
+      "price": 75
     },
     {
-      "abr": "type97fraggrenade",
-      "category": "Japan",
-      "defname": "HRK_Type97Grenade",
-      "price": 20
+      "abr": "fleshcraftedstomach",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedStomach",
+      "price": 75
     },
     {
-      "abr": "type4explosivecharge",
-      "category": "Japan",
-      "defname": "HRK_Type4Grenade",
-      "price": 20
+      "abr": "fleshcraftedtongue",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedTongue",
+      "price": 75
     },
     {
-      "abr": "type93flamethrower",
-      "category": "Japan",
-      "defname": "HRK_Type93Flamethrower",
-      "price": 533
+      "abr": "fleshcraftedspine",
+      "category": "Natural",
+      "defname": "VME_FleshcraftedSpine",
+      "price": 75
     },
     {
-      "abr": "finnishuniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FinnishUniform",
-      "price": 182
+      "abr": "ancientsystemrack",
+      "category": "Misc",
+      "defname": "VME_AncientSystemRack",
+      "price": 9
     },
     {
-      "abr": "finnishofficeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FinnishOfficerUniform",
-      "price": 207
+      "abr": "ancientequipmentblocks",
+      "category": "Misc",
+      "defname": "VME_AncientEquipmentBlocks",
+      "price": 12
     },
     {
-      "abr": "finnishcoat",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FinnishCoat",
-      "price": 260
+      "abr": "ancientmachine",
+      "category": "Misc",
+      "defname": "VME_AncientMachine",
+      "price": 18
     },
     {
-      "abr": "finnishwinterparka",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FinnishWinterParka",
-      "price": 248
+      "abr": "ancientstoragecylinder",
+      "category": "Misc",
+      "defname": "VME_AncientStorageCylinder",
+      "price": 12
     },
     {
-      "abr": "finnishrucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2FinnishRucksack",
-      "price": 153
+      "abr": "ancientbed",
+      "category": "Misc",
+      "defname": "VME_AncientBed",
+      "price": 5
     },
     {
-      "abr": "finnishsatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FinnishSatchel",
-      "price": 144
+      "abr": "ancientdisplaybank",
+      "category": "Misc",
+      "defname": "VME_AncientDisplayBank",
+      "price": 9
     },
     {
-      "abr": "finnishmedicsatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FinnishMedicSatchel",
-      "price": 144
+      "abr": "ancientlockerbank",
+      "category": "Misc",
+      "defname": "VME_AncientLockerBank",
+      "price": 5
     },
     {
-      "abr": "finnishhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishHelmet",
-      "price": 146
+      "abr": "ancientcrate",
+      "category": "Misc",
+      "defname": "VME_AncientCrate",
+      "price": 2
     },
     {
-      "abr": "finnishgasmask",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishGasMask",
-      "price": 291
+      "abr": "ancientmilitarycrate",
+      "category": "Misc",
+      "defname": "VME_AncientMilitaryCrate",
+      "price": 2
     },
     {
-      "abr": "finnishpeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishPeakedCap",
-      "price": 73
+      "abr": "ancientspacercrate",
+      "category": "Misc",
+      "defname": "VME_AncientSpacerCrate",
+      "price": 2
     },
     {
-      "abr": "finnishfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishFieldCap",
-      "price": 48
+      "abr": "ancientbarrel",
+      "category": "Misc",
+      "defname": "VME_AncientBarrel",
+      "price": 1
     },
     {
-      "abr": "finnishsidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishSideCap",
-      "price": 48
+      "abr": "ancientgenerator",
+      "category": "Misc",
+      "defname": "VME_AncientGenerator",
+      "price": 1
     },
     {
-      "abr": "finnishfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishFurHat",
-      "price": 57
+      "abr": "ancientoperatingtable",
+      "category": "Misc",
+      "defname": "VME_AncientOperatingTable",
+      "price": 1
     },
     {
-      "abr": "finnishfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishFurHatB",
-      "price": 57
+      "abr": "ancientshoppingcart",
+      "category": "Misc",
+      "defname": "VME_AncientShoppingCart",
+      "price": 1
     },
     {
-      "abr": "finnishfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishFurHatC",
-      "price": 57
+      "abr": "ancientpostbox",
+      "category": "Misc",
+      "defname": "VME_AncientPostbox",
+      "price": 1
     },
     {
-      "abr": "finnishfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishFurHatD",
-      "price": 57
+      "abr": "ancientvendingmachine",
+      "category": "Misc",
+      "defname": "VME_AncientVendingMachine",
+      "price": 1
     },
     {
-      "abr": "finnishfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishFurHatE",
-      "price": 57
+      "abr": "ancientairconditioner",
+      "category": "Misc",
+      "defname": "VME_AncientAirConditioner",
+      "price": 1
     },
     {
-      "abr": "finnishfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishFurHatF",
-      "price": 57
+      "abr": "ancientkitchensink",
+      "category": "Misc",
+      "defname": "VME_AncientKitchenSink",
+      "price": 1
     },
     {
-      "abr": "finnishfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishFurHatG",
-      "price": 57
+      "abr": "ancientstove",
+      "category": "Misc",
+      "defname": "VME_AncientStove",
+      "price": 1
     },
     {
-      "abr": "finnishfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishFurHatH",
-      "price": 57
+      "abr": "ancientoven",
+      "category": "Misc",
+      "defname": "VME_AncientOven",
+      "price": 1
     },
     {
-      "abr": "finnishfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishFurHatI",
-      "price": 57
+      "abr": "ancientatm",
+      "category": "Misc",
+      "defname": "VME_AncientATM",
+      "price": 1
     },
     {
-      "abr": "finnishfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FinnishFurHatJ",
-      "price": 57
+      "abr": "ancientwashingmachine",
+      "category": "Misc",
+      "defname": "VME_AncientWashingMachine",
+      "price": 1
     },
     {
-      "abr": "frenchuniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FrenchUniform",
-      "price": 182
+      "abr": "ancienthydrant",
+      "category": "Misc",
+      "defname": "VME_AncientHydrant",
+      "price": 1
     },
     {
-      "abr": "frenchofficeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FrenchOfficerUniform",
-      "price": 207
+      "abr": "ancientmicrowave",
+      "category": "Misc",
+      "defname": "VME_AncientMicrowave",
+      "price": 1
     },
     {
-      "abr": "frenchsummeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FrenchSummerUniform",
-      "price": 207
+      "abr": "ancienttoilet",
+      "category": "Misc",
+      "defname": "VME_AncientToilet",
+      "price": 1
     },
     {
-      "abr": "frenchsummeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FrenchSummerUniformB",
-      "price": 207
+      "abr": "ancientrefrigerator",
+      "category": "Misc",
+      "defname": "VME_AncientRefrigerator",
+      "price": 1
     },
     {
-      "abr": "frenchofficersummeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FrenchOfficerSummerUniform",
-      "price": 232
+      "abr": "ancientsmallcrate",
+      "category": "Misc",
+      "defname": "VME_AncientSmallCrate",
+      "price": 1
     },
     {
-      "abr": "frenchofficersummeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FrenchOfficerSummerUniformB",
-      "price": 232
+      "abr": "ancientlongcrate",
+      "category": "Misc",
+      "defname": "VME_AncientLongCrate",
+      "price": 1
     },
     {
-      "abr": "frenchrucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2FrenchRucksack",
-      "price": 153
+      "abr": "ancientlargecrate",
+      "category": "Misc",
+      "defname": "VME_AncientLargeCrate",
+      "price": 1
     },
     {
-      "abr": "frenchsatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FrenchSatchel",
-      "price": 144
+      "abr": "ancientwheel",
+      "category": "Misc",
+      "defname": "VME_AncientWheel",
+      "price": 1
     },
     {
-      "abr": "frenchsatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FrenchSatchelB",
-      "price": 144
+      "abr": "ancientgiantwheel",
+      "category": "Misc",
+      "defname": "VME_AncientGiantWheel",
+      "price": 1
     },
     {
-      "abr": "frenchsatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FrenchSatchelC",
-      "price": 144
+      "abr": "ancienttanktrap",
+      "category": "Misc",
+      "defname": "VME_AncientTankTrap",
+      "price": 1
     },
     {
-      "abr": "frenchfieldgear",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2FrenchFieldGear",
-      "price": 144
+      "abr": "ancientmacro-engineblock",
+      "category": "Misc",
+      "defname": "VME_AncientLargeRustedEngineBlock",
+      "price": 1
     },
     {
-      "abr": "frenchhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FrenchHelmet",
-      "price": 146
+      "abr": "ancientfence",
+      "category": "Misc",
+      "defname": "VME_AncientFence",
+      "price": 1
     },
     {
-      "abr": "frenchmedichelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FrenchMedicHelmet",
-      "price": 146
+      "abr": "ancientrazorwire",
+      "category": "Misc",
+      "defname": "VME_AncientRazorWire",
+      "price": 1
     },
     {
-      "abr": "frenchpithhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FrenchPithHelmet",
-      "price": 196
+      "abr": "ancientpipes",
+      "category": "Misc",
+      "defname": "VME_AncientPipes",
+      "price": 1
     },
     {
-      "abr": "frenchpithhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FrenchPithHelmetB",
-      "price": 196
+      "abr": "ancientmega-cannonplatform",
+      "category": "Misc",
+      "defname": "VME_AncientMegaCannonTripod",
+      "price": 1
     },
     {
-      "abr": "frenchpithhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FrenchPithHelmetC",
-      "price": 196
+      "abr": "ancientmega-cannonbarrel",
+      "category": "Misc",
+      "defname": "VME_AncientMegaCannonBarrel",
+      "price": 1
     },
     {
-      "abr": "frenchpithhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FrenchPithHelmetD",
-      "price": 196
+      "abr": "ancientcontainer",
+      "category": "Misc",
+      "defname": "VME_AncientContainer",
+      "price": 1
     },
     {
-      "abr": "frenchgasmask",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FrenchGasMask",
-      "price": 291
+      "abr": "ancientmechanoiddetritus",
+      "category": "Misc",
+      "defname": "VME_AncientMechanoidShell",
+      "price": 1
     },
     {
-      "abr": "frenchkepi",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FrenchKepi",
-      "price": 73
+      "abr": "ancientmechdropbeacon",
+      "category": "Misc",
+      "defname": "VME_AncientMechDropBeacon",
+      "price": 1
     },
     {
-      "abr": "frenchkepi",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FrenchKepiB",
-      "price": 73
+      "abr": "ancientsecurityturret",
+      "category": "Misc",
+      "defname": "VME_AncientSecurityTurret",
+      "price": 1
     },
     {
-      "abr": "frenchfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FrenchFieldCap",
-      "price": 48
+      "abr": "ancientengineblock",
+      "category": "Misc",
+      "defname": "VME_AncientRustedEngineBlock",
+      "price": 1
     },
     {
-      "abr": "frenchsidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2FrenchSideCap",
-      "price": 48
+      "abr": "ancientnavbeacon",
+      "category": "Misc",
+      "defname": "VME_AncientShipBeacon",
+      "price": 1
     },
     {
-      "abr": "germanuniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanUniform",
-      "price": 182
+      "abr": "ancientspacejunk",
+      "category": "Misc",
+      "defname": "VME_AncientSpaceJunk",
+      "price": 2
     },
     {
-      "abr": "germanofficeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanOfficerUniform",
-      "price": 207
+      "abr": "wickerman",
+      "category": "Misc",
+      "defname": "VME_WickerMan",
+      "price": 178
     },
     {
-      "abr": "germanofficeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanOfficerUniformB",
-      "price": 207
+      "abr": "bonfire",
+      "category": "Misc",
+      "defname": "VME_Bonfire",
+      "price": 833
     },
     {
-      "abr": "germancoat",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanCoat",
-      "price": 260
-    },
-    {
-      "abr": "germancoat",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanCoatB",
-      "price": 260
-    },
-    {
-      "abr": "germancoat",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanCoatC",
-      "price": 260
-    },
-    {
-      "abr": "germancoat",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanCoatD",
-      "price": 260
-    },
-    {
-      "abr": "germansummeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanSummerUniform",
-      "price": 207
-    },
-    {
-      "abr": "germansummeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanSummerUniformB",
-      "price": 207
-    },
-    {
-      "abr": "germanofficersummeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanOfficerSummerUniform",
-      "price": 232
-    },
-    {
-      "abr": "germanofficersummeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanOfficerSummerUniformB",
-      "price": 232
-    },
-    {
-      "abr": "germanwinterparka",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanWinterParka",
-      "price": 248
-    },
-    {
-      "abr": "germanwinterparka",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanWinterParkaB",
-      "price": 248
-    },
-    {
-      "abr": "germanrucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2GermanRucksack",
-      "price": 153
-    },
-    {
-      "abr": "germanrucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2GermanRucksackB",
-      "price": 153
-    },
-    {
-      "abr": "germanrucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2GermanRucksackC",
-      "price": 153
-    },
-    {
-      "abr": "germanrucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2GermanRucksackD",
-      "price": 153
-    },
-    {
-      "abr": "germansatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanSatchel",
-      "price": 144
-    },
-    {
-      "abr": "germanmedicsatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanMedicSatchel",
-      "price": 144
-    },
-    {
-      "abr": "germanmedicsatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanMedicSatchelB",
-      "price": 144
-    },
-    {
-      "abr": "germanfieldgear",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanFieldGear",
-      "price": 144
-    },
-    {
-      "abr": "germanfieldgear",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanFieldGearB",
-      "price": 144
-    },
-    {
-      "abr": "germanfieldgear",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanFieldGearC",
-      "price": 144
-    },
-    {
-      "abr": "germanfieldgear",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2GermanFieldGearD",
-      "price": 144
-    },
-    {
-      "abr": "germanhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanHelmet",
-      "price": 146
-    },
-    {
-      "abr": "germanhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanHelmetB",
-      "price": 146
-    },
-    {
-      "abr": "germanhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanHelmetC",
-      "price": 146
-    },
-    {
-      "abr": "germanhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanHelmetD",
-      "price": 146
-    },
-    {
-      "abr": "germanmedichelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanMedicHelmet",
-      "price": 146
-    },
-    {
-      "abr": "germanmedichelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanMedicHelmetB",
-      "price": 146
-    },
-    {
-      "abr": "germanwinterhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanWinterHelmet",
-      "price": 171
-    },
-    {
-      "abr": "germanwinterhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanWinterHelmetB",
-      "price": 171
-    },
-    {
-      "abr": "germanwinterhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanWinterHelmetC",
-      "price": 171
-    },
-    {
-      "abr": "germanwinterhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanWinterHelmetD",
-      "price": 171
-    },
-    {
-      "abr": "germanwinterhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanWinterHelmetE",
-      "price": 171
-    },
-    {
-      "abr": "germansummerhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanSummerHelmet",
-      "price": 171
-    },
-    {
-      "abr": "germansummerhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanSummerHelmetB",
-      "price": 171
-    },
-    {
-      "abr": "germansummerhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanSummerHelmetC",
-      "price": 171
-    },
-    {
-      "abr": "germansummerhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanSummerHelmetD",
-      "price": 171
-    },
-    {
-      "abr": "germanpithhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanPithHelmet",
-      "price": 196
-    },
-    {
-      "abr": "germanpithhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanPithHelmetB",
-      "price": 196
-    },
-    {
-      "abr": "germangasmask",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanGasMask",
-      "price": 291
-    },
-    {
-      "abr": "germanpeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanPeakedCap",
-      "price": 73
-    },
-    {
-      "abr": "germanpeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanPeakedCapB",
-      "price": 73
-    },
-    {
-      "abr": "germanpeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanPeakedCapC",
-      "price": 73
-    },
-    {
-      "abr": "germanpeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanPeakedCapD",
-      "price": 73
-    },
-    {
-      "abr": "germanfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanFieldCap",
-      "price": 48
-    },
-    {
-      "abr": "germanfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanFieldCapB",
-      "price": 48
-    },
-    {
-      "abr": "germanfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanFieldCapC",
-      "price": 48
-    },
-    {
-      "abr": "germanfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanFieldCapD",
-      "price": 48
-    },
-    {
-      "abr": "germansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanSideCap",
-      "price": 48
-    },
-    {
-      "abr": "germansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanSideCapB",
-      "price": 48
-    },
-    {
-      "abr": "germansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanSideCapC",
-      "price": 48
-    },
-    {
-      "abr": "germansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanSideCapD",
-      "price": 48
-    },
-    {
-      "abr": "germanfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanFurHat",
-      "price": 57
-    },
-    {
-      "abr": "germanfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2GermanFurHatB",
-      "price": 57
-    },
-    {
-      "abr": "italianuniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2ItalianUniform",
-      "price": 182
-    },
-    {
-      "abr": "italianofficeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2ItalianOfficerUniform",
-      "price": 207
-    },
-    {
-      "abr": "italianofficeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2ItalianOfficerUniformB",
-      "price": 207
-    },
-    {
-      "abr": "italianwintercoat",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2ItalianWinterCoat",
-      "price": 248
-    },
-    {
-      "abr": "italianwintercoat",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2ItalianWinterCoatB",
-      "price": 248
-    },
-    {
-      "abr": "italiansummeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2ItalianSummerUniform",
-      "price": 207
-    },
-    {
-      "abr": "italianofficersummeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2ItalianOfficerSummerUniform",
-      "price": 232
-    },
-    {
-      "abr": "italianrucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2ItalianRucksack",
-      "price": 153
-    },
-    {
-      "abr": "italiansatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2ItalianSatchel",
-      "price": 144
-    },
-    {
-      "abr": "italianfieldgear",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2ItalianFieldGear",
-      "price": 144
-    },
-    {
-      "abr": "italianhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianHelmet",
-      "price": 146
-    },
-    {
-      "abr": "italianmedichelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianMedicHelmet",
-      "price": 146
-    },
-    {
-      "abr": "italianwinterhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianWinterHelmet",
-      "price": 171
-    },
-    {
-      "abr": "italiansummerhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianSummerHelmet",
-      "price": 171
-    },
-    {
-      "abr": "italianmedicsummerhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianMedicSummerHelmet",
-      "price": 171
-    },
-    {
-      "abr": "italianpithhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianPithHelmet",
-      "price": 196
-    },
-    {
-      "abr": "italiangasmask",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianGasMask",
-      "price": 291
-    },
-    {
-      "abr": "italianpeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianPeakedCap",
-      "price": 73
-    },
-    {
-      "abr": "italianpeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianPeakedCapB",
-      "price": 73
-    },
-    {
-      "abr": "italianpeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianPeakedCapC",
-      "price": 73
-    },
-    {
-      "abr": "italianfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianFieldCap",
-      "price": 48
-    },
-    {
-      "abr": "italianfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianFieldCapB",
-      "price": 48
-    },
-    {
-      "abr": "italianfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianFieldCapC",
-      "price": 48
-    },
-    {
-      "abr": "italiansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianSideCap",
-      "price": 48
-    },
-    {
-      "abr": "italiansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianSideCapB",
-      "price": 48
-    },
-    {
-      "abr": "italiansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2ItalianSideCapC",
-      "price": 48
-    },
-    {
-      "abr": "japaneseuniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2JapaneseUniform",
-      "price": 182
-    },
-    {
-      "abr": "japaneseuniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2JapaneseUniformB",
-      "price": 182
-    },
-    {
-      "abr": "japaneseofficeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2JapaneseOfficerUniform",
-      "price": 207
-    },
-    {
-      "abr": "japaneseofficeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2JapaneseOfficerUniformB",
-      "price": 207
-    },
-    {
-      "abr": "japaneserucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2JapaneseRucksack",
-      "price": 153
-    },
-    {
-      "abr": "japaneserucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2JapaneseRucksackB",
-      "price": 153
-    },
-    {
-      "abr": "japaneserucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2JapaneseRucksackC",
-      "price": 153
-    },
-    {
-      "abr": "japanesesatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2JapaneseSatchel",
-      "price": 144
-    },
-    {
-      "abr": "japanesesatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2JapaneseSatchelB",
-      "price": 144
-    },
-    {
-      "abr": "japanesemedicsatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2JapaneseMedicSatchel",
-      "price": 144
-    },
-    {
-      "abr": "japanesehelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseHelmet",
-      "price": 146
-    },
-    {
-      "abr": "japanesehelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseHelmetB",
-      "price": 146
-    },
-    {
-      "abr": "japanesemedichelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseMedicHelmet",
-      "price": 146
-    },
-    {
-      "abr": "japanesepithhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapanesePithHelmet",
-      "price": 196
-    },
-    {
-      "abr": "japanesepithhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapanesePithHelmetB",
-      "price": 196
-    },
-    {
-      "abr": "japanesegasmask",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseGasMask",
-      "price": 291
-    },
-    {
-      "abr": "japanesepeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapanesePeakedCap",
-      "price": 73
-    },
-    {
-      "abr": "japanesepeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapanesePeakedCapB",
-      "price": 73
-    },
-    {
-      "abr": "japanesefieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseFieldCap",
-      "price": 48
-    },
-    {
-      "abr": "japanesefieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseFieldCapB",
-      "price": 48
-    },
-    {
-      "abr": "japanesefieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseFieldCapC",
-      "price": 48
-    },
-    {
-      "abr": "japanesefieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseFieldCapD",
-      "price": 48
-    },
-    {
-      "abr": "japanesefieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseFieldCapE",
-      "price": 48
-    },
-    {
-      "abr": "japanesefieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseFieldCapF",
-      "price": 48
-    },
-    {
-      "abr": "japanesesidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseSideCap",
-      "price": 48
-    },
-    {
-      "abr": "japanesesidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseSideCapB",
-      "price": 48
-    },
-    {
-      "abr": "japanesesidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2JapaneseSideCapC",
-      "price": 48
-    },
-    {
-      "abr": "russianuniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianUniform",
-      "price": 182
-    },
-    {
-      "abr": "russianofficeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianOfficerUniform",
-      "price": 207
-    },
-    {
-      "abr": "russianofficeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianOfficerUniformB",
-      "price": 207
-    },
-    {
-      "abr": "russiancoat",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianCoat",
-      "price": 260
-    },
-    {
-      "abr": "russianraincape",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianRainCape",
-      "price": 204
-    },
-    {
-      "abr": "russianwinterparka",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianWinterParka",
-      "price": 248
-    },
-    {
-      "abr": "russianwintercoat",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianWinterCoat",
-      "price": 248
-    },
-    {
-      "abr": "russianwintercoat",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianWinterCoatB",
-      "price": 248
-    },
-    {
-      "abr": "russianrucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2RussianRucksack",
-      "price": 153
-    },
-    {
-      "abr": "russianrucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2RussianRucksackB",
-      "price": 153
-    },
-    {
-      "abr": "russiansatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianSatchel",
-      "price": 144
-    },
-    {
-      "abr": "russiansatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianSatchelB",
-      "price": 144
-    },
-    {
-      "abr": "russiansatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianSatchelC",
-      "price": 144
-    },
-    {
-      "abr": "russiansatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianSatchelD",
-      "price": 144
-    },
-    {
-      "abr": "russianmedicsatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianMedicSatchel",
-      "price": 144
-    },
-    {
-      "abr": "russianfieldgear",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2RussianFieldGear",
-      "price": 144
-    },
-    {
-      "abr": "russianhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianHelmet",
-      "price": 146
-    },
-    {
-      "abr": "russianhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianHelmetB",
-      "price": 146
-    },
-    {
-      "abr": "russianmedichelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianMedicHelmet",
-      "price": 146
-    },
-    {
-      "abr": "russiangasmask",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianGasMask",
-      "price": 291
-    },
-    {
-      "abr": "russianpeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianPeakedCap",
-      "price": 73
-    },
-    {
-      "abr": "russianpeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianPeakedCapB",
-      "price": 73
-    },
-    {
-      "abr": "russianfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianFieldCap",
-      "price": 48
-    },
-    {
-      "abr": "russianfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianFieldCapB",
-      "price": 48
-    },
-    {
-      "abr": "russiansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianSideCap",
-      "price": 48
-    },
-    {
-      "abr": "russiansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianSideCapB",
-      "price": 48
-    },
-    {
-      "abr": "russiansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianSideCapC",
-      "price": 48
-    },
-    {
-      "abr": "russiansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianSideCapD",
-      "price": 48
-    },
-    {
-      "abr": "russianfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianFurHat",
-      "price": 57
-    },
-    {
-      "abr": "russianfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianFurHatB",
-      "price": 57
-    },
-    {
-      "abr": "russianfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianFurHatC",
-      "price": 57
-    },
-    {
-      "abr": "russianfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianFurHatD",
-      "price": 57
-    },
-    {
-      "abr": "russianfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianFurHatE",
-      "price": 57
-    },
-    {
-      "abr": "russianfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianFurHatF",
-      "price": 57
-    },
-    {
-      "abr": "russianfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianFurHatG",
-      "price": 57
-    },
-    {
-      "abr": "russianfurhat",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2RussianFurHatH",
-      "price": 57
-    },
-    {
-      "abr": "stuffableuniforma",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableUniformA",
-      "price": 236
-    },
-    {
-      "abr": "stuffableuniformb",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableUniformB",
-      "price": 236
-    },
-    {
-      "abr": "stuffableuniformc",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableUniformC",
-      "price": 236
-    },
-    {
-      "abr": "stuffableuniformd",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableUniformD",
-      "price": 236
-    },
-    {
-      "abr": "stuffableuniforme",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableUniformE",
-      "price": 236
-    },
-    {
-      "abr": "stuffableofficeruniforma",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableOfficerUniformA",
-      "price": 269
-    },
-    {
-      "abr": "stuffableofficeruniformb",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableOfficerUniformB",
-      "price": 269
-    },
-    {
-      "abr": "stuffableofficeruniformc",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableOfficerUniformC",
-      "price": 269
-    },
-    {
-      "abr": "stuffableofficeruniformd",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableOfficerUniformD",
-      "price": 269
-    },
-    {
-      "abr": "stuffablecoata",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableCoatA",
-      "price": 327
-    },
-    {
-      "abr": "stuffablecoatb",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableCoatB",
-      "price": 327
-    },
-    {
-      "abr": "stuffablecoatc",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableCoatC",
-      "price": 327
-    },
-    {
-      "abr": "stuffablecoatd",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableCoatD",
-      "price": 327
-    },
-    {
-      "abr": "stuffablecoate",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableCoatE",
-      "price": 327
-    },
-    {
-      "abr": "stuffablecoatf",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableCoatF",
-      "price": 327
-    },
-    {
-      "abr": "stuffablecoatg",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableCoatG",
-      "price": 327
-    },
-    {
-      "abr": "stuffableraincapea",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRainCapeA",
-      "price": 259
-    },
-    {
-      "abr": "stuffablewinterparkaa",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableWinterParkaA",
-      "price": 315
-    },
-    {
-      "abr": "stuffablewinterparkab",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableWinterParkaB",
-      "price": 315
-    },
-    {
-      "abr": "stuffablewinterparkac",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableWinterParkaC",
-      "price": 315
-    },
-    {
-      "abr": "stuffablewintercoata",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableWinterCoatA",
-      "price": 315
-    },
-    {
-      "abr": "stuffablewintercoatb",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableWinterCoatB",
-      "price": 315
-    },
-    {
-      "abr": "stuffablewintercoatc",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableWinterCoatC",
-      "price": 315
-    },
-    {
-      "abr": "stuffablewintercoatd",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableWinterCoatD",
-      "price": 315
-    },
-    {
-      "abr": "stuffablerucksacka",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackA",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksackb",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackB",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksackc",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackC",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksackd",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackD",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksacke",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackE",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksackf",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackF",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksackg",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackG",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksackh",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackH",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksacki",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackI",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksackj",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackJ",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksackk",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackK",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksackl",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackL",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksackm",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackM",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksackn",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackN",
-      "price": 186
-    },
-    {
-      "abr": "stuffablerucksacko",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableRucksackO",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatchela",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelA",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatchelb",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelB",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatchelc",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelC",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatcheld",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelD",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatchele",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelE",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatchelf",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelF",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatchelg",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelG",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatchelh",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelH",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatcheli",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelI",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatchelj",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelJ",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatchelk",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelK",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatchell",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelL",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatchelm",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelM",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatcheln",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelN",
-      "price": 186
-    },
-    {
-      "abr": "stuffablesatchelo",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableSatchelO",
-      "price": 186
-    },
-    {
-      "abr": "stuffablemedicsatchela",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableMedicSatchelA",
-      "price": 186
-    },
-    {
-      "abr": "stuffablemedicsatchelb",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableMedicSatchelB",
-      "price": 186
-    },
-    {
-      "abr": "stuffablemedicsatchelc",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableMedicSatchelC",
-      "price": 186
-    },
-    {
-      "abr": "stuffablemedicsatcheld",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableMedicSatchelD",
-      "price": 186
-    },
-    {
-      "abr": "stuffablemedicsatchele",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableMedicSatchelE",
-      "price": 186
-    },
-    {
-      "abr": "stuffablemedicsatchelf",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableMedicSatchelF",
-      "price": 186
-    },
-    {
-      "abr": "stuffablemedicsatchelg",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableMedicSatchelG",
-      "price": 186
-    },
-    {
-      "abr": "stuffablefieldgeara",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableFieldGearA",
-      "price": 186
-    },
-    {
-      "abr": "stuffablefieldgearb",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableFieldGearB",
-      "price": 186
-    },
-    {
-      "abr": "stuffablefieldgearc",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableFieldGearC",
-      "price": 186
-    },
-    {
-      "abr": "stuffablefieldgeard",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableFieldGearD",
-      "price": 186
-    },
-    {
-      "abr": "stuffablefieldgeare",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableFieldGearE",
-      "price": 186
-    },
-    {
-      "abr": "stuffablefieldgearf",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableFieldGearF",
-      "price": 186
-    },
-    {
-      "abr": "stuffablefieldgearg",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableFieldGearG",
-      "price": 186
-    },
-    {
-      "abr": "stuffablefieldgearh",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2StuffableFieldGearH",
-      "price": 186
-    },
-    {
-      "abr": "stuffablehelmeta",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableHelmetA",
-      "price": 153
-    },
-    {
-      "abr": "stuffablehelmetb",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableHelmetB",
-      "price": 153
-    },
-    {
-      "abr": "stuffablehelmetc",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableHelmetC",
-      "price": 153
-    },
-    {
-      "abr": "stuffablehelmetd",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableHelmetD",
-      "price": 153
-    },
-    {
-      "abr": "stuffablehelmete",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableHelmetE",
-      "price": 153
-    },
-    {
-      "abr": "stuffablehelmetf",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableHelmetF",
-      "price": 153
-    },
-    {
-      "abr": "stuffablehelmetg",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableHelmetG",
-      "price": 153
-    },
-    {
-      "abr": "stuffablehelmeth",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableHelmetH",
-      "price": 153
-    },
-    {
-      "abr": "stuffablehelmeti",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableHelmetI",
-      "price": 153
-    },
-    {
-      "abr": "stuffablehelmetj",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableHelmetJ",
-      "price": 153
-    },
-    {
-      "abr": "stuffablemedichelmeta",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableMedicHelmetA",
-      "price": 153
-    },
-    {
-      "abr": "stuffablemedichelmetb",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableMedicHelmetB",
-      "price": 153
-    },
-    {
-      "abr": "stuffablemedichelmetc",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableMedicHelmetC",
-      "price": 153
-    },
-    {
-      "abr": "stuffablemedichelmetd",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableMedicHelmetD",
-      "price": 153
-    },
-    {
-      "abr": "stuffablemedichelmete",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableMedicHelmetE",
-      "price": 153
-    },
-    {
-      "abr": "stuffablemedichelmetf",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableMedicHelmetF",
-      "price": 153
-    },
-    {
-      "abr": "stuffablemedichelmetg",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableMedicHelmetG",
-      "price": 153
-    },
-    {
-      "abr": "stuffablemedichelmeth",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableMedicHelmetH",
-      "price": 153
-    },
-    {
-      "abr": "stuffablepithhelmeta",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffablePithHelmetA",
-      "price": 213
-    },
-    {
-      "abr": "stuffablepithhelmetb",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffablePithHelmetB",
-      "price": 213
-    },
-    {
-      "abr": "stuffablepithhelmetc",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffablePithHelmetC",
-      "price": 213
-    },
-    {
-      "abr": "stuffablepithhelmetd",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffablePithHelmetD",
-      "price": 213
-    },
-    {
-      "abr": "stuffablepithhelmete",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffablePithHelmetE",
-      "price": 213
-    },
-    {
-      "abr": "stuffablepithhelmetf",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffablePithHelmetF",
-      "price": 213
-    },
-    {
-      "abr": "stuffablepeakedcapa",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffablePeakedCapA",
-      "price": 94
-    },
-    {
-      "abr": "stuffablepeakedcapb",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffablePeakedCapB",
-      "price": 94
-    },
-    {
-      "abr": "stuffablepeakedcapc",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffablePeakedCapC",
-      "price": 94
-    },
-    {
-      "abr": "stuffablekepia",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableKepiA",
-      "price": 94
-    },
-    {
-      "abr": "stuffablefieldcapa",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableFieldCapA",
-      "price": 61
-    },
-    {
-      "abr": "stuffablefieldcapb",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableFieldCapB",
-      "price": 61
-    },
-    {
-      "abr": "stuffablefieldcapc",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableFieldCapC",
-      "price": 61
-    },
-    {
-      "abr": "stuffablefieldcapd",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableFieldCapD",
-      "price": 61
-    },
-    {
-      "abr": "stuffablefieldcape",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableFieldCapE",
-      "price": 61
-    },
-    {
-      "abr": "stuffablefieldcapf",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableFieldCapF",
-      "price": 61
-    },
-    {
-      "abr": "stuffablesidecapa",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableSideCapA",
-      "price": 61
-    },
-    {
-      "abr": "stuffablesidecapb",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableSideCapB",
-      "price": 61
-    },
-    {
-      "abr": "stuffablesidecapc",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableSideCapC",
-      "price": 61
-    },
-    {
-      "abr": "stuffablesidecapd",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableSideCapD",
-      "price": 61
-    },
-    {
-      "abr": "stuffablesidecape",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableSideCapE",
-      "price": 61
-    },
-    {
-      "abr": "stuffablesidecapf",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableSideCapF",
-      "price": 61
-    },
-    {
-      "abr": "stuffablesidecapg",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableSideCapG",
-      "price": 61
-    },
-    {
-      "abr": "stuffablesidecaph",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableSideCapH",
-      "price": 61
-    },
-    {
-      "abr": "stuffablesidecapi",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableSideCapI",
-      "price": 61
-    },
-    {
-      "abr": "stuffablefurhata",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableFurHatA",
-      "price": 74
-    },
-    {
-      "abr": "stuffablefurhatb",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableFurHatB",
-      "price": 74
-    },
-    {
-      "abr": "stuffablefurhatc",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2StuffableFurHatC",
-      "price": 74
-    },
-    {
-      "abr": "americanuniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2AmericanUniform",
-      "price": 182
-    },
-    {
-      "abr": "americanofficeruniform",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2AmericanOfficerUniform",
-      "price": 207
-    },
-    {
-      "abr": "americanwintercoat",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2AmericanWinterCoat",
-      "price": 248
-    },
-    {
-      "abr": "americanwintercoat",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2AmericanWinterCoatB",
-      "price": 248
-    },
-    {
-      "abr": "americanrucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2AmericanRucksack",
-      "price": 153
-    },
-    {
-      "abr": "americanrucksack",
-      "category": "Loadbearing gear",
-      "defname": "K4G_Apparel_WW2AmericanRucksackB",
-      "price": 153
-    },
-    {
-      "abr": "americansatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2AmericanSatchel",
-      "price": 144
-    },
-    {
-      "abr": "americansatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2AmericanSatchelB",
-      "price": 144
-    },
-    {
-      "abr": "americanmedicsatchel",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2AmericanMedicSatchel",
-      "price": 144
-    },
-    {
-      "abr": "americanfieldgear",
-      "category": "Apparel",
-      "defname": "K4G_Apparel_WW2AmericanFieldGear",
-      "price": 144
-    },
-    {
-      "abr": "americanhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2AmericanHelmet",
-      "price": 146
-    },
-    {
-      "abr": "americanhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2AmericanHelmetB",
-      "price": 146
-    },
-    {
-      "abr": "americanmedichelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2AmericanMedicHelmet",
-      "price": 146
-    },
-    {
-      "abr": "americanwinterhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2AmericanWinterHelmet",
-      "price": 171
-    },
-    {
-      "abr": "americanpithhelmet",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2AmericanPithHelmet",
-      "price": 196
-    },
-    {
-      "abr": "americangasmask",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2AmericanGasMask",
-      "price": 291
-    },
-    {
-      "abr": "americanpeakedcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2AmericanPeakedCap",
-      "price": 73
-    },
-    {
-      "abr": "americanfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2AmericanFieldCap",
-      "price": 48
-    },
-    {
-      "abr": "americanfieldcap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2AmericanFieldCapB",
-      "price": 48
-    },
-    {
-      "abr": "americansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2AmericanSideCap",
-      "price": 48
-    },
-    {
-      "abr": "americansidecap",
-      "category": "Headgear",
-      "defname": "K4G_Apparel_WW2AmericanSideCapB",
-      "price": 48
-    },
-    {
-      "abr": "japaneseshinguntosword",
-      "category": "Melee weapons",
-      "defname": "K4G_MeleeWeapon_WW2JapaneseServiceSword",
-      "price": 425
-    },
-    {
-      "abr": "germanpanzerschreck",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceRocketLauncher",
-      "price": 1667
-    },
-    {
-      "abr": "germanpanzerfaustgross",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceDisposableRocketLauncher",
-      "price": 1667
-    },
-    {
-      "abr": "germanpanzerfaustklein",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceDisposableRocketLauncherB",
-      "price": 1667
-    },
-    {
-      "abr": "japanesetype4rocketlauncher",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2JapaneseServiceRocketLauncher",
-      "price": 1667
-    },
-    {
-      "abr": "americanm1bazooka",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceRocketLauncher",
-      "price": 1667
-    },
-    {
-      "abr": "americanfp-45liberatorsingle-shotpistol",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanSingleShotPistol",
-      "price": 38
-    },
-    {
-      "abr": "c-4charge",
+      "abr": "mechanoideffigy",
       "category": "Security",
-      "defname": "RN2Explosive_C4Charge",
-      "price": 234
+      "defname": "VME_MechanoidEffigy",
+      "price": 800
     },
     {
-      "abr": "c-4ied",
-      "category": "Security",
-      "defname": "RN2Explosive_C4IED",
-      "price": 284
+      "abr": "ominousobelisk",
+      "category": "Misc",
+      "defname": "VME_Obelisk",
+      "price": 367
     },
     {
-      "abr": "155mmshellied",
-      "category": "Security",
-      "defname": "RN2Explosive_155mmIED",
-      "price": 392
+      "abr": "shintaoslab(medium)",
+      "category": "Furniture",
+      "defname": "VME_TaoistSlab_Medium",
+      "price": 342
     },
     {
-      "abr": "ym-1bapmine",
-      "category": "Security",
-      "defname": "RN2Explosive_YM1B_APMine",
-      "price": 158
+      "abr": "shintaoslab(broad)",
+      "category": "Furniture",
+      "defname": "VME_TaoistSlab_Broad",
+      "price": 508
     },
     {
-      "abr": "m18a1claymore",
-      "category": "Security",
-      "defname": "RN2Explosive_M18Claymore",
-      "price": 223
+      "abr": "esotericismslab(medium)",
+      "category": "Furniture",
+      "defname": "VME_EsotericismSlab_Medium",
+      "price": 342
     },
     {
-      "abr": "m2mortar",
-      "category": "Security",
-      "defname": "RN2Turret_M2Mortar",
-      "price": 608
+      "abr": "esotericismslab(broad)",
+      "category": "Furniture",
+      "defname": "VME_EsotericismSlab_Broad",
+      "price": 508
     },
     {
-      "abr": "sentrygun",
-      "category": "Security",
-      "defname": "RN2Turret_SentryGun",
-      "price": -10
+      "abr": "eldritchslab(medium)",
+      "category": "Furniture",
+      "defname": "VME_EldritchSlab_Medium",
+      "price": 342
     },
     {
-      "abr": "m60",
-      "category": "Security",
-      "defname": "RN2Gun_M60Mounted_MG",
-      "price": 842
+      "abr": "eldritchslab(broad)",
+      "category": "Furniture",
+      "defname": "VME_EldritchSlab_Broad",
+      "price": 508
     },
     {
-      "abr": "m2browning",
-      "category": "Security",
-      "defname": "RN2Gun_M2Browning_MG",
-      "price": 1058
+      "abr": "psychofluidwell",
+      "category": "Misc",
+      "defname": "VRE_PsychofluidWell",
+      "price": 4025
     },
     {
-      "abr": "m134minigun",
-      "category": "Security",
-      "defname": "RN2Gun_M134Minigun_MG",
-      "price": -10
+      "abr": "hemogentap",
+      "category": "Furniture",
+      "defname": "VRE_HemogenTap",
+      "price": 329
     },
     {
-      "abr": "mk19grenadelauncher",
-      "category": "Security",
-      "defname": "RN2Gun_MK19_GL",
-      "price": 1142
+      "abr": "hemogendrain",
+      "category": "Furniture",
+      "defname": "VRE_HemogenDrain",
+      "price": 313
     },
     {
-      "abr": "bgm-71towlauncher",
-      "category": "Security",
-      "defname": "RN2Gun_TOW_Launcher",
-      "price": 1367
+      "abr": "invocationmatrix",
+      "category": "Misc",
+      "defname": "VRE_InvocationMatrix",
+      "price": 1333
     },
     {
-      "abr": "vehiclemodificationkit-type89hmg",
-      "category": "Vehicle modification kit",
-      "defname": "PLA_VehicleWeapon89HMG",
-      "price": -10
+      "abr": "hemodynamicaccelerator",
+      "category": "Misc",
+      "defname": "VRE_HemodynamicAccelerator",
+      "price": 1850
     },
     {
-      "abr": "vehiclemodificationkit-type-04grenadelauncher",
-      "category": "Vehicle modification kit",
-      "defname": "PLA_VehicleWeapon04GL",
-      "price": -10
+      "abr": "hemogensolidifier",
+      "category": "Misc",
+      "defname": "VRE_HemogenSolidifier",
+      "price": 1067
     },
     {
-      "abr": "vehiclemodificationkit-30mmautocannon",
-      "category": "Vehicle modification kit",
-      "defname": "PLA_VehicleWeapon30mmAutocannon",
-      "price": -10
+      "abr": "smallhemogenamplifier",
+      "category": "Misc",
+      "defname": "VRE_SmallHemogenAmplifier",
+      "price": 483
     },
     {
-      "abr": "advancedadvanced-firecontrolcomputer",
-      "category": "Vehicle modification kit",
-      "defname": "PLA_AdvancedFireControlComputer",
-      "price": -10
+      "abr": "smallhemopump",
+      "category": "Misc",
+      "defname": "VRE_SmallHemopump",
+      "price": 322
     },
     {
-      "abr": "compositearmor",
-      "category": "Vehicle modification kit",
-      "defname": "PLA_CompositeArmor",
-      "price": -10
+      "abr": "hemogenpack(animal)",
+      "category": "Foods",
+      "defname": "VRE_HemogenPack_Animal",
+      "price": 8
     },
     {
-      "abr": "vehiclemodificationkit-23mmautocannon",
-      "category": "Vehicle modification kit",
-      "defname": "PLA_VehicleWeapon23mmAutocannon",
-      "price": -10
+      "abr": "hemogenpack(corpse)",
+      "category": "Foods",
+      "defname": "VRE_HemogenPack_Corpse",
+      "price": 8
     },
     {
-      "abr": "vehiclemodificationkit-40mmctcannon",
-      "category": "Vehicle modification kit",
-      "defname": "PLA_VehicleWeapon40mmCannon",
-      "price": -10
+      "abr": "hemogenpack(sanguophage)",
+      "category": "Foods",
+      "defname": "VRE_HemogenPack_Sanguophage",
+      "price": 8
     },
     {
-      "abr": "vehiclemodificationkit-107mmrocketlauncher",
-      "category": "Vehicle modification kit",
-      "defname": "PLA_VehicleWeapon107mmRocketLauncher",
-      "price": -10
+      "abr": "deathrestcoffin",
+      "category": "Misc",
+      "defname": "DeathrestBasicCoffin",
+      "price": 282
     },
     {
-      "abr": "vehiclemodificationkit-105mmcannon",
-      "category": "Vehicle modification kit",
-      "defname": "PLA_VehicleWeapon105mmCannon",
-      "price": -10
-    },
-    {
-      "abr": "vehiclemodificationkit-40mmautoctcannon",
-      "category": "Vehicle modification kit",
-      "defname": "PLA_VehicleWeapon40mmAutoCannon",
-      "price": -10
-    },
-    {
-      "abr": "t-34modificationkit-76mmcannon",
-      "category": "Vehicle modification kit",
-      "defname": "TMC_VehicleWeapon_T34_76mmCannon",
-      "price": 1267
-    },
-    {
-      "abr": "t-34modificationkit-85mmcannon",
-      "category": "Vehicle modification kit",
-      "defname": "TMC_VehicleWeapon_T34_85mmCannon",
-      "price": 1575
-    },
-    {
-      "abr": "t-34modificationkit-rocketplatform",
-      "category": "Vehicle modification kit",
-      "defname": "TMC_VehicleWeapon_T34_Rocketplatform",
-      "price": 1583
-    },
-    {
-      "abr": "improvedengine(t34)",
-      "category": "Vehicle modification kit",
-      "defname": "TMC_T34_Mods_V2Engine",
-      "price": 1125
+      "abr": "deathrestroyalcoffin",
+      "category": "Misc",
+      "defname": "DeathrestCoffin",
+      "price": 342
     },
     {
       "abr": "adrenaline",
       "category": "Drugs",
       "defname": "Adrenaline",
       "price": 30
-    },
-    {
-      "abr": "americanm1bayonet",
-      "category": "Melee weapons",
-      "defname": "K4G_MeleeWeapon_WW2AmericanServiceBayonet",
-      "price": 106
-    },
-    {
-      "abr": "americanm1905bayonet",
-      "category": "Melee weapons",
-      "defname": "K4G_MeleeWeapon_WW2AmericanServiceBayonetB",
-      "price": 106
-    },
-    {
-      "abr": "britishpattern1907bayonet",
-      "category": "Melee weapons",
-      "defname": "K4G_MeleeWeapon_WW2BritishServiceBayonet",
-      "price": 106
-    },
-    {
-      "abr": "russiansvt-40bayonet",
-      "category": "Melee weapons",
-      "defname": "K4G_MeleeWeapon_WW2RussianServiceBayonet",
-      "price": 106
-    },
-    {
-      "abr": "frenchm1886/35bayonet",
-      "category": "Melee weapons",
-      "defname": "K4G_MeleeWeapon_WW2FrenchServiceBayonet",
-      "price": 106
-    },
-    {
-      "abr": "frenchm1886/35bayonetb",
-      "category": "Melee weapons",
-      "defname": "K4G_MeleeWeapon_WW2FrenchServiceBayonetB",
-      "price": 108
-    },
-    {
-      "abr": "germans84/98iiibayonet",
-      "category": "Melee weapons",
-      "defname": "K4G_MeleeWeapon_WW2GermanServiceBayonet",
-      "price": 106
-    },
-    {
-      "abr": "japanesetype30bayonet",
-      "category": "Melee weapons",
-      "defname": "K4G_MeleeWeapon_WW2JapaneseServiceBayonet",
-      "price": 106
-    },
-    {
-      "abr": "italianm1938bayonet",
-      "category": "Melee weapons",
-      "defname": "K4G_MeleeWeapon_WW2ItalianServiceBayonet",
-      "price": 106
-    },
-    {
-      "abr": "finnishmosin-nagantm/27bayonet",
-      "category": "Melee weapons",
-      "defname": "K4G_MeleeWeapon_WW2FinnishServiceBayonet",
-      "price": 106
-    },
-    {
-      "abr": "finnishmosin-nagantm/39bayonet",
-      "category": "Melee weapons",
-      "defname": "K4G_MeleeWeapon_WW2FinnishServiceBayonetB",
-      "price": 106
-    },
-    {
-      "abr": "finnishlahtil-35pistol",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServicePistol",
-      "price": 269
-    },
-    {
-      "abr": "finnishmosinnagantm/27rifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServiceRifleB",
-      "price": 308
-    },
-    {
-      "abr": "finnishmosinnagantm/39rifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServiceRifleC",
-      "price": 314
-    },
-    {
-      "abr": "finnishmosinnagantm/91rifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServiceRifleBayonet",
-      "price": 350
-    },
-    {
-      "abr": "finnishmosinnagantm/27rifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServiceRifleBayonetB",
-      "price": 358
-    },
-    {
-      "abr": "finnishmosinnagantm/39rifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServiceRifleBayonetC",
-      "price": 358
-    },
-    {
-      "abr": "finnishsuomikp/-31smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServiceSMG",
-      "price": 575
-    },
-    {
-      "abr": "finnishkpm/44smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServiceSMGB",
-      "price": 583
-    },
-    {
-      "abr": "finnishlahti-salorantam/26lmg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServiceLMG",
-      "price": 725
-    },
-    {
-      "abr": "finnishmosinnagantm/91sniperrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServiceSniperRifle",
-      "price": 383
-    },
-    {
-      "abr": "finnishmosinnagantm/27sniperrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServiceSniperRifleB",
-      "price": 383
-    },
-    {
-      "abr": "finnishmosinnagantm/39sniperrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServiceSniperRifleC",
-      "price": 383
-    },
-    {
-      "abr": "finnishlahtil-39anti-tankrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FinnishServiceAntiTankRifle",
-      "price": 825
-    },
-    {
-      "abr": "frenchmas1873revolver",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FrenchServiceRevolver",
-      "price": 216
-    },
-    {
-      "abr": "frenchmodel1892revolver",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FrenchServiceRevolverB",
-      "price": 237
-    },
-    {
-      "abr": "frenchmabmodeldpistol",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FrenchServicePistol",
-      "price": 269
-    },
-    {
-      "abr": "frenchlebelm1886rifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FrenchServiceRifle",
-      "price": 314
-    },
-    {
-      "abr": "frenchmas-36rifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FrenchServiceRifleB",
-      "price": 314
-    },
-    {
-      "abr": "frenchlebelm1886rifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FrenchServiceRifleBayonet",
-      "price": 320
-    },
-    {
-      "abr": "frenchlebelm1886rifle(bayonetb)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FrenchServiceRifleBayonetB",
-      "price": 342
-    },
-    {
-      "abr": "frenchmas-36rifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FrenchServiceRifleBBayonet",
-      "price": 320
-    },
-    {
-      "abr": "frenchberthierm1916carbine",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FrenchServiceCarbine",
-      "price": 400
-    },
-    {
-      "abr": "frenchmas-38smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FrenchServiceSMG",
-      "price": 575
-    },
-    {
-      "abr": "frenchfm24/29lmg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FrenchServiceLMG",
-      "price": 692
-    },
-    {
-      "abr": "frenchchauchatlmg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2FrenchServiceLMGB",
-      "price": 692
-    },
-    {
-      "abr": "germanlugerp08pistol",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServicePistol",
-      "price": 269
-    },
-    {
-      "abr": "germanmauserhscpistol",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServicePistolB",
-      "price": 269
-    },
-    {
-      "abr": "germanwaltherp38pistol",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServicePistolC",
-      "price": 269
-    },
-    {
-      "abr": "germanmauserc96machinepistol",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceSemiAutomaticPistol",
-      "price": 350
-    },
-    {
-      "abr": "germankarabinerk98rifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceRifle",
-      "price": 314
-    },
-    {
-      "abr": "germankarabinerk98rifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceRifleBayonet",
-      "price": 320
-    },
-    {
-      "abr": "germangewehr43rifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceSemiAutomaticRifle",
-      "price": 475
-    },
-    {
-      "abr": "germangewehr43rifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceSemiAutomaticRifleBayonet",
-      "price": 483
-    },
-    {
-      "abr": "germanmp40smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceSMG",
-      "price": 575
-    },
-    {
-      "abr": "germanmp28smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceSMGB",
-      "price": 550
-    },
-    {
-      "abr": "germanmp38smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceSMGC",
-      "price": 575
-    },
-    {
-      "abr": "germanmp18smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceSMGD",
-      "price": 508
-    },
-    {
-      "abr": "germanmg-42lmg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceLMG",
-      "price": 867
-    },
-    {
-      "abr": "germanstg44rifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceAutomaticRifle",
-      "price": 642
-    },
-    {
-      "abr": "germankarabinerk98sniperrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceSniperRifle",
-      "price": 383
-    },
-    {
-      "abr": "germangewehr43sniperrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceSemiAutomaticSniperRifle",
-      "price": 533
-    },
-    {
-      "abr": "germanpanzerbusche39anti-tankrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2GermanServiceAntiTankRifle",
-      "price": 750
-    },
-    {
-      "abr": "italianbodeomodel1889revolver",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2ItalianServiceRevolver",
-      "price": 213
-    },
-    {
-      "abr": "italianberettam1934pistol",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2ItalianServicePistol",
-      "price": 269
-    },
-    {
-      "abr": "italiancarcanorifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2ItalianServiceRifle",
-      "price": 314
-    },
-    {
-      "abr": "italiancarcanorifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2ItalianServiceRifleBayonet",
-      "price": 350
-    },
-    {
-      "abr": "italiancarcanocarbine",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2ItalianServiceCarbine",
-      "price": 282
-    },
-    {
-      "abr": "italianberettam1918smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2ItalianServiceSMG",
-      "price": 525
-    },
-    {
-      "abr": "italianmab38/42smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2ItalianServiceSMGB",
-      "price": 575
-    },
-    {
-      "abr": "italianfnab-43smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2ItalianServiceSMGC",
-      "price": 575
-    },
-    {
-      "abr": "italianbreda30lmg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2ItalianServiceLMG",
-      "price": 650
-    },
-    {
-      "abr": "japanesetype14nambupistol",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2JapaneseServicePistol",
-      "price": 269
-    },
-    {
-      "abr": "japanesetype26revolver",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2JapaneseServiceRevolver",
-      "price": 213
-    },
-    {
-      "abr": "japanesetype99rifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2JapaneseServiceRifleBayonet",
-      "price": 320
-    },
-    {
-      "abr": "japanesetype38carbine",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2JapaneseServiceRifle",
-      "price": 282
-    },
-    {
-      "abr": "japanesetype100smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2JapaneseServiceSMG",
-      "price": 575
-    },
-    {
-      "abr": "japanesetype99lmg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2JapaneseServiceLMG",
-      "price": 692
-    },
-    {
-      "abr": "japanesetype99sniperrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2JapaneseServiceSniperRifle",
-      "price": 383
-    },
-    {
-      "abr": "russiannagantm1895revolver",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceRevolver",
-      "price": 213
-    },
-    {
-      "abr": "russiantt-33pistol",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServicePistol",
-      "price": 269
-    },
-    {
-      "abr": "russianmosin-nagantmodel1891/30rifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceRifle",
-      "price": 314
-    },
-    {
-      "abr": "russianmosin-nagantmodel1891/30rifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceRifleBayonet",
-      "price": 350
-    },
-    {
-      "abr": "russiansvt-40rifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceSemiAutomaticRifle",
-      "price": 475
-    },
-    {
-      "abr": "russiansvt-40rifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceSemiAutomaticRifleBayonet",
-      "price": 483
-    },
-    {
-      "abr": "russianppsh-41smg(stickmag)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceSMG",
-      "price": 575
-    },
-    {
-      "abr": "russianppsh-41smg(drummag)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceSMGB",
-      "price": 575
-    },
-    {
-      "abr": "russianpps-43smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceSMGC",
-      "price": 600
-    },
-    {
-      "abr": "russiandp-27lmg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceLMG",
-      "price": 750
-    },
-    {
-      "abr": "russianfedorovavtomatrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceAutomaticRifle",
-      "price": 633
-    },
-    {
-      "abr": "russianmosin-nagantmodel1891/30sniperrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceSniperRifle",
-      "price": 400
-    },
-    {
-      "abr": "russiansvt-40sniperrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceSemiAutomaticSniperRifle",
-      "price": 542
-    },
-    {
-      "abr": "russianptrd-41anti-tankrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceAntiTankRifle",
-      "price": 750
-    },
-    {
-      "abr": "russianptrs-41anti-tankrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2RussianServiceAntiTankRifleB",
-      "price": 867
-    },
-    {
-      "abr": "americanm1917revolver",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceRevolver",
-      "price": 213
-    },
-    {
-      "abr": "americanm1911pistol",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServicePistol",
-      "price": 269
-    },
-    {
-      "abr": "americanm1903springfieldrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceRifle",
-      "price": 314
-    },
-    {
-      "abr": "americanm1917enfieldrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceRifleB",
-      "price": 330
-    },
-    {
-      "abr": "americanm1903springfieldrifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceRifleBayonet",
-      "price": 320
-    },
-    {
-      "abr": "americanm1917enfieldrifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceRifleBBayonet",
-      "price": 333
-    },
-    {
-      "abr": "americanm1garandrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceSemiAutomaticRifle",
-      "price": 383
-    },
-    {
-      "abr": "americanm1garandrifle(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceSemiAutomaticRifleBayonet",
-      "price": 425
-    },
-    {
-      "abr": "americanm1carbine",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceCarbine",
-      "price": 450
-    },
-    {
-      "abr": "americanm12shotgun",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceShotgun",
-      "price": 315
-    },
-    {
-      "abr": "americanm12shotgun(bayonet)",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceShotgunBayonet",
-      "price": 350
-    },
-    {
-      "abr": "americanm1thompsonsmg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceSMG",
-      "price": 575
-    },
-    {
-      "abr": "americanm3smg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceSMGB",
-      "price": 575
-    },
-    {
-      "abr": "americanm1thompsonsmg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceSMGC",
-      "price": 575
-    },
-    {
-      "abr": "americanm1928thompsonsmg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceSMGD",
-      "price": 575
-    },
-    {
-      "abr": "americanjohnsonm1941lmg",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceLMG",
-      "price": 683
-    },
-    {
-      "abr": "americanbrowningrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceAutomaticRifle",
-      "price": 700
-    },
-    {
-      "abr": "americanm1903springfieldrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceSniperRifle",
-      "price": 500
-    },
-    {
-      "abr": "americanm1903springfieldrifle",
-      "category": "Ranged weapons",
-      "defname": "K4G_Gun_WW2AmericanServiceSniperRifleB",
-      "price": 475
     },
     {
       "abr": "heavyartillery",
@@ -7270,253 +5290,253 @@
       "abr": "techprint(cataphractarmor)",
       "category": "Techprints",
       "defname": "Techprint_CataphractArmor",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "techprint(jumppacks)",
       "category": "Techprints",
       "defname": "Techprint_JumpPack",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(brainwiring)",
       "category": "Techprints",
       "defname": "Techprint_BrainWiring",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "techprint(specializedlimbs)",
       "category": "Techprints",
       "defname": "Techprint_SpecializedLimbs",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "techprint(compactweaponry)",
       "category": "Techprints",
       "defname": "Techprint_CompactWeaponry",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "techprint(poisonsynthesis)",
       "category": "Techprints",
       "defname": "Techprint_VenomSynthesis",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "techprint(artificialmetabolism)",
       "category": "Techprints",
       "defname": "Techprint_ArtificialMetabolism",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(neuralcomputation)",
       "category": "Techprints",
       "defname": "Techprint_NeuralComputation",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(skinhardening)",
       "category": "Techprints",
       "defname": "Techprint_SkinHardening",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(healingfactors)",
       "category": "Techprints",
       "defname": "Techprint_HealingFactors",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(fleshshaping)",
       "category": "Techprints",
       "defname": "Techprint_FleshShaping",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(molecularanalysis)",
       "category": "Techprints",
       "defname": "Techprint_MolecularAnalysis",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "techprint(circadianinfluence)",
       "category": "Techprints",
       "defname": "Techprint_CircadianInfluence",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "psytrainer(painblock)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Painblock",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(stun)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Stun",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(burden)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Burden",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(blindingpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BlindingPulse",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(neuralheatdump)",
       "category": "Psytrainers",
       "defname": "Psytrainer_EntropyDump",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(beckon)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Beckon",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(vertigopulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_VertigoPulse",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(chaosskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_ChaosSkip",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(skip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Skip",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(wallraise)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Wallraise",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(smokepop)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Smokepop",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(focus)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Focus",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(berserk)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Berserk",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(invisibility)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Invisibility",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(berserkpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BerserkPulse",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(manhunterpulse)",
       "category": "Psytrainers",
       "defname": "Psytrainer_ManhunterPulse",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(masschaosskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_MassChaosSkip",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(waterskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Waterskip",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(flashstorm)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Flashstorm",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(skipshield)",
       "category": "Psytrainers",
       "defname": "Psytrainer_BulletShield",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(solarpinhole)",
       "category": "Psytrainers",
       "defname": "Psytrainer_SolarPinhole",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(wordoftrust)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfTrust",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "psytrainer(wordofjoy)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfJoy",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "psytrainer(wordoflove)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfLove",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "psytrainer(wordofserenity)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfSerenity",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "psytrainer(wordofinspiration)",
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfInspiration",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(farskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Farskip",
-      "price": -10
+      "price": 1417
     },
     {
       "abr": "psytrainer(neuroquake)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Neuroquake",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "psytrainer(chunkskip)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Chunkskip",
-      "price": -10
+      "price": 417
     },
     {
       "abr": "skilltrainer(shooting)",
@@ -7594,13 +5614,13 @@
       "abr": "jelliedchemfuel",
       "category": "Flamethrower fuel",
       "defname": "Ammo_Flamethrower_Napalm",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "jelliedprometheum",
       "category": "Flamethrower fuel",
       "defname": "Ammo_Flamethrower_Prometheum",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "flareround",
@@ -7612,97 +5632,97 @@
       "abr": "12mmrailguncartridge(sabot)",
       "category": "12mm Railgun",
       "defname": "Ammo_12mmRailgun_Sabot",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "12x64mmchargedcartridge",
       "category": "12x64mm Charged",
       "defname": "Ammo_12x64mmCharged",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "164x284mmdemolitionshell",
       "category": "164x284mm Demolition Shell",
       "defname": "Ammo_164x284mmDemo",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "30x64mmfuelcell(incendiary)",
       "category": "30x64mm Fuel Cell",
       "defname": "Ammo_30x64mmFuel_Incendiary",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "30x64mmfuelcell(thermobaric)",
       "category": "30x64mm Fuel Cell",
       "defname": "Ammo_30x64mmFuel_Thermobaric",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "30x64mmfuelcell(foam)",
       "category": "30x64mm Fuel Cell",
       "defname": "Ammo_30x64mmFuel_Foam",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "5x35mmchargedcartridge",
       "category": "5x35mm Charged",
       "defname": "Ammo_5x35mmCharged",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "66mmthermalbolt(incendiary)",
       "category": "66mm Thermal Bolt",
       "defname": "Ammo_66mmThermalBolt_Incendiary",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "6x22mmchargedcartridge",
       "category": "6x22mm Charged",
       "defname": "Ammo_6x22mmCharged",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "6x24mmchargedcartridge",
       "category": "6x24mm Charged",
       "defname": "Ammo_6x24mmCharged",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "6x24mmchargedcartridge(conc.)",
       "category": "6x24mm Charged",
       "defname": "Ammo_6x24mmCharged_AP",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "6x24mmchargedcartridge(ion)",
       "category": "6x24mm Charged",
       "defname": "Ammo_6x24mmCharged_Ion",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "80x256mmfuelcell(incendiary)",
       "category": "80x256mm Fuel Cell",
       "defname": "Ammo_80x256mmFuel_Incendiary",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "8x35mmchargedcartridge",
       "category": "8x35mm Charged",
       "defname": "Ammo_8x35mmCharged",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "8x35mmchargedcartridge(conc.)",
       "category": "8x35mm Charged",
       "defname": "Ammo_8x35mmCharged_AP",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "8x35mmchargedcartridge(ion)",
       "category": "8x35mm Charged",
       "defname": "Ammo_8x35mmCharged_Ion",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "30x29mmgrenade(he)",
@@ -7720,37 +5740,13 @@
       "abr": "30x29mmgrenade(emp)",
       "category": "30x29mm Grenade",
       "defname": "Ammo_30x29mmGrenade_EMP",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "30x29mmgrenade(smoke)",
       "category": "30x29mm Grenade",
       "defname": "Ammo_30x29mmGrenade_Smoke",
       "price": 4
-    },
-    {
-      "abr": "35x32mmsrgrenade(he)",
-      "category": "35x32mmSR Grenade",
-      "defname": "Ammo_35x32mmSRGrenade_HE",
-      "price": 4
-    },
-    {
-      "abr": "35x32mmsrgrenade(hedp)",
-      "category": "35x32mmSR Grenade",
-      "defname": "Ammo_35x32mmSRGrenade_HEDP",
-      "price": 4
-    },
-    {
-      "abr": "35x32mmsrgrenade(emp)",
-      "category": "35x32mmSR Grenade",
-      "defname": "Ammo_35x32mmSRGrenade_EMP",
-      "price": -10
-    },
-    {
-      "abr": "35x32mmsrgrenade(smoke)",
-      "category": "35x32mmSR Grenade",
-      "defname": "Ammo_35x32mmSRGrenade_Smoke",
-      "price": 3
     },
     {
       "abr": "40x46mmgrenade(he)",
@@ -7774,7 +5770,7 @@
       "abr": "40x46mmgrenade(emp)",
       "category": "40x46mm Grenade",
       "defname": "Ammo_40x46mmGrenade_EMP",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "40x46mmgrenade(smoke)",
@@ -7787,66 +5783,6 @@
       "category": "40x46mm Grenade",
       "defname": "Ammo_40x46mmGrenade_Tox",
       "price": 3
-    },
-    {
-      "abr": "40x53mmgrenade(he)",
-      "category": "40x53mm Grenade",
-      "defname": "Ammo_40x53mmGrenade_HE",
-      "price": 5
-    },
-    {
-      "abr": "40x53mmgrenade(hetimefuzed)",
-      "category": "40x53mm Grenade",
-      "defname": "Ammo_40x53mmGrenade_HE_TFuzed",
-      "price": 6
-    },
-    {
-      "abr": "40x53mmgrenade(hedp)",
-      "category": "40x53mm Grenade",
-      "defname": "Ammo_40x53mmGrenade_HEDP",
-      "price": 5
-    },
-    {
-      "abr": "40x53mmgrenade(emp)",
-      "category": "40x53mm Grenade",
-      "defname": "Ammo_40x53mmGrenade_EMP",
-      "price": -10
-    },
-    {
-      "abr": "40x53mmgrenade(smoke)",
-      "category": "40x53mm Grenade",
-      "defname": "Ammo_40x53mmGrenade_Smoke",
-      "price": 4
-    },
-    {
-      "abr": "12.7x108mmcartridge(fmj)",
-      "category": "12.7x108mm Soviet",
-      "defname": "Ammo_127x108mm_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "12.7x108mmcartridge(ap)",
-      "category": "12.7x108mm Soviet",
-      "defname": "Ammo_127x108mm_AP",
-      "price": 1
-    },
-    {
-      "abr": "12.7x108mmcartridge(ap-i)",
-      "category": "12.7x108mm Soviet",
-      "defname": "Ammo_127x108mm_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": "12.7x108mmcartridge(ap-he)",
-      "category": "12.7x108mm Soviet",
-      "defname": "Ammo_127x108mm_HE",
-      "price": 2
-    },
-    {
-      "abr": "12.7x108mmcartridge(sabot)",
-      "category": "12.7x108mm Soviet",
-      "defname": "Ammo_127x108mm_Sabot",
-      "price": 1
     },
     {
       "abr": "14.5x114mmcartridge(fmj)",
@@ -7903,78 +5839,6 @@
       "price": 2
     },
     {
-      "abr": "20x138mmbcartridge(ap)",
-      "category": "20x138mmB",
-      "defname": "Ammo_20x138mmB_AP",
-      "price": 2
-    },
-    {
-      "abr": "20x138mmbcartridge(ap-i)",
-      "category": "20x138mmB",
-      "defname": "Ammo_20x138mmB_Incendiary",
-      "price": 3
-    },
-    {
-      "abr": "20x138mmbcartridge(ap-he)",
-      "category": "20x138mmB",
-      "defname": "Ammo_20x138mmB_HE",
-      "price": 4
-    },
-    {
-      "abr": "20x138mmbcartridge(sabot)",
-      "category": "20x138mmB",
-      "defname": "Ammo_20x138mmB_Sabot",
-      "price": 2
-    },
-    {
-      "abr": "25x137mmnatocartridge(ap)",
-      "category": "25x137mm NATO",
-      "defname": "Ammo_25x137mmNATO_AP",
-      "price": 3
-    },
-    {
-      "abr": "25x137mmnatocartridge(ap-i)",
-      "category": "25x137mm NATO",
-      "defname": "Ammo_25x137mmNATO_Incendiary",
-      "price": 4
-    },
-    {
-      "abr": "25x137mmnatocartridge(ap-he)",
-      "category": "25x137mm NATO",
-      "defname": "Ammo_25x137mmNATO_HE",
-      "price": 6
-    },
-    {
-      "abr": "25x137mmnatocartridge(sabot)",
-      "category": "25x137mm NATO",
-      "defname": "Ammo_25x137mmNATO_Sabot",
-      "price": 4
-    },
-    {
-      "abr": "30x165mmcartridge(ap)",
-      "category": "30x165mm",
-      "defname": "Ammo_30x165mm_AP",
-      "price": 6
-    },
-    {
-      "abr": "30x165mmcartridge(ap-i)",
-      "category": "30x165mm",
-      "defname": "Ammo_30x165mm_Incendiary",
-      "price": 8
-    },
-    {
-      "abr": "30x165mmcartridge(ap-he)",
-      "category": "30x165mm",
-      "defname": "Ammo_30x165mm_HE",
-      "price": 12
-    },
-    {
-      "abr": "30x165mmcartridge(sabot)",
-      "category": "30x165mm",
-      "defname": "Ammo_30x165mm_Sabot",
-      "price": 6
-    },
-    {
       "abr": "40x311mmrcartridge(ap)",
       "category": "40x311mmR",
       "defname": "Ammo_40x311mmR_AP",
@@ -7997,66 +5861,6 @@
       "category": "40x311mmR",
       "defname": "Ammo_40x311mmR_Sabot",
       "price": 16
-    },
-    {
-      "abr": ".50bmgcartridge(fmj)",
-      "category": ".50 BMG",
-      "defname": "Ammo_50BMG_FMJ",
-      "price": 1
-    },
-    {
-      "abr": ".50bmgcartridge(ap)",
-      "category": ".50 BMG",
-      "defname": "Ammo_50BMG_AP",
-      "price": 1
-    },
-    {
-      "abr": ".50bmgcartridge(ap-i)",
-      "category": ".50 BMG",
-      "defname": "Ammo_50BMG_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": ".50bmgcartridge(ap-he)",
-      "category": ".50 BMG",
-      "defname": "Ammo_50BMG_HE",
-      "price": 2
-    },
-    {
-      "abr": ".50bmgcartridge(sabot)",
-      "category": ".50 BMG",
-      "defname": "Ammo_50BMG_Sabot",
-      "price": 1
-    },
-    {
-      "abr": "7.92x94mmpatronencartridge(fmj)",
-      "category": "7.92x94mm Patronen",
-      "defname": "Ammo_792x94mmPatronen_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "7.92x94mmpatronencartridge(ap)",
-      "category": "7.92x94mm Patronen",
-      "defname": "Ammo_792x94mmPatronen_AP",
-      "price": 1
-    },
-    {
-      "abr": "7.92x94mmpatronencartridge(ap-i)",
-      "category": "7.92x94mm Patronen",
-      "defname": "Ammo_792x94mmPatronen_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": "7.92x94mmpatronencartridge(ap-he)",
-      "category": "7.92x94mm Patronen",
-      "defname": "Ammo_792x94mmPatronen_HE",
-      "price": 1
-    },
-    {
-      "abr": "7.92x94mmpatronencartridge(sabot)",
-      "category": "7.92x94mm Patronen",
-      "defname": "Ammo_792x94mmPatronen_Sabot",
-      "price": 1
     },
     {
       "abr": "boulder",
@@ -8125,78 +5929,6 @@
       "price": 2
     },
     {
-      "abr": ".22lrcartridge(fmj)",
-      "category": ".22 LR",
-      "defname": "Ammo_22LR_FMJ",
-      "price": 1
-    },
-    {
-      "abr": ".22lrcartridge(ap)",
-      "category": ".22 LR",
-      "defname": "Ammo_22LR_AP",
-      "price": 1
-    },
-    {
-      "abr": ".22lrcartridge(hp)",
-      "category": ".22 LR",
-      "defname": "Ammo_22LR_HP",
-      "price": 1
-    },
-    {
-      "abr": ".32acpcartridge(fmj)",
-      "category": ".32 ACP",
-      "defname": "Ammo_32ACP_FMJ",
-      "price": 1
-    },
-    {
-      "abr": ".32acpcartridge(ap)",
-      "category": ".32 ACP",
-      "defname": "Ammo_32ACP_AP",
-      "price": 1
-    },
-    {
-      "abr": ".32acpcartridge(hp)",
-      "category": ".32 ACP",
-      "defname": "Ammo_32ACP_HP",
-      "price": 1
-    },
-    {
-      "abr": ".380acpcartridge(fmj)",
-      "category": ".380 ACP",
-      "defname": "Ammo_380ACP_FMJ",
-      "price": 1
-    },
-    {
-      "abr": ".380acpcartridge(ap)",
-      "category": ".380 ACP",
-      "defname": "Ammo_380ACP_AP",
-      "price": 1
-    },
-    {
-      "abr": ".380acpcartridge(hp)",
-      "category": ".380 ACP",
-      "defname": "Ammo_380ACP_HP",
-      "price": 1
-    },
-    {
-      "abr": ".38specialcartridge(fmj)",
-      "category": ".38 Special",
-      "defname": "Ammo_38Special_FMJ",
-      "price": 1
-    },
-    {
-      "abr": ".38specialcartridge(ap)",
-      "category": ".38 Special",
-      "defname": "Ammo_38Special_AP",
-      "price": 1
-    },
-    {
-      "abr": ".38specialcartridge(hp)",
-      "category": ".38 Special",
-      "defname": "Ammo_38Special_HP",
-      "price": 1
-    },
-    {
       "abr": ".44magnumcartridge(fmj)",
       "category": ".44 Magnum",
       "defname": "Ammo_44Magnum_FMJ",
@@ -8230,150 +5962,6 @@
       "abr": ".45acpcartridge(hp)",
       "category": ".45 ACP",
       "defname": "Ammo_45ACP_HP",
-      "price": 1
-    },
-    {
-      "abr": "7.62x25mmtokarevcartridge(fmj)",
-      "category": "7.62x25mm Tokarev",
-      "defname": "Ammo_762x25mmTokarev_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "7.62x25mmtokarevcartridge(ap)",
-      "category": "7.62x25mm Tokarev",
-      "defname": "Ammo_762x25mmTokarev_AP",
-      "price": 1
-    },
-    {
-      "abr": "7.62x25mmtokarevcartridge(hp)",
-      "category": "7.62x25mm Tokarev",
-      "defname": "Ammo_762x25mmTokarev_HP",
-      "price": 1
-    },
-    {
-      "abr": "7.62x38mmrcartridge(fmj)",
-      "category": "7.62x38mmR",
-      "defname": "Ammo_762x38mmR_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "7.62x38mmrcartridge(ap)",
-      "category": "7.62x38mmR",
-      "defname": "Ammo_762x38mmR_AP",
-      "price": 1
-    },
-    {
-      "abr": "7.62x38mmrcartridge(hp)",
-      "category": "7.62x38mmR",
-      "defname": "Ammo_762x38mmR_HP",
-      "price": 1
-    },
-    {
-      "abr": "7.63x25mmmausercartridge(fmj)",
-      "category": "7.63x25mm Mauser",
-      "defname": "Ammo_763x25mmMauser_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "7.63x25mmmausercartridge(ap)",
-      "category": "7.63x25mm Mauser",
-      "defname": "Ammo_763x25mmMauser_AP",
-      "price": 1
-    },
-    {
-      "abr": "7.63x25mmmausercartridge(hp)",
-      "category": "7.63x25mm Mauser",
-      "defname": "Ammo_763x25mmMauser_HP",
-      "price": 1
-    },
-    {
-      "abr": "7.65x20mmlonguecartridge(fmj)",
-      "category": "7.65x20mm Longue",
-      "defname": "Ammo_765x20mmLongue_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "7.65x20mmlonguecartridge(ap)",
-      "category": "7.65x20mm Longue",
-      "defname": "Ammo_765x20mmLongue_AP",
-      "price": 1
-    },
-    {
-      "abr": "7.65x20mmlonguecartridge(hp)",
-      "category": "7.65x20mm Longue",
-      "defname": "Ammo_765x20mmLongue_HP",
-      "price": 1
-    },
-    {
-      "abr": "8x22mmnambucartridge(fmj)",
-      "category": "8x22mm Nambu",
-      "defname": "Ammo_8x22mmNambu_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "8x22mmnambucartridge(ap)",
-      "category": "8x22mm Nambu",
-      "defname": "Ammo_8x22mmNambu_AP",
-      "price": 1
-    },
-    {
-      "abr": "8x22mmnambucartridge(hp)",
-      "category": "8x22mm Nambu",
-      "defname": "Ammo_8x22mmNambu_HP",
-      "price": 1
-    },
-    {
-      "abr": "9x19mmparacartridge(fmj)",
-      "category": "9x19mm Parabellum",
-      "defname": "Ammo_9x19mmPara_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "9x19mmparacartridge(ap)",
-      "category": "9x19mm Parabellum",
-      "defname": "Ammo_9x19mmPara_AP",
-      "price": 1
-    },
-    {
-      "abr": "9x19mmparacartridge(hp)",
-      "category": "9x19mm Parabellum",
-      "defname": "Ammo_9x19mmPara_HP",
-      "price": 1
-    },
-    {
-      "abr": ".30-06springfieldcartridge(fmj)",
-      "category": ".30-06 Springfield",
-      "defname": "Ammo_3006Springfield_FMJ",
-      "price": 1
-    },
-    {
-      "abr": ".30-06springfieldcartridge(ap)",
-      "category": ".30-06 Springfield",
-      "defname": "Ammo_3006Springfield_AP",
-      "price": 1
-    },
-    {
-      "abr": ".30-06springfieldcartridge(hp)",
-      "category": ".30-06 Springfield",
-      "defname": "Ammo_3006Springfield_HP",
-      "price": 1
-    },
-    {
-      "abr": ".30-06springfieldcartridge(ap-i)",
-      "category": ".30-06 Springfield",
-      "defname": "Ammo_3006Springfield_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": ".30-06springfieldcartridge(ap-he)",
-      "category": ".30-06 Springfield",
-      "defname": "Ammo_3006Springfield_HE",
-      "price": 1
-    },
-    {
-      "abr": ".30-06springfieldcartridge(sabot)",
-      "category": ".30-06 Springfield",
-      "defname": "Ammo_3006Springfield_Sabot",
       "price": 1
     },
     {
@@ -8413,42 +6001,6 @@
       "price": 1
     },
     {
-      "abr": ".30carbinecartridge(fmj)",
-      "category": ".30 Carbine",
-      "defname": "Ammo_30Carbine_FMJ",
-      "price": 1
-    },
-    {
-      "abr": ".30carbinecartridge(ap)",
-      "category": ".30 Carbine",
-      "defname": "Ammo_30Carbine_AP",
-      "price": 1
-    },
-    {
-      "abr": ".30carbinecartridge(hp)",
-      "category": ".30 Carbine",
-      "defname": "Ammo_30Carbine_HP",
-      "price": 1
-    },
-    {
-      "abr": ".30carbinecartridge(ap-i)",
-      "category": ".30 Carbine",
-      "defname": "Ammo_30Carbine_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": ".30carbinecartridge(ap-he)",
-      "category": ".30 Carbine",
-      "defname": "Ammo_30Carbine_HE",
-      "price": 1
-    },
-    {
-      "abr": ".30carbinecartridge(sabot)",
-      "category": ".30 Carbine",
-      "defname": "Ammo_30Carbine_Sabot",
-      "price": 1
-    },
-    {
       "abr": "5.56x45mmnatocartridge(fmj)",
       "category": "5.56x45mm NATO",
       "defname": "Ammo_556x45mmNATO_FMJ",
@@ -8485,225 +6037,9 @@
       "price": 1
     },
     {
-      "abr": "5.8x42mmdbp10cartridge(fmj)",
-      "category": "5.8x42mm DBP10",
-      "defname": "Ammo_58x42mmDBP10_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "5.8x42mmdbp10cartridge(ap)",
-      "category": "5.8x42mm DBP10",
-      "defname": "Ammo_58x42mmDBP10_AP",
-      "price": 1
-    },
-    {
-      "abr": "5.8x42mmdbp10cartridge(hp)",
-      "category": "5.8x42mm DBP10",
-      "defname": "Ammo_58x42mmDBP10_HP",
-      "price": 1
-    },
-    {
-      "abr": "5.8x42mmdbp10cartridge(ap-i)",
-      "category": "5.8x42mm DBP10",
-      "defname": "Ammo_58x42mmDBP10_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": "5.8x42mmdbp10cartridge(ap-he)",
-      "category": "5.8x42mm DBP10",
-      "defname": "Ammo_58x42mmDBP10_HE",
-      "price": 1
-    },
-    {
-      "abr": "5.8x42mmdbp10cartridge(sabot)",
-      "category": "5.8x42mm DBP10",
-      "defname": "Ammo_58x42mmDBP10_Sabot",
-      "price": 1
-    },
-    {
       "abr": "5x100mmcaselesscartridge(sabot)",
       "category": "5x100mm Caseless",
       "defname": "Ammo_5x100mmCaseless_Sabot",
-      "price": 1
-    },
-    {
-      "abr": "6.5x52mmcarcanocartridge(fmj)",
-      "category": "6.5x52mm Carcano",
-      "defname": "Ammo_65x52mmCarcano_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "6.5x52mmcarcanocartridge(ap)",
-      "category": "6.5x52mm Carcano",
-      "defname": "Ammo_65x52mmCarcano_AP",
-      "price": 1
-    },
-    {
-      "abr": "6.5x52mmcarcanocartridge(hp)",
-      "category": "6.5x52mm Carcano",
-      "defname": "Ammo_65x52mmCarcano_HP",
-      "price": 1
-    },
-    {
-      "abr": "6.5x52mmcarcanocartridge(ap-i)",
-      "category": "6.5x52mm Carcano",
-      "defname": "Ammo_65x52mmCarcano_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": "6.5x52mmcarcanocartridge(ap-he)",
-      "category": "6.5x52mm Carcano",
-      "defname": "Ammo_65x52mmCarcano_HE",
-      "price": 1
-    },
-    {
-      "abr": "6.5x52mmcarcanocartridge(sabot)",
-      "category": "6.5x52mm Carcano",
-      "defname": "Ammo_65x52mmCarcano_Sabot",
-      "price": 1
-    },
-    {
-      "abr": "6.5x50mmsrarisakacartridge(fmj)",
-      "category": "6.5x50mmSR Arisaka",
-      "defname": "Ammo_65x50mmSRArisaka_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "6.5x50mmsrarisakacartridge(ap)",
-      "category": "6.5x50mmSR Arisaka",
-      "defname": "Ammo_65x50mmSRArisaka_AP",
-      "price": 1
-    },
-    {
-      "abr": "6.5x50mmsrarisakacartridge(hp)",
-      "category": "6.5x50mmSR Arisaka",
-      "defname": "Ammo_65x50mmSRArisaka_HP",
-      "price": 1
-    },
-    {
-      "abr": "6.5x50mmsrcartridge(ap-i)",
-      "category": "6.5x50mmSR Arisaka",
-      "defname": "Ammo_65x50mmSRArisaka_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": "6.5x50mmsrcartridge(ap-he)",
-      "category": "6.5x50mmSR Arisaka",
-      "defname": "Ammo_65x50mmSRArisaka_HE",
-      "price": 1
-    },
-    {
-      "abr": "6.5x50mmsrcartridge(sabot)",
-      "category": "6.5x50mmSR Arisaka",
-      "defname": "Ammo_65x50mmSRArisaka_Sabot",
-      "price": 1
-    },
-    {
-      "abr": "7.92x57mmmausercartridge(fmj)",
-      "category": "7.92x57mm Mauser",
-      "defname": "Ammo_792x57mmMauser_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "7.92x57mmmausercartridge(ap)",
-      "category": "7.92x57mm Mauser",
-      "defname": "Ammo_792x57mmMauser_AP",
-      "price": 1
-    },
-    {
-      "abr": "7.92x57mmmausercartridge(hp)",
-      "category": "7.92x57mm Mauser",
-      "defname": "Ammo_792x57mmMauser_HP",
-      "price": 1
-    },
-    {
-      "abr": "7.92x57mmmausercartridge(ap-i)",
-      "category": "7.92x57mm Mauser",
-      "defname": "Ammo_792x57mmMauser_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": "7.92x57mmmausercartridge(ap-he)",
-      "category": "7.92x57mm Mauser",
-      "defname": "Ammo_792x57mmMauser_HE",
-      "price": 1
-    },
-    {
-      "abr": "7.92x57mmmausercartridge(sabot)",
-      "category": "7.92x57mm Mauser",
-      "defname": "Ammo_792x57mmMauser_Sabot",
-      "price": 1
-    },
-    {
-      "abr": "7.5x54mmfrenchcartridge(fmj)",
-      "category": "7.5x54mm French",
-      "defname": "Ammo_75x54mmFrench_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "7.5x54mmfrenchcartridge(ap)",
-      "category": "7.5x54mm French",
-      "defname": "Ammo_75x54mmFrench_AP",
-      "price": 1
-    },
-    {
-      "abr": "7.5x54mmfrenchcartridge(hp)",
-      "category": "7.5x54mm French",
-      "defname": "Ammo_75x54mmFrench_HP",
-      "price": 1
-    },
-    {
-      "abr": "7.5x54mmfrenchcartridge(ap-i)",
-      "category": "7.5x54mm French",
-      "defname": "Ammo_75x54mmFrench_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": "7.5x54mmfrenchcartridge(ap-he)",
-      "category": "7.5x54mm French",
-      "defname": "Ammo_75x54mmFrench_HE",
-      "price": 1
-    },
-    {
-      "abr": "7.5x54mmfrenchcartridge(sabot)",
-      "category": "7.5x54mm French",
-      "defname": "Ammo_75x54mmFrench_Sabot",
-      "price": 1
-    },
-    {
-      "abr": "7.62x39mmsovietcartridge(fmj)",
-      "category": "7.62x39mm Soviet",
-      "defname": "Ammo_762x39mmSoviet_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "7.62x39mmsovietcartridge(ap)",
-      "category": "7.62x39mm Soviet",
-      "defname": "Ammo_762x39mmSoviet_AP",
-      "price": 1
-    },
-    {
-      "abr": "7.62x39mmsovietcartridge(hp)",
-      "category": "7.62x39mm Soviet",
-      "defname": "Ammo_762x39mmSoviet_HP",
-      "price": 1
-    },
-    {
-      "abr": "7.62x39mmsovietcartridge(ap-i)",
-      "category": "7.62x39mm Soviet",
-      "defname": "Ammo_762x39mmSoviet_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": "7.62x39mmsovietcartridge(ap-he)",
-      "category": "7.62x39mm Soviet",
-      "defname": "Ammo_762x39mmSoviet_HE",
-      "price": 1
-    },
-    {
-      "abr": "7.62x39mmsovietcartridge(sabot)",
-      "category": "7.62x39mm Soviet",
-      "defname": "Ammo_762x39mmSoviet_Sabot",
       "price": 1
     },
     {
@@ -8743,184 +6079,10 @@
       "price": 1
     },
     {
-      "abr": "7.62x54mmrcartridge(fmj)",
-      "category": "7.62x54mmR",
-      "defname": "Ammo_762x54mmR_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "7.62x54mmrcartridge(ap)",
-      "category": "7.62x54mmR",
-      "defname": "Ammo_762x54mmR_AP",
-      "price": 1
-    },
-    {
-      "abr": "7.62x54mmrcartridge(hp)",
-      "category": "7.62x54mmR",
-      "defname": "Ammo_762x54mmR_HP",
-      "price": 1
-    },
-    {
-      "abr": "7.62x54mmrcartridge(ap-i)",
-      "category": "7.62x54mmR",
-      "defname": "Ammo_762x54mmR_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": "7.62x54mmrcartridge(ap-he)",
-      "category": "7.62x54mmR",
-      "defname": "Ammo_762x54mmR_HE",
-      "price": 1
-    },
-    {
-      "abr": "7.62x54mmrcartridge(sabot)",
-      "category": "7.62x54mmR",
-      "defname": "Ammo_762x54mmR_Sabot",
-      "price": 1
-    },
-    {
-      "abr": "7.7x58mmarisakacartridge(fmj)",
-      "category": "7.7x58mm Arisaka",
-      "defname": "Ammo_77x58mmArisaka_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "7.7x58mmarisakacartridge(ap)",
-      "category": "7.7x58mm Arisaka",
-      "defname": "Ammo_77x58mmArisaka_AP",
-      "price": 1
-    },
-    {
-      "abr": "7.7x58mmarisakacartridge(hp)",
-      "category": "7.7x58mm Arisaka",
-      "defname": "Ammo_77x58mmArisaka_HP",
-      "price": 1
-    },
-    {
-      "abr": "7.7x58mmarisakacartridge(ap-i)",
-      "category": "7.7x58mm Arisaka",
-      "defname": "Ammo_77x58mmArisaka_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": "7.7x58mmarisakacartridge(ap-he)",
-      "category": "7.7x58mm Arisaka",
-      "defname": "Ammo_77x58mmArisaka_HE",
-      "price": 1
-    },
-    {
-      "abr": "7.7x58mmarisakacartridge(sabot)",
-      "category": "7.7x58mm Arisaka",
-      "defname": "Ammo_77x58mmArisaka_Sabot",
-      "price": 1
-    },
-    {
-      "abr": "7.92x33mmkurzcartridge(fmj)",
-      "category": "7.92x33mm Kurz",
-      "defname": "Ammo_792x33mmKurz_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "7.92x33mmkurzcartridge(ap)",
-      "category": "7.92x33mm Kurz",
-      "defname": "Ammo_792x33mmKurz_AP",
-      "price": 1
-    },
-    {
-      "abr": "7.92x33mmkurzcartridge(hp)",
-      "category": "7.92x33mm Kurz",
-      "defname": "Ammo_792x33mmKurz_HP",
-      "price": 1
-    },
-    {
-      "abr": "7.92x33mmkurzcartridge(ap-i)",
-      "category": "7.92x33mm Kurz",
-      "defname": "Ammo_792x33mmKurz_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": "7.92x33mmkurzcartridge(ap-he)",
-      "category": "7.92x33mm Kurz",
-      "defname": "Ammo_792x33mmKurz_HE",
-      "price": 1
-    },
-    {
-      "abr": "7.92x33mmkurzcartridge(sabot)",
-      "category": "7.92x33mm Kurz",
-      "defname": "Ammo_792x33mmKurz_Sabot",
-      "price": 1
-    },
-    {
-      "abr": "8x50mmrlebelcartridge(fmj)",
-      "category": "8x50mmR Lebel",
-      "defname": "Ammo_8x50mmRLebel_FMJ",
-      "price": 1
-    },
-    {
-      "abr": "8x50mmrlebelcartridge(ap)",
-      "category": "8x50mmR Lebel",
-      "defname": "Ammo_8x50mmRLebel_AP",
-      "price": 1
-    },
-    {
-      "abr": "8x50mmrlebelcartridge(hp)",
-      "category": "8x50mmR Lebel",
-      "defname": "Ammo_8x50mmRLebel_HP",
-      "price": 1
-    },
-    {
-      "abr": "8x50mmrlebelcartridge(ap-i)",
-      "category": "8x50mmR Lebel",
-      "defname": "Ammo_8x50mmRLebel_Incendiary",
-      "price": 1
-    },
-    {
-      "abr": "8x50mmrlebelcartridge(ap-he)",
-      "category": "8x50mmR Lebel",
-      "defname": "Ammo_8x50mmRLebel_HE",
-      "price": 1
-    },
-    {
-      "abr": "8x50mmrlebelcartridge(sabot)",
-      "category": "8x50mmR Lebel",
-      "defname": "Ammo_8x50mmRLebel_Sabot",
-      "price": 1
-    },
-    {
       "abr": "50mmrocket(he)",
       "category": null,
       "defname": "Ammo_50mmRocket_HE",
       "price": 25
-    },
-    {
-      "abr": "88mmrpzbrocket(heat)",
-      "category": "88mm RPzB Rockets",
-      "defname": "Ammo_88mmRPzB_HEAT",
-      "price": 86
-    },
-    {
-      "abr": "m6rocket(heat)",
-      "category": "M6 Rockets",
-      "defname": "Ammo_M6_HEAT",
-      "price": 86
-    },
-    {
-      "abr": "m6a1rocket(heat)",
-      "category": "M6A1 Rockets",
-      "defname": "Ammo_M6A1_HEAT",
-      "price": 86
-    },
-    {
-      "abr": "m6a3rocket(heat)",
-      "category": "M6A3 Rockets",
-      "defname": "Ammo_M6A3_HEAT",
-      "price": 86
-    },
-    {
-      "abr": "m6a3rocket(incendiary)",
-      "category": "M6A3 Rockets",
-      "defname": "Ammo_M6A3_Incendiary",
-      "price": 64
     },
     {
       "abr": "155mmhowitzershell(he)",
@@ -8938,55 +6100,13 @@
       "abr": "155mmhowitzershell(emp)",
       "category": "155mm Howitzer shell",
       "defname": "Ammo_155mmHowitzerShell_EMP",
-      "price": -10
+      "price": 1125
     },
     {
       "abr": "155mmhowitzershell(smoke)",
       "category": "155mm Howitzer shell",
       "defname": "Ammo_155mmHowitzerShell_Smoke",
       "price": 433
-    },
-    {
-      "abr": "40x365mmboforscartridge(he)",
-      "category": "40x365mm Bofors",
-      "defname": "Ammo_40x365mmBofors_HE",
-      "price": 37
-    },
-    {
-      "abr": "40x365mmboforscartridge(ap)",
-      "category": "40x365mm Bofors",
-      "defname": "Ammo_40x365mmBofors_AP",
-      "price": 14
-    },
-    {
-      "abr": "60mmmortarshell(he)",
-      "category": "60mm mortar shell",
-      "defname": "Shell_60mmMortar_HE",
-      "price": 49
-    },
-    {
-      "abr": "60mmmortarshell(incendiary)",
-      "category": "60mm mortar shell",
-      "defname": "Shell_60mmMortar_Incendiary",
-      "price": 39
-    },
-    {
-      "abr": "60mmmortarshell(emp)",
-      "category": "60mm mortar shell",
-      "defname": "Shell_60mmMortar_EMP",
-      "price": -10
-    },
-    {
-      "abr": "60mmmortarshell(foam)",
-      "category": "60mm mortar shell",
-      "defname": "Shell_60mmMortar_Firefoam",
-      "price": 40
-    },
-    {
-      "abr": "60mmmortarshell(smoke)",
-      "category": "60mm mortar shell",
-      "defname": "Shell_60mmMortar_Smoke",
-      "price": 37
     },
     {
       "abr": "81mmmortarshell(he)",
@@ -9004,7 +6124,7 @@
       "abr": "81mmmortarshell(emp)",
       "category": "81mm mortar shell",
       "defname": "Shell_EMP",
-      "price": -10
+      "price": 187
     },
     {
       "abr": "81mmmortarshell(foam)",
@@ -9022,7 +6142,7 @@
       "abr": "81mmmortarshell(anti)",
       "category": "81mm mortar shell",
       "defname": "Shell_AntigrainWarhead",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "81mmmortarshell(toxic)",
@@ -9052,7 +6172,7 @@
       "abr": "90mmcannonshell(emp)",
       "category": "90mm cannon shell",
       "defname": "Ammo_90mmCannonShell_EMP",
-      "price": -10
+      "price": 268
     },
     {
       "abr": "12gaugeshell(buck)",
@@ -9076,7 +6196,7 @@
       "abr": "12gaugeshell(emp)",
       "category": "12 gauge",
       "defname": "Ammo_12Gauge_ElectroSlug",
-      "price": -10
+      "price": 1
     },
     {
       "abr": ".410boreshell(buck)",
@@ -9100,470 +6220,14 @@
       "abr": ".410boreshell(emp)",
       "category": ".410 Bore",
       "defname": "Ammo_410Bore_ElectroSlug",
-      "price": -10
-    },
-    {
-      "abr": "100mmbr-412d(aphe)",
-      "category": "100mm BS-3 shells",
-      "defname": "Ammo_100mmBS3_APHE",
-      "price": 126
-    },
-    {
-      "abr": "100mmof-412(he)",
-      "category": "100mm BS-3 shells",
-      "defname": "Ammo_100mmBS3_HE",
-      "price": 175
-    },
-    {
-      "abr": "100mmoeaf1(he)",
-      "category": "100mm/55 shells",
-      "defname": "Ammo_100mmModel1953_HE",
-      "price": 121
-    },
-    {
-      "abr": "105mmdm23(apfsds)",
-      "category": "105mm L7A3 shells",
-      "defname": "Ammo_105mmL7A3_APFSDS",
-      "price": 90
-    },
-    {
-      "abr": "105mmdm12(heat)",
-      "category": "105mm L7A3 shells",
-      "defname": "Ammo_105mmL7A3_HEAT",
-      "price": 120
-    },
-    {
-      "abr": "106mmm344(heat)",
-      "category": "106mm M40 shells",
-      "defname": "Ammo_106mmM40_HEAT",
-      "price": 132
-    },
-    {
-      "abr": "120mmslsgrm/95(he)",
-      "category": "120mm/46 shells",
-      "defname": "Ammo_120mmTAK120_HE",
-      "price": 233
-    },
-    {
-      "abr": "122mmof-462(he)",
-      "category": "122mm 2A12 shells",
-      "defname": "Ammo_122mm2A12_HE",
-      "price": 228
-    },
-    {
-      "abr": "5\"hcmark41mod0(he)",
-      "category": "127mm/54 shells",
-      "defname": "Ammo_127mmMark16_HE",
-      "price": 268
-    },
-    {
-      "abr": "12.7cmsprgrl/4.5kz(he)",
-      "category": "127mm/45 shells",
-      "defname": "Ammo_127mmSKC34_HE",
-      "price": 225
-    },
-    {
-      "abr": "12.7cmtype1he(he)",
-      "category": "127mm/50 shells",
-      "defname": "Ammo_127mmTypeC_HE",
-      "price": 202
-    },
-    {
-      "abr": "128mmpzgr.(ap)",
-      "category": "128mm Pak44 shells",
-      "defname": "Ammo_128mmPAK44_AP",
-      "price": 173
-    },
-    {
-      "abr": "128mmsprgr.l/5(he)",
-      "category": "128mm Pak44 shells",
-      "defname": "Ammo_128mmPAK44_HE",
-      "price": 263
-    },
-    {
-      "abr": "15cmigr33(he)",
-      "category": "15cm L11 shells",
-      "defname": "Ammo_150mmSIG33_HE",
-      "price": 458
-    },
-    {
-      "abr": "15cmspgr.l/4,5kz(he)",
-      "category": "150mm/48 shells",
-      "defname": "Ammo_150mmKC36_HE",
-      "price": 408
-    },
-    {
-      "abr": "152mmof-540(he)",
-      "category": "152.4mm 2A65 shells",
-      "defname": "Ammo_152mm2A65_HE",
-      "price": 392
-    },
-    {
-      "abr": "155mmm795(he)",
-      "category": "155mm CN 155 AUF1 shells",
-      "defname": "Ammo_155mmGCT_HE",
-      "price": 550
-    },
-    {
-      "abr": "20.3cmspgr.l/4,7kz(he)",
-      "category": "203mm/60 shells",
-      "defname": "Ammo_203mmSKC34_HE",
-      "price": 725
-    },
-    {
-      "abr": "20x139mm(hei)",
-      "category": "20x139mm shells",
-      "defname": "Ammo_20x139mm_HEI",
-      "price": 5
-    },
-    {
-      "abr": "20x139mm(apds)",
-      "category": "20x139mm shells",
-      "defname": "Ammo_20x139mm_APDS",
-      "price": 5
-    },
-    {
-      "abr": "233mmmk.i(he)",
-      "category": "BL 9.2-inch MK I shells",
-      "defname": "Ammo_233mmBLMK1_HE",
-      "price": 800
-    },
-    {
-      "abr": "30x165mm(hei)",
-      "category": "30x165mm shells",
-      "defname": "Ammo_30x165mm_HEI",
-      "price": 8
-    },
-    {
-      "abr": "30x165mm(apds)",
-      "category": "30x165mm shells",
-      "defname": "Ammo_30x165mm_APDS",
-      "price": 11
-    },
-    {
-      "abr": "30x170mm(hei)",
-      "category": "30x170mm shells",
-      "defname": "Ammo_30x170mm_HEI",
-      "price": 8
-    },
-    {
-      "abr": "30x170mm(apds)",
-      "category": "30x170mm shells",
-      "defname": "Ammo_30x170mm_APDS",
-      "price": 11
-    },
-    {
-      "abr": "30x184mmm.gr.(hei)",
-      "category": "30x184mm shells",
-      "defname": "Ammo_30x184mm_HEI",
-      "price": 8
-    },
-    {
-      "abr": "30x184mmpz.gr.h(ap)",
-      "category": "30x184mm shells",
-      "defname": "Ammo_30x184mm_AP",
-      "price": 3
-    },
-    {
-      "abr": "37x249mm(hei)",
-      "category": "37x249mm shells",
-      "defname": "Ammo_37x249mm_HEI",
-      "price": 12
-    },
-    {
-      "abr": "37x249mm(ap)",
-      "category": "37x249mm shells",
-      "defname": "Ammo_37x249mm_AP",
-      "price": 5
-    },
-    {
-      "abr": "57mmshotmk.8(ap)",
-      "category": "OQF 6-pounder 7 cwt shells",
-      "defname": "Ammo_57mmOQF_AP",
-      "price": 12
-    },
-    {
-      "abr": "57mmshotmk.1t(apds)",
-      "category": "OQF 6-pounder 7 cwt shells",
-      "defname": "Ammo_57mmOQF_APDS",
-      "price": 47
-    },
-    {
-      "abr": "60cmschwerebetongranate(he)",
-      "category": "60cm Karl Gerat shells",
-      "defname": "Ammo_600mmKarlGerat_HE",
-      "price": 9550
-    },
-    {
-      "abr": "60cmleichtebetongranate(he)",
-      "category": "60cm Karl Gerat shells",
-      "defname": "Ammo_600mmKarlGeratLeichte_HE",
-      "price": 7508
-    },
-    {
-      "abr": "75mmjgr.18(he)",
-      "category": "7.5cm L11.2 shells",
-      "defname": "Ammo_75mmLEIG18_HE",
-      "price": 177
-    },
-    {
-      "abr": "75mmpzgr.39(aphe)",
-      "category": "75mm Pak40 shells",
-      "defname": "Ammo_75mmPAK40_APHE",
-      "price": 109
-    },
-    {
-      "abr": "75mmsprgr.34(he)",
-      "category": "75mm Pak40 shells",
-      "defname": "Ammo_75mmPAK40_HE",
-      "price": 68
-    },
-    {
-      "abr": "76x636mm(he)",
-      "category": "76mm/62 shells",
-      "defname": "Ammo_76mmOtomelaraC_HE",
-      "price": 82
-    },
-    {
-      "abr": "76x636mm(sap)",
-      "category": "76mm/62 shells",
-      "defname": "Ammo_76mmOtomelaraC_SAP",
-      "price": 45
-    },
-    {
-      "abr": "88mmpzgr.39(aphe)",
-      "category": "88mm Flak41 shells",
-      "defname": "Ammo_88mmFLAK41_APHE",
-      "price": 95
-    },
-    {
-      "abr": "88mmsprgr.43(he)",
-      "category": "88mm Flak41 shells",
-      "defname": "Ammo_88mmFLAK41_HE",
-      "price": 113
-    },
-    {
-      "abr": "90mmm82(aphe)",
-      "category": "90mm M3 shells",
-      "defname": "Ammo_90mmM26_APHE",
-      "price": 85
-    },
-    {
-      "abr": "90mmm71(he)",
-      "category": "90mm M3 shells",
-      "defname": "Ammo_90mmM26_HE",
-      "price": 101
-    },
-    {
-      "abr": "30mmtype2grenade(heat)",
-      "category": "30mm Type 2 Grenade",
-      "defname": "Ammo_30mmType2Grenade_HEAT",
-      "price": 5
-    },
-    {
-      "abr": "30mmtype2grenade(he)",
-      "category": "30mm Type 2 Grenade",
-      "defname": "Ammo_30mmType2Grenade_HE",
-      "price": 5
-    },
-    {
-      "abr": "30mmtype2grenade(frag)",
-      "category": "30mm Type 2 Grenade",
-      "defname": "Ammo_30mmType2Grenade_Frag",
-      "price": 6
-    },
-    {
-      "abr": "30mmtype2grenade(smoke)",
-      "category": "30mm Type 2 Grenade",
-      "defname": "Ammo_30mmType2Grenade_Smoke",
-      "price": 4
-    },
-    {
-      "abr": "50mmtype89grenade(he)",
-      "category": "50mm Type 89 Grenade",
-      "defname": "Ammo_50mmType89Grenade_HE",
-      "price": 4
-    },
-    {
-      "abr": "50mmtype89grenade(frag)",
-      "category": "50mm Type 89 Grenade",
-      "defname": "Ammo_50mmType89Grenade_Frag",
-      "price": 4
-    },
-    {
-      "abr": "50mmtype89grenade(whitephosphorus)",
-      "category": "50mm Type 89 Grenade",
-      "defname": "Ammo_50mmType89Grenade_WhitePhosporus",
-      "price": 4
-    },
-    {
-      "abr": "50mmtype89grenade(smoke)",
-      "category": "50mm Type 89 Grenade",
-      "defname": "Ammo_50mmType89Grenade_Smoke",
-      "price": 3
-    },
-    {
-      "abr": "20x125mmcartridge(ap)",
-      "category": "20x125mm",
-      "defname": "Ammo_20x125mm_AP",
-      "price": 2
-    },
-    {
-      "abr": "20x125mmcartridge(ap-i)",
-      "category": "20x125mm",
-      "defname": "Ammo_20x125mm_Incendiary",
-      "price": 3
-    },
-    {
-      "abr": "20x125mmcartridge(ap-he)",
-      "category": "20x125mm",
-      "defname": "Ammo_20x125mm_HE",
-      "price": 4
-    },
-    {
-      "abr": "20x125mmcartridge(sabot)",
-      "category": "20x125mm",
-      "defname": "Ammo_20x125mm_Sabot",
-      "price": 2
-    },
-    {
-      "abr": "9x22mmrtype26cartridge(fmj)",
-      "category": "9x22mmR Type 26",
-      "defname": "Ammo_9x22mmR_FMJ",
       "price": 1
-    },
-    {
-      "abr": "9x22mmrtype26cartridge(ap)",
-      "category": "9x22mmR Type 26",
-      "defname": "Ammo_9x22mmR_AP",
-      "price": 1
-    },
-    {
-      "abr": "9x22mmrtype26cartridge(hp)",
-      "category": "9x22mmR Type 26",
-      "defname": "Ammo_9x22mmR_HP",
-      "price": 1
-    },
-    {
-      "abr": "74mmrocket(heat)",
-      "category": "74mm Rockets",
-      "defname": "Ammo_74mmRocket_HEAT",
-      "price": 86
-    },
-    {
-      "abr": "107mmrocket(he)",
-      "category": "107mm Rocket",
-      "defname": "Ammo_107mmRocket_HE",
-      "price": 70
-    },
-    {
-      "abr": "105mmshell(he)",
-      "category": "105mm Shell",
-      "defname": "Ammo_105mmShell_HE",
-      "price": 276
-    },
-    {
-      "abr": "105mmshell(apfsds)",
-      "category": "105mm Shell",
-      "defname": "Ammo_105mmShell_APFSDS",
-      "price": 293
-    },
-    {
-      "abr": "125mmshell(he)",
-      "category": "125mm Shell",
-      "defname": "Ammo_125mmShell_HE",
-      "price": 317
-    },
-    {
-      "abr": "125mmshell(apfsds)",
-      "category": "125mm Shell",
-      "defname": "Ammo_125mmShell_APFSDS",
-      "price": 332
-    },
-    {
-      "abr": "23x115mmsovietcartridge(fmj)",
-      "category": "23x115mm Soviet",
-      "defname": "Ammo_23x115mmSoviet_FMJ",
-      "price": 2
-    },
-    {
-      "abr": "23x115mmsovietcartridge(ap-i)",
-      "category": "23x115mm Soviet",
-      "defname": "Ammo_23x115mmSoviet_Incendiary",
-      "price": 2
-    },
-    {
-      "abr": "23x115mmsovietcartridge(he)",
-      "category": "23x115mm Soviet",
-      "defname": "Ammo_23x115mmSoviet_HE",
-      "price": 4
-    },
-    {
-      "abr": "23x115mmsovietcartridge(sabot)",
-      "category": "23x115mm Soviet",
-      "defname": "Ammo_23x115mmSoviet_Sabot",
-      "price": 4
-    },
-    {
-      "abr": "40mmct(apfsds)",
-      "category": "40mm CT shell",
-      "defname": "Ammo_40mmCT_APFSDS",
-      "price": 8
-    },
-    {
-      "abr": "40mmct(emp)",
-      "category": "40mm CT shell",
-      "defname": "Ammo_40mmCT_EMP",
-      "price": -10
-    },
-    {
-      "abr": "76mmshell(he)",
-      "category": "76mm Shell",
-      "defname": "Ammo_76mmShell_HE",
-      "price": 332
-    },
-    {
-      "abr": "76mmshell(ap)",
-      "category": "76mm Shell",
-      "defname": "Ammo_76mmShell_AP",
-      "price": 332
-    },
-    {
-      "abr": "80mmrocket(he)",
-      "category": "107mm Rocket",
-      "defname": "Ammo_80mmRocket_HE",
-      "price": 70
-    },
-    {
-      "abr": "85mmshell(he)",
-      "category": "85mm Shell",
-      "defname": "Ammo_85mmShell_HE",
-      "price": 332
-    },
-    {
-      "abr": "85mmshell(ap)",
-      "category": "85mm Shell",
-      "defname": "Ammo_85mmShell_AP",
-      "price": 332
-    },
-    {
-      "abr": "type74mmrocket(heat)",
-      "category": "Type 74mm Rockets",
-      "defname": "Ammo_K4GType74mm_HEAT",
-      "price": 86
-    },
-    {
-      "abr": "bgm-71dmissile(heat)",
-      "category": "BGM-71 Missile",
-      "defname": "Ammo_BGM71_HEAT",
-      "price": 417
     },
     {
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     }
   ],
-  "total": 1594
+  "total": 1038
 }
