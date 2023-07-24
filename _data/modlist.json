@@ -441,7 +441,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8589.3035"
+    "version": "1.0.8601.22713"
   },
   {
     "author": "Lucifer",
@@ -501,7 +501,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.4.4"
+    "version": "1.4.5"
   },
   {
     "author": "dhultgren",
@@ -594,6 +594,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Outposts Expanded",
     "steamId": null,
@@ -603,6 +609,12 @@
     "author": "Oskar Potocki, Sarg Bjornson and Erin",
     "name": "Vanilla Races Expanded - Sanguophage",
     "steamId": "2963116383",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ChrisClark13",
+    "name": "Venerated Xenotype Flexibility",
+    "steamId": "2898282983",
     "version": "1.0.0.0"
   },
   {

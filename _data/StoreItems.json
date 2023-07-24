@@ -7710,6 +7710,12 @@
 		"category": "10x28mm Caseless",
 		"defname": "Ammo_10x28mmCaseless_HE"
 	},
+	{
+		"abr": "nutrientpastedripper",
+		"price": 248,
+		"category": "Misc",
+		"defname": "VNPE_NutrientPasteDripper"
+	}
 	],
-	"total": 1285
+	"total": 1287
 }
