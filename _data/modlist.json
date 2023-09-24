@@ -12,6 +12,18 @@
     "version": "1.5.0.0"
   },
   {
+    "author": "bradson",
+    "name": "Fishery - Modding Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bradson",
+    "name": "Performance Fish",
+    "steamId": "",
+    "version": "0.3.800.85"
+  },
+  {
     "author": "legodude17 and Oskar Potocki",
     "name": "Vanilla Backgrounds Expanded",
     "steamId": "2775017012",
@@ -298,6 +310,12 @@
     "name": "Dub's Paint Shop",
     "steamId": "1579516669",
     "version": "1.1.7359"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Performance Analyzer",
+    "steamId": "2038874626",
+    "version": "1.0.0"
   },
   {
     "author": "Dubwise",

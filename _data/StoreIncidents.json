@@ -131,11 +131,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 2500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -214,11 +209,6 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -431,5 +421,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 86
+	"total": 84
 }

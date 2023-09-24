@@ -70,7 +70,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": 4333
+      "price": -10
     },
     {
       "abr": "bioniceye",
@@ -5584,7 +5584,7 @@
       "abr": "boulder",
       "category": "Catapult ammo",
       "defname": "Ammo_Catapult_Boulder",
-      "price": 1
+      "price": 100
     },
     {
       "abr": "arrow(stone)",
@@ -9089,84 +9089,6 @@
       "category": "Furniture",
       "defname": "Lighting_MURWallSunLight",
       "price": 32
-    },
-    {
-      "abr": "chainsaw",
-      "category": "Ranged weapons",
-      "defname": "Chainsaw",
-      "price": 425
-    },
-    {
-      "abr": "zombieextract",
-      "category": "Serum",
-      "defname": "ZombieExtract",
-      "price": 17
-    },
-    {
-      "abr": "zombieserum100%",
-      "category": "Serum",
-      "defname": "ZombieSerumSimple",
-      "price": 200
-    },
-    {
-      "abr": "zombieserum10%",
-      "category": "Serum",
-      "defname": "Zombie10Serum",
-      "price": 200
-    },
-    {
-      "abr": "zombieserum20%",
-      "category": "Serum",
-      "defname": "Zombie20Serum",
-      "price": 400
-    },
-    {
-      "abr": "zombieserum30%",
-      "category": "Serum",
-      "defname": "Zombie30Serum",
-      "price": 600
-    },
-    {
-      "abr": "zombieserum40%",
-      "category": "Serum",
-      "defname": "Zombie40Serum",
-      "price": 800
-    },
-    {
-      "abr": "zombieserum50%",
-      "category": "Serum",
-      "defname": "Zombie50Serum",
-      "price": 1000
-    },
-    {
-      "abr": "zombieserum60%",
-      "category": "Serum",
-      "defname": "Zombie60Serum",
-      "price": 1200
-    },
-    {
-      "abr": "zombieserum70%",
-      "category": "Serum",
-      "defname": "Zombie70Serum",
-      "price": 1400
-    },
-    {
-      "abr": "zombieserum80%",
-      "category": "Serum",
-      "defname": "Zombie80Serum",
-      "price": 1600
-    },
-    {
-      "abr": "zombieserum90%",
-      "category": "Serum",
-      "defname": "Zombie90Serum",
-      "price": 1800
-    },
-    {
-      "abr": "zombieserum100%",
-      "category": "Serum",
-      "defname": "Zombie100Serum",
-      "price": 2000
     },
     {
       "abr": "resurrectioncore",
@@ -15283,12 +15205,6 @@
       "price": 3
     },
     {
-      "abr": "zombiemeat",
-      "category": "Meat",
-      "defname": "Meat_Zombie",
-      "price": 3
-    },
-    {
       "abr": "aberrantmeat",
       "category": "Meat",
       "defname": "Meat_GR_AberrantFleshbeast",
@@ -15775,6 +15691,12 @@
       "price": 583
     },
     {
+      "abr": "chainsaw",
+      "category": "Ranged weapons",
+      "defname": "Chainsaw",
+      "price": 425
+    },
+    {
       "abr": "monopsony",
       "category": "Furniture",
       "defname": "MonopsonyBoard",
@@ -15790,49 +15712,49 @@
       "abr": "personabondaffector",
       "category": "Items",
       "defname": "MPT_BladelinkUncoder",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "personaconsolidationaffector",
       "category": "Items",
       "defname": "MPT_BladelinkTargetedAnnul",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "personaeltexstaff",
       "category": "Persona weapons",
       "defname": "MPT_MeleeWeapon_PsyfocusStaffBladelink",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "personaextensionaffector",
       "category": "Items",
       "defname": "MPT_BladelinkExalt",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "personarecombinationaffector",
       "category": "Items",
       "defname": "MPT_BladelinkRecombinator",
-      "price": -10
+      "price": 2917
     },
     {
       "abr": "personareductionaffector",
       "category": "Items",
       "defname": "MPT_BladelinkAnnul",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "personareformataffector",
       "category": "Items",
       "defname": "MPT_BladelinkReroller",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "personatransferaffector",
       "category": "Items",
       "defname": "MPT_BladelinkTargetedTraitTransferer",
-      "price": -10
+      "price": 6667
     },
     {
       "abr": "playerhandbook",
@@ -15857,6 +15779,84 @@
       "category": "Furniture",
       "defname": "TreacheryGame",
       "price": 250
+    },
+    {
+      "abr": "zombieextract",
+      "category": "Serum",
+      "defname": "ZombieExtract",
+      "price": 17
+    },
+    {
+      "abr": "zombiemeat",
+      "category": "Meat",
+      "defname": "Meat_Zombie",
+      "price": 3
+    },
+    {
+      "abr": "zombieserum10%",
+      "category": "Serum",
+      "defname": "Zombie10Serum",
+      "price": 200
+    },
+    {
+      "abr": "zombieserum100%",
+      "category": "Serum",
+      "defname": "ZombieSerumSimple",
+      "price": 200
+    },
+    {
+      "abr": "zombieserum100%",
+      "category": "Serum",
+      "defname": "Zombie100Serum",
+      "price": 2000
+    },
+    {
+      "abr": "zombieserum20%",
+      "category": "Serum",
+      "defname": "Zombie20Serum",
+      "price": 400
+    },
+    {
+      "abr": "zombieserum30%",
+      "category": "Serum",
+      "defname": "Zombie30Serum",
+      "price": 600
+    },
+    {
+      "abr": "zombieserum40%",
+      "category": "Serum",
+      "defname": "Zombie40Serum",
+      "price": 800
+    },
+    {
+      "abr": "zombieserum50%",
+      "category": "Serum",
+      "defname": "Zombie50Serum",
+      "price": 1000
+    },
+    {
+      "abr": "zombieserum60%",
+      "category": "Serum",
+      "defname": "Zombie60Serum",
+      "price": 1200
+    },
+    {
+      "abr": "zombieserum70%",
+      "category": "Serum",
+      "defname": "Zombie70Serum",
+      "price": 1400
+    },
+    {
+      "abr": "zombieserum80%",
+      "category": "Serum",
+      "defname": "Zombie80Serum",
+      "price": 1600
+    },
+    {
+      "abr": "zombieserum90%",
+      "category": "Serum",
+      "defname": "Zombie90Serum",
+      "price": 1800
     },
     {
       "abr": "zombrella",
