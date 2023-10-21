@@ -664,13 +664,13 @@
       "abr": "healermechserum",
       "category": "Misc",
       "defname": "MechSerumHealer",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "resurrectormechserum",
       "category": "Misc",
       "defname": "MechSerumResurrector",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "techprofsubpersonacore",
@@ -2056,7 +2056,7 @@
       "abr": "unstablepowercell",
       "category": "Special",
       "defname": "UnstablePowerCell",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "mechnode",
@@ -2698,7 +2698,7 @@
       "abr": "mechlink",
       "category": "Mechtech",
       "defname": "Mechlink",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "controlsublink(standard)",
@@ -2998,7 +2998,7 @@
       "abr": "mechlordhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetMechlordHelmet",
-      "price": 9483
+      "price": -10
     },
     {
       "abr": "gasmask",
@@ -3034,7 +3034,7 @@
       "abr": "mechlordsuit",
       "category": "Armor",
       "defname": "Apparel_MechlordSuit",
-      "price": 12708
+      "price": -10
     },
     {
       "abr": "heavybandolier",
@@ -3778,271 +3778,271 @@
       "abr": "ancientsystemrack",
       "category": "Misc",
       "defname": "VME_AncientSystemRack",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "ancientequipmentblocks",
       "category": "Misc",
       "defname": "VME_AncientEquipmentBlocks",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "ancientmachine",
       "category": "Misc",
       "defname": "VME_AncientMachine",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "ancientstoragecylinder",
       "category": "Misc",
       "defname": "VME_AncientStorageCylinder",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "ancientbed",
       "category": "Misc",
       "defname": "VME_AncientBed",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "ancientdisplaybank",
       "category": "Misc",
       "defname": "VME_AncientDisplayBank",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "ancientlockerbank",
       "category": "Misc",
       "defname": "VME_AncientLockerBank",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "ancientcrate",
       "category": "Misc",
       "defname": "VME_AncientCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientmilitarycrate",
       "category": "Misc",
       "defname": "VME_AncientMilitaryCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientspacercrate",
       "category": "Misc",
       "defname": "VME_AncientSpacerCrate",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "ancientbarrel",
       "category": "Misc",
       "defname": "VME_AncientBarrel",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientgenerator",
       "category": "Misc",
       "defname": "VME_AncientGenerator",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientoperatingtable",
       "category": "Misc",
       "defname": "VME_AncientOperatingTable",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientshoppingcart",
       "category": "Misc",
       "defname": "VME_AncientShoppingCart",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientpostbox",
       "category": "Misc",
       "defname": "VME_AncientPostbox",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientvendingmachine",
       "category": "Misc",
       "defname": "VME_AncientVendingMachine",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientairconditioner",
       "category": "Misc",
       "defname": "VME_AncientAirConditioner",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientkitchensink",
       "category": "Misc",
       "defname": "VME_AncientKitchenSink",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientstove",
       "category": "Misc",
       "defname": "VME_AncientStove",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientoven",
       "category": "Misc",
       "defname": "VME_AncientOven",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientatm",
       "category": "Misc",
       "defname": "VME_AncientATM",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientwashingmachine",
       "category": "Misc",
       "defname": "VME_AncientWashingMachine",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancienthydrant",
       "category": "Misc",
       "defname": "VME_AncientHydrant",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmicrowave",
       "category": "Misc",
       "defname": "VME_AncientMicrowave",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancienttoilet",
       "category": "Misc",
       "defname": "VME_AncientToilet",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientrefrigerator",
       "category": "Misc",
       "defname": "VME_AncientRefrigerator",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientsmallcrate",
       "category": "Misc",
       "defname": "VME_AncientSmallCrate",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientlongcrate",
       "category": "Misc",
       "defname": "VME_AncientLongCrate",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientlargecrate",
       "category": "Misc",
       "defname": "VME_AncientLargeCrate",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientwheel",
       "category": "Misc",
       "defname": "VME_AncientWheel",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientgiantwheel",
       "category": "Misc",
       "defname": "VME_AncientGiantWheel",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancienttanktrap",
       "category": "Misc",
       "defname": "VME_AncientTankTrap",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmacro-engineblock",
       "category": "Misc",
       "defname": "VME_AncientLargeRustedEngineBlock",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientfence",
       "category": "Misc",
       "defname": "VME_AncientFence",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientrazorwire",
       "category": "Misc",
       "defname": "VME_AncientRazorWire",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientpipes",
       "category": "Misc",
       "defname": "VME_AncientPipes",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmega-cannonplatform",
       "category": "Misc",
       "defname": "VME_AncientMegaCannonTripod",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmega-cannonbarrel",
       "category": "Misc",
       "defname": "VME_AncientMegaCannonBarrel",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientcontainer",
       "category": "Misc",
       "defname": "VME_AncientContainer",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmechanoiddetritus",
       "category": "Misc",
       "defname": "VME_AncientMechanoidShell",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientmechdropbeacon",
       "category": "Misc",
       "defname": "VME_AncientMechDropBeacon",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientsecurityturret",
       "category": "Misc",
       "defname": "VME_AncientSecurityTurret",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientengineblock",
       "category": "Misc",
       "defname": "VME_AncientRustedEngineBlock",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientnavbeacon",
       "category": "Misc",
       "defname": "VME_AncientShipBeacon",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "ancientspacejunk",
       "category": "Misc",
       "defname": "VME_AncientSpaceJunk",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "wickerman",
@@ -4186,25 +4186,25 @@
       "abr": "restoredancientbed",
       "category": "Furniture",
       "defname": "AM_AncientBed",
-      "price": 105
+      "price": -10
     },
     {
       "abr": "restoredancientdoublebed",
       "category": "Furniture",
       "defname": "AM_AncientDoubleBed",
-      "price": 242
+      "price": -10
     },
     {
       "abr": "restoredancientoperatingtable",
       "category": "Furniture",
       "defname": "AM_AncientOperatingTable",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "ancientlockerbank",
       "category": "Furniture",
       "defname": "AM_AncientLockerBank",
-      "price": 425
+      "price": -10
     },
     {
       "abr": "crudestonetable(1x2)",
@@ -6817,42 +6817,6 @@
       "price": 533
     },
     {
-      "abr": "parrotinthecage",
-      "category": "Security",
-      "defname": "CombatAI_TribalPoleCCTV",
-      "price": 164
-    },
-    {
-      "abr": "industrialcameraonpolemount",
-      "category": "Security",
-      "defname": "CombatAI_IndustrialPoleCCTV",
-      "price": 261
-    },
-    {
-      "abr": "spacercameraonpolemount",
-      "category": "Security",
-      "defname": "CombatAI_SpacerPoleCCTV",
-      "price": 658
-    },
-    {
-      "abr": "industrialwallmountedcctv",
-      "category": "Security",
-      "defname": "CombatAI_CCTVTurretIndustrial",
-      "price": 658
-    },
-    {
-      "abr": "spacerwallmountedcctv",
-      "category": "Security",
-      "defname": "CombatAI_CCTVTurretSpacer",
-      "price": 833
-    },
-    {
-      "abr": "indoorautomatedcamera",
-      "category": "Security",
-      "defname": "CombatAI_IndoorCCTV",
-      "price": 140
-    },
-    {
       "abr": "potassiumiodide",
       "category": "Drugs",
       "defname": "PotassiumIodide",
@@ -9112,7 +9076,7 @@
       "abr": "advancedbionicbladder",
       "category": "Ultratech",
       "defname": "FSFAdvBionicBladder",
-      "price": -10
+      "price": 2308
     },
     {
       "abr": "advancedhygieneenhancer",
@@ -9130,7 +9094,7 @@
       "abr": "advancedbionicmedicarm",
       "category": "Ultratech",
       "defname": "FSFAdvBionicMedicArm",
-      "price": -10
+      "price": 5158
     },
     {
       "abr": "archotechmedicarm",
@@ -9166,19 +9130,19 @@
       "abr": "advancedbionicconstructionarm",
       "category": "Ultratech",
       "defname": "FSFAdvBionicConstructionArm",
-      "price": -10
+      "price": 5058
     },
     {
       "abr": "advancedbionicdrillarm",
       "category": "Ultratech",
       "defname": "FSFAdvBionicDrillArm",
-      "price": -10
+      "price": 5058
     },
     {
       "abr": "advancedbionicfieldarm",
       "category": "Ultratech",
       "defname": "FSFAdvBionicFieldArm",
-      "price": -10
+      "price": 5058
     },
     {
       "abr": "syntheticskingland",
@@ -9322,67 +9286,67 @@
       "abr": "advancedbionicear",
       "category": "Ultratech",
       "defname": "FSFAdvBionicEar",
-      "price": -10
+      "price": 2308
     },
     {
       "abr": "advancedbioniceye",
       "category": "Ultratech",
       "defname": "FSFAdvBionicEye",
-      "price": -10
+      "price": 2975
     },
     {
       "abr": "advancedbionicjaw",
       "category": "Ultratech",
       "defname": "FSFAdvBionicJaw",
-      "price": -10
+      "price": 2308
     },
     {
       "abr": "advancedbionicarm",
       "category": "Ultratech",
       "defname": "FSFAdvBionicArm",
-      "price": -10
+      "price": 3050
     },
     {
       "abr": "advancedbionicspine",
       "category": "Ultratech",
       "defname": "FSFAdvBionicSpine",
-      "price": -10
+      "price": 3050
     },
     {
       "abr": "advancedbionicheart",
       "category": "Ultratech",
       "defname": "FSFAdvBionicHeart",
-      "price": -10
+      "price": 2383
     },
     {
       "abr": "advancedbioniclung",
       "category": "Ultratech",
       "defname": "FSFAdvBionicLung",
-      "price": -10
+      "price": 2383
     },
     {
       "abr": "advancedbionickidney",
       "category": "Ultratech",
       "defname": "FSFAdvBionicKidney",
-      "price": -10
+      "price": 1642
     },
     {
       "abr": "advancedbionicliver",
       "category": "Ultratech",
       "defname": "FSFAdvBionicLiver",
-      "price": -10
+      "price": 2308
     },
     {
       "abr": "advancedbionicstomach",
       "category": "Ultratech",
       "defname": "FSFAdvBionicStomach",
-      "price": -10
+      "price": 2308
     },
     {
       "abr": "advancedbionicleg",
       "category": "Ultratech",
       "defname": "FSFAdvBionicLeg",
-      "price": -10
+      "price": 3050
     },
     {
       "abr": "positronicbrain",
@@ -9448,19 +9412,19 @@
       "abr": "advancedbionicpowerarm",
       "category": "Ultratech",
       "defname": "FSFAdvBionicPowerArm",
-      "price": -10
+      "price": 4608
     },
     {
       "abr": "advancedbionicbreachingarm",
       "category": "Ultratech",
       "defname": "FSFAdvBionicBreachArm",
-      "price": -10
+      "price": 4608
     },
     {
       "abr": "advancedbionicshockerarm",
       "category": "Ultratech",
       "defname": "FSFAdvBionicTaserArm",
-      "price": -10
+      "price": 4608
     },
     {
       "abr": "advancedshockerjaw",
@@ -15214,91 +15178,91 @@
       "abr": "techprint(cataphractarmor)",
       "category": "Techprints",
       "defname": "Techprint_CataphractArmor",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "techprint(jumppacks)",
       "category": "Techprints",
       "defname": "Techprint_JumpPack",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(brainwiring)",
       "category": "Techprints",
       "defname": "Techprint_BrainWiring",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(specializedlimbs)",
       "category": "Techprints",
       "defname": "Techprint_SpecializedLimbs",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(compactweaponry)",
       "category": "Techprints",
       "defname": "Techprint_CompactWeaponry",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(poisonsynthesis)",
       "category": "Techprints",
       "defname": "Techprint_VenomSynthesis",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(artificialmetabolism)",
       "category": "Techprints",
       "defname": "Techprint_ArtificialMetabolism",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(neuralcomputation)",
       "category": "Techprints",
       "defname": "Techprint_NeuralComputation",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(skinhardening)",
       "category": "Techprints",
       "defname": "Techprint_SkinHardening",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(healingfactors)",
       "category": "Techprints",
       "defname": "Techprint_HealingFactors",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(fleshshaping)",
       "category": "Techprints",
       "defname": "Techprint_FleshShaping",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(molecularanalysis)",
       "category": "Techprints",
       "defname": "Techprint_MolecularAnalysis",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(circadianinfluence)",
       "category": "Techprints",
       "defname": "Techprint_CircadianInfluence",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(imperialdefenses)",
       "category": "Techprints",
       "defname": "Techprint_VFED_ImperialDefenses",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(imperialwarsolutions)",
       "category": "Techprints",
       "defname": "Techprint_VFED_ImperialWarSolutions",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(advancedbionics)",
@@ -15310,25 +15274,25 @@
       "abr": "techprint(advancedspecializedlimbs)",
       "category": "Techprints",
       "defname": "Techprint_FSFAdvancedSpecializedLimbs",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(mechaniteserums)",
       "category": "Techprints",
       "defname": "Techprint_FSFResearchImplantsMechanites",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(environmentalimplants)",
       "category": "Techprints",
       "defname": "Techprint_FSFResearchEnvironmentalImplants",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(combatimplants)",
       "category": "Techprints",
       "defname": "Techprint_FSFResearchCombatImplants",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "psytrainer(painblock)",
@@ -15691,12 +15655,6 @@
       "price": 583
     },
     {
-      "abr": "chainsaw",
-      "category": "Ranged weapons",
-      "defname": "Chainsaw",
-      "price": 425
-    },
-    {
       "abr": "monopsony",
       "category": "Furniture",
       "defname": "MonopsonyBoard",
@@ -15781,6 +15739,48 @@
       "price": 250
     },
     {
+      "abr": "chainsaw",
+      "category": "Ranged weapons",
+      "defname": "Chainsaw",
+      "price": 425
+    },
+    {
+      "abr": "indoorautomatedcamera",
+      "category": "Security",
+      "defname": "CombatAI_IndoorCCTV",
+      "price": 140
+    },
+    {
+      "abr": "industrialcameraonpolemount",
+      "category": "Security",
+      "defname": "CombatAI_IndustrialPoleCCTV",
+      "price": 261
+    },
+    {
+      "abr": "industrialwallmountedcctv",
+      "category": "Security",
+      "defname": "CombatAI_CCTVTurretIndustrial",
+      "price": 658
+    },
+    {
+      "abr": "parrotinthecage",
+      "category": "Security",
+      "defname": "CombatAI_TribalPoleCCTV",
+      "price": 164
+    },
+    {
+      "abr": "spacercameraonpolemount",
+      "category": "Security",
+      "defname": "CombatAI_SpacerPoleCCTV",
+      "price": 658
+    },
+    {
+      "abr": "spacerwallmountedcctv",
+      "category": "Security",
+      "defname": "CombatAI_CCTVTurretSpacer",
+      "price": 833
+    },
+    {
       "abr": "zombieextract",
       "category": "Serum",
       "defname": "ZombieExtract",
@@ -15863,7 +15863,19 @@
       "category": "Misc",
       "defname": "Zombrella",
       "price": 3333
+    },
+    {
+      "abr": "gunslingerhat",
+      "category": "Headgear",
+      "defname": "RNApparel_GunslingerHat_Generic",
+      "price": 127
+    },
+    {
+      "abr": "gunslingerjacket",
+      "category": "Apparel",
+      "defname": "RNApparel_GunslingerJacket_Generic",
+      "price": 331
     }
   ],
-  "total": 2644
+  "total": 2646
 }

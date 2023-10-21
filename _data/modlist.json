@@ -57,7 +57,7 @@
     "author": "Malte Schulze",
     "name": "RIMMSqol",
     "steamId": "1084452457",
-    "version": "1.0.8606.30901"
+    "version": "1.0.8682.23231"
   },
   {
     "author": "Alan Dariva and Usagirei",
@@ -207,7 +207,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.6.0.0"
+    "version": "2.6.1.0"
   },
   {
     "author": "Kopp",
@@ -417,7 +417,7 @@
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": "1508850027",
-    "version": "1.14.4.0"
+    "version": "1.14.5.0"
   },
   {
     "author": "legodude17 and Oskar Potocki",
@@ -594,6 +594,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.4.5"
+  },
+  {
     "author": "dhultgren",
     "name": "Smarter Construction",
     "steamId": null,
@@ -648,22 +654,22 @@
     "version": null
   },
   {
-    "author": "nry",
+    "author": "hodlhodl",
     "name": "ToolkitCore",
-    "steamId": "3013877477",
+    "steamId": "2018368654",
     "version": "1.0.0.0"
   },
   {
-    "author": "nry",
+    "author": "hodlhodl",
     "name": "Twitch Toolkit",
-    "steamId": "3013874066",
+    "steamId": "1718525787",
     "version": "2.0.10.0"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.3.0.1"
+    "version": "6.3.0.0.biotech.B4"
   },
   {
     "author": "José Ángel Soler Ortiz",
@@ -673,7 +679,7 @@
   },
   {
     "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
+    "name": "TwitchToolkit - Lootboxes (Unofficial)",
     "steamId": "1720021578",
     "version": "1.0.0.0"
   },
@@ -879,7 +885,7 @@
     "author": "Andreas Pardeike",
     "name": "Zombieland",
     "steamId": "928376710",
-    "version": "4.2.5.0"
+    "version": "4.3.6.0"
   },
   {
     "author": "Vectorial1024",
