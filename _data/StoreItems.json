@@ -1016,7 +1016,7 @@
 	},
 	{
 		"abr": "silver",
-		"price": 2,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "Silver"
 	},
@@ -8720,25 +8720,25 @@
 	},
 	{
 		"abr": "basicgun",
-		"price": 63,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "MYDE_AF_UniversalWeapon_BaseGun"
 	},
 	{
 		"abr": "minigun",
-		"price": 1575,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "MYDE_AF_UniversalWeapon_MiniGun"
 	},
 	{
 		"abr": "sniperrife",
-		"price": 617,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "MYDE_AF_UniversalWeapon_SniperGun"
 	},
 	{
 		"abr": "grenadegun",
-		"price": 367,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "MYDE_AF_UniversalWeapon_GrenadeGun"
 	},
@@ -13760,7 +13760,7 @@
 	},
 	{
 		"abr": "dirtmolexenogerm",
-		"price": 3333,
+		"price": -10,
 		"category": "Items",
 		"defname": "Xenogerm_Dirtmole"
 	},
@@ -13778,7 +13778,7 @@
 	},
 	{
 		"abr": "sanguophagexenogerm",
-		"price": 10000,
+		"price": -10,
 		"category": "Items",
 		"defname": "Xenogerm_Sanguophage"
 	},
@@ -13814,7 +13814,7 @@
 	},
 	{
 		"abr": "highmatexenogerm",
-		"price": 3333,
+		"price": -10,
 		"category": "Items",
 		"defname": "Xenogerm_Highmate"
 	},
@@ -13937,6 +13937,294 @@
 		"price": 3333,
 		"category": "Items",
 		"defname": "Xenogerm_OuterRim_Selkath"
+	},
+	{
+		"abr": "crossguardlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorcrosssaber_red"
+	},
+	{
+		"abr": "crossguardlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorcrosssaber_orange"
+	},
+	{
+		"abr": "crossguardlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorcrosssaber_yellow"
+	},
+	{
+		"abr": "crossguardlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorcrosssaber_green"
+	},
+	{
+		"abr": "crossguardlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorcrosssaber_blue"
+	},
+	{
+		"abr": "crossguardlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorcrosssaber_purple"
+	},
+	{
+		"abr": "crossguardlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorcrosssaber_white"
+	},
+	{
+		"abr": "curvedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotocurvesaber_red"
+	},
+	{
+		"abr": "curvedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotocurvesaber_orange"
+	},
+	{
+		"abr": "curvedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotocurvesaber_yellow"
+	},
+	{
+		"abr": "curvedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotocurvesaber_green"
+	},
+	{
+		"abr": "curvedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotocurvesaber_blue"
+	},
+	{
+		"abr": "curvedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotocurvesaber_purple"
+	},
+	{
+		"abr": "curvedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotocurvesaber_white"
+	},
+	{
+		"abr": "curvedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotocurvesaber_pink"
+	},
+	{
+		"abr": "darksaber",
+		"price": 166667,
+		"category": "Lightsabers",
+		"defname": "guy762_kotordarksaber"
+	},
+	{
+		"abr": "darthsion'scrossguardlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorcrosssaber_sion"
+	},
+	{
+		"abr": "double-bladedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotordualsaber_red"
+	},
+	{
+		"abr": "double-bladedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotordualsaber_orange"
+	},
+	{
+		"abr": "double-bladedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotordualsaber_yellow"
+	},
+	{
+		"abr": "double-bladedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotordualsaber_green"
+	},
+	{
+		"abr": "double-bladedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotordualsaber_blue"
+	},
+	{
+		"abr": "double-bladedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotordualsaber_purple"
+	},
+	{
+		"abr": "double-bladedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotordualsaber_white"
+	},
+	{
+		"abr": "exarkun'sdouble-bladedlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorexarsaber"
+	},
+	{
+		"abr": "fettclonexenogerm",
+		"price": 3333,
+		"category": "Items",
+		"defname": "Xenogerm_OuterRim_FettClone"
+	},
+	{
+		"abr": "freedonnadd'sshortlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotornaddsaber"
+	},
+	{
+		"abr": "jawaxenogerm",
+		"price": 3333,
+		"category": "Items",
+		"defname": "Xenogerm_OuterRim_Jawa"
+	},
+	{
+		"abr": "lightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorlightsaber_red"
+	},
+	{
+		"abr": "lightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorlightsaber_orange"
+	},
+	{
+		"abr": "lightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorlightsaber_yellow"
+	},
+	{
+		"abr": "lightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorlightsaber_green"
+	},
+	{
+		"abr": "lightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorlightsaber_blue"
+	},
+	{
+		"abr": "lightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorlightsaber_purple"
+	},
+	{
+		"abr": "lightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorlightsaber_white"
+	},
+	{
+		"abr": "shortlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorshortsaber_red"
+	},
+	{
+		"abr": "shortlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorshortsaber_orange"
+	},
+	{
+		"abr": "shortlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorshortsaber_yellow"
+	},
+	{
+		"abr": "shortlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorshortsaber_green"
+	},
+	{
+		"abr": "shortlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorshortsaber_blue"
+	},
+	{
+		"abr": "shortlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorshortsaber_purple"
+	},
+	{
+		"abr": "shortlightsaber",
+		"price": -10,
+		"category": "Lightsabers",
+		"defname": "guy762_kotorshortsaber_white"
+	},
+	{
+		"abr": "togrutaxenogerm",
+		"price": 3333,
+		"category": "Items",
+		"defname": "Xenogerm_OuterRim_Togruta"
+	},
+	{
+		"abr": "trandoshanxenogerm",
+		"price": 3333,
+		"category": "Items",
+		"defname": "Xenogerm_OuterRim_Trandoshan"
+	},
+	{
+		"abr": "tuskenxenogerm",
+		"price": 3333,
+		"category": "Items",
+		"defname": "Xenogerm_OuterRim_Tusken"
+	},
+	{
+		"abr": "twi'lekxenogerm",
+		"price": 3333,
+		"category": "Items",
+		"defname": "Xenogerm_OuterRim_Twilek"
+	},
+	{
+		"abr": "umbaranxenogerm",
+		"price": 3333,
+		"category": "Items",
+		"defname": "Xenogerm_OuterRim_Umbaran"
+	},
+	{
+		"abr": "wookieexenogerm",
+		"price": 3333,
+		"category": "Items",
+		"defname": "Xenogerm_OuterRim_Wookiee"
 	},
 	],
 	"total": 2371
