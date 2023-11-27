@@ -6560,7 +6560,7 @@
 	},
 	{
 		"abr": "verpineocularenhancer",
-		"price": 2083,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "guy762_Headband_verpine"
 	},
@@ -8114,7 +8114,7 @@
 	},
 	{
 		"abr": "droidperceptionsensors",
-		"price": 17000,
+		"price": -10,
 		"category": "Droid equipment",
 		"defname": "guy762_DroidSensor_perception"
 	},
@@ -14226,6 +14226,564 @@
 		"category": "Items",
 		"defname": "Xenogerm_OuterRim_Wookiee"
 	},
+	{
+		"abr": "astromechdroid",
+		"price": 2000,
+		"category": "Animals",
+		"defname": "OuterRim_AstromechDroid"
+	},
+	{
+		"abr": "astromechdroidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_OuterRim_AstromechDroid"
+	},
+	{
+		"abr": "b1battledroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "OuterRim_BattleDroid"
+	},
+	{
+		"abr": "b1abattledroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "OuterRim_BattleDroidAdvanced"
+	},
+	{
+		"abr": "b2superbattledroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "OuterRim_SuperBattleDroid"
+	},
+	{
+		"abr": "bxcommandodroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "OuterRim_CommandoDroid"
+	},
+	{
+		"abr": "chargepack(depleted)",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "Asimov_Chargepack_Empty"
+	},
+	{
+		"abr": "chargepack(full)",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "Asimov_Chargepack"
+	},
+	{
+		"abr": "chargepackcharger",
+		"price": 239,
+		"category": "Power",
+		"defname": "Asimov_ChargepackCharger"
+	},
+	{
+		"abr": "chargepad",
+		"price": 475,
+		"category": "Power",
+		"defname": "Asimov_ChargePad"
+	},
+	{
+		"abr": "dataspike",
+		"price": 2667,
+		"category": "Manufactured",
+		"defname": "OuterRim_DataSpike"
+	},
+	{
+		"abr": "droidarm",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidArm"
+	},
+	{
+		"abr": "droidarm(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidArm_Advanced"
+	},
+	{
+		"abr": "droidarm(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidArm_Makeshift"
+	},
+	{
+		"abr": "droidarm(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidArm_Overclocked"
+	},
+	{
+		"abr": "droidarmor(heavy)",
+		"price": 2075,
+		"category": "Apparel",
+		"defname": "OuterRim_DroidArmorHeavy"
+	},
+	{
+		"abr": "droidarmor(light)",
+		"price": 272,
+		"category": "Apparel",
+		"defname": "OuterRim_DroidArmorLight"
+	},
+	{
+		"abr": "droidarmor(medium)",
+		"price": 1142,
+		"category": "Apparel",
+		"defname": "OuterRim_DroidArmorModule"
+	},
+	{
+		"abr": "droidbrain",
+		"price": 1333,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidBrain"
+	},
+	{
+		"abr": "droidchemicalanalyser",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidSmellSensor"
+	},
+	{
+		"abr": "droidchemicalanalyser(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidSmellSensor_Advanced"
+	},
+	{
+		"abr": "droidchemicalanalyser(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidSmellSensor_Makeshift"
+	},
+	{
+		"abr": "droidchemicalanalyser(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidSmellSensor_Overclocked"
+	},
+	{
+		"abr": "droiddamageshielding(advanced)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidDamageShielding_Advanced"
+	},
+	{
+		"abr": "droiddamageshielding(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidDamageShielding_Overclocked"
+	},
+	{
+		"abr": "droiddamageshielding(standard)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidDamageShielding_Standard"
+	},
+	{
+		"abr": "droiddeflectorshield",
+		"price": 3025,
+		"category": "Equipment",
+		"defname": "OuterRim_DroidDeflectorShield"
+	},
+	{
+		"abr": "droidfactory",
+		"price": 5042,
+		"category": "Production",
+		"defname": "OuterRim_DroidFactory"
+	},
+	{
+		"abr": "droidfluidreprocessor",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidFluidReprocessor"
+	},
+	{
+		"abr": "droidfluidreprocessor(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidFluidReprocessor_Advanced"
+	},
+	{
+		"abr": "droidfluidreprocessor(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidFluidReprocessor_Makeshift"
+	},
+	{
+		"abr": "droidfluidreprocessor(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidFluidReprocessor_Overclocked"
+	},
+	{
+		"abr": "droidfoot",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidFoot"
+	},
+	{
+		"abr": "droidfoot(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidFoot_Advanced"
+	},
+	{
+		"abr": "droidfoot(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidFoot_Makeshift"
+	},
+	{
+		"abr": "droidfoot(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidFoot_Overclocked"
+	},
+	{
+		"abr": "droidhand",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidHand"
+	},
+	{
+		"abr": "droidhand(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidHand_Advanced"
+	},
+	{
+		"abr": "droidhand(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidHand_Makeshift"
+	},
+	{
+		"abr": "droidhand(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidHand_Overclocked"
+	},
+	{
+		"abr": "droidleg",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidLeg"
+	},
+	{
+		"abr": "droidleg(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidLeg_Advanced"
+	},
+	{
+		"abr": "droidleg(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidLeg_Makeshift"
+	},
+	{
+		"abr": "droidleg(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidLeg_Overclocked"
+	},
+	{
+		"abr": "droidpropulsionjets",
+		"price": 3025,
+		"category": "Equipment",
+		"defname": "OuterRim_DroidPropulsionJets"
+	},
+	{
+		"abr": "droidreactor",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidReactor"
+	},
+	{
+		"abr": "droidreactor(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidReactor_Advanced"
+	},
+	{
+		"abr": "droidreactor(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidReactor_Makeshift"
+	},
+	{
+		"abr": "droidreactor(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidReactor_Overclocked"
+	},
+	{
+		"abr": "droidrestorationkit",
+		"price": 2667,
+		"category": "Manufactured",
+		"defname": "OuterRim_DroidReactivationKit"
+	},
+	{
+		"abr": "droidshielding(emp)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidShielding_EMP"
+	},
+	{
+		"abr": "droidsightsensor",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidSightSensor"
+	},
+	{
+		"abr": "droidsightsensor(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidSightSensor_Advanced"
+	},
+	{
+		"abr": "droidsightsensor(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidSightSensor_Makeshift"
+	},
+	{
+		"abr": "droidsightsensor(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidSightSensor_Overclocked"
+	},
+	{
+		"abr": "droidsoundsensor",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidSoundSensor"
+	},
+	{
+		"abr": "droidsoundsensor(advanced)",
+		"price": 333,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidSoundSensor_Advanced"
+	},
+	{
+		"abr": "droidsoundsensor(makeshift)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidSoundSensor_Makeshift"
+	},
+	{
+		"abr": "droidsoundsensor(overclocked)",
+		"price": 167,
+		"category": "Droid Parts",
+		"defname": "OuterRim_DroidSoundSensor_Overclocked"
+	},
+	{
+		"abr": "dumrepairdroid",
+		"price": 2000,
+		"category": "Animals",
+		"defname": "OuterRim_DUMDroid"
+	},
+	{
+		"abr": "dumrepairdroidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_OuterRim_DUMDroid"
+	},
+	{
+		"abr": "fx-7medicaldroid",
+		"price": 2000,
+		"category": "Animals",
+		"defname": "OuterRim_FX7Droid"
+	},
+	{
+		"abr": "fx-7medicaldroidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_OuterRim_FX7Droid"
+	},
+	{
+		"abr": "gnkpowerdroid",
+		"price": 2000,
+		"category": "Animals",
+		"defname": "OuterRim_GNKDroid"
+	},
+	{
+		"abr": "gnkpowerdroidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_OuterRim_GNKDroid"
+	},
+	{
+		"abr": "hk-seriesassassindroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "OuterRim_HKDroid"
+	},
+	{
+		"abr": "kxsecuritydroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "OuterRim_KXSecurityDroid"
+	},
+	{
+		"abr": "magnaguarddroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "OuterRim_MagnaGuardDroid"
+	},
+	{
+		"abr": "mserepairdroid",
+		"price": 2000,
+		"category": "Animals",
+		"defname": "OuterRim_MSEDroid"
+	},
+	{
+		"abr": "mserepairdroidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_OuterRim_MSEDroid"
+	},
+	{
+		"abr": "muckrakercrabdroid",
+		"price": 2000,
+		"category": "Animals",
+		"defname": "OuterRim_MuckrakerDroid"
+	},
+	{
+		"abr": "muckrakercrabdroidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_OuterRim_MuckrakerDroid"
+	},
+	{
+		"abr": "protocoldroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "OuterRim_ProtocolDroid"
+	},
+	{
+		"abr": "restraintbolt",
+		"price": 58,
+		"category": "Manufactured",
+		"defname": "OuterRim_RestraintBolt"
+	},
+	{
+		"abr": "skilldatadisk(animals)",
+		"price": 1250,
+		"category": "Skill Datadisks",
+		"defname": "OuterRim_SkillDatadisk_Animals"
+	},
+	{
+		"abr": "skilldatadisk(artistic)",
+		"price": 1250,
+		"category": "Skill Datadisks",
+		"defname": "OuterRim_SkillDatadisk_Artistic"
+	},
+	{
+		"abr": "skilldatadisk(construction)",
+		"price": 1250,
+		"category": "Skill Datadisks",
+		"defname": "OuterRim_SkillDatadisk_Construction"
+	},
+	{
+		"abr": "skilldatadisk(cooking)",
+		"price": 1250,
+		"category": "Skill Datadisks",
+		"defname": "OuterRim_SkillDatadisk_Cooking"
+	},
+	{
+		"abr": "skilldatadisk(crafting)",
+		"price": 1250,
+		"category": "Skill Datadisks",
+		"defname": "OuterRim_SkillDatadisk_Crafting"
+	},
+	{
+		"abr": "skilldatadisk(intellectual)",
+		"price": 1250,
+		"category": "Skill Datadisks",
+		"defname": "OuterRim_SkillDatadisk_Intellectual"
+	},
+	{
+		"abr": "skilldatadisk(medical)",
+		"price": 1250,
+		"category": "Skill Datadisks",
+		"defname": "OuterRim_SkillDatadisk_Medicine"
+	},
+	{
+		"abr": "skilldatadisk(melee)",
+		"price": 1250,
+		"category": "Skill Datadisks",
+		"defname": "OuterRim_SkillDatadisk_Melee"
+	},
+	{
+		"abr": "skilldatadisk(mining)",
+		"price": 1250,
+		"category": "Skill Datadisks",
+		"defname": "OuterRim_SkillDatadisk_Mining"
+	},
+	{
+		"abr": "skilldatadisk(plants)",
+		"price": 1250,
+		"category": "Skill Datadisks",
+		"defname": "OuterRim_SkillDatadisk_Plants"
+	},
+	{
+		"abr": "skilldatadisk(shooting)",
+		"price": 1250,
+		"category": "Skill Datadisks",
+		"defname": "OuterRim_SkillDatadisk_Shooting"
+	},
+	{
+		"abr": "skilldatadisk(social)",
+		"price": 1250,
+		"category": "Skill Datadisks",
+		"defname": "OuterRim_SkillDatadisk_Social"
+	},
+	{
+		"abr": "supertacticaldroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "OuterRim_SuperTacticalDroid"
+	},
+	{
+		"abr": "t-seriestacticaldroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "OuterRim_TacticalDroid"
+	},
+	{
+		"abr": "twinwristblaster",
+		"price": 1642,
+		"category": "Apparel",
+		"defname": "OuterRim_DroidWeapon_TwinWristBlaster"
+	},
+	{
+		"abr": "wirelesscharger",
+		"price": 2108,
+		"category": "Power",
+		"defname": "Asimov_WirelessCharger"
+	},
+	{
+		"abr": "wristblaster",
+		"price": 1642,
+		"category": "Apparel",
+		"defname": "OuterRim_DroidWeapon_WristBlaster"
+	},
+	{
+		"abr": "wristblaster(ion)",
+		"price": 1642,
+		"category": "Apparel",
+		"defname": "OuterRim_DroidWeapon_WristBlasterIon"
+	},
+	{
+		"abr": "wristrocket",
+		"price": 1642,
+		"category": "Apparel",
+		"defname": "OuterRim_DroidWeapon_WristRocket"
+	}
 	],
-	"total": 2371
+	"total": 2464
 }

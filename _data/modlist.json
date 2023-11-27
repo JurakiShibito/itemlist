@@ -427,6 +427,18 @@
   },
   {
     "author": "Neronix17",
+    "name": "Asimov",
+    "steamId": "3096481956",
+    "version": "1.0.8730.29008"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Droid Depot",
+    "steamId": "3096501398",
+    "version": "1.0.8730.27155"
+  },
+  {
+    "author": "Neronix17",
     "name": "Outer Rim - Galactic Diversity",
     "steamId": "2980427615",
     "version": "1.0.8540.36817"
@@ -597,7 +609,7 @@
     "author": "Nova and Company",
     "name": "Rimworld Together",
     "steamId": "3005289691",
-    "version": "1.0.0"
+    "version": "1.0.0+37ad127322adfe4a006aeab0ff810cd9e103cff7"
   },
   {
     "author": "user19990313 and Trinity",
@@ -760,12 +772,6 @@
     "name": "Thick Armor",
     "steamId": "1321600671",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "busted_bunny",
-    "name": "Throw Them (Continued)",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Arquebus and Woffleman",
