@@ -92,37 +92,37 @@
 	},
 	{
 		"abr": "bioniceye",
-		"price": -10,
+		"price": 1717,
 		"category": "Bionic",
 		"defname": "BionicEye"
 	},
 	{
 		"abr": "bionicarm",
-		"price": -10,
+		"price": 1717,
 		"category": "Bionic",
 		"defname": "BionicArm"
 	},
 	{
 		"abr": "bionicleg",
-		"price": -10,
+		"price": 1717,
 		"category": "Bionic",
 		"defname": "BionicLeg"
 	},
 	{
 		"abr": "bionicspine",
-		"price": -10,
+		"price": 1717,
 		"category": "Bionic",
 		"defname": "BionicSpine"
 	},
 	{
 		"abr": "bionicheart",
-		"price": -10,
+		"price": 1717,
 		"category": "Bionic",
 		"defname": "BionicHeart"
 	},
 	{
 		"abr": "bionicstomach",
-		"price": -10,
+		"price": 1308,
 		"category": "Bionic",
 		"defname": "BionicStomach"
 	},
@@ -134,13 +134,13 @@
 	},
 	{
 		"abr": "bionicear",
-		"price": -10,
+		"price": 1308,
 		"category": "Bionic",
 		"defname": "BionicEar"
 	},
 	{
 		"abr": "bionictongue",
-		"price": -10,
+		"price": 942,
 		"category": "Bionic",
 		"defname": "BionicTongue"
 	},
@@ -5372,7 +5372,7 @@
 	},
 	{
 		"abr": "bionicbladder",
-		"price": -10,
+		"price": 1308,
 		"category": "Bionic",
 		"defname": "BionicBladder"
 	},
@@ -8120,13 +8120,13 @@
 	},
 	{
 		"abr": "droidwarfareupgrade",
-		"price": 21333,
+		"price": -10,
 		"category": "Droid equipment",
 		"defname": "guy762_DroidSensor_warfare"
 	},
 	{
 		"abr": "droidassassinationmodule",
-		"price": 30000,
+		"price": -10,
 		"category": "Droid equipment",
 		"defname": "guy762_DroidSensor_hk"
 	},
@@ -10268,7 +10268,7 @@
 	},
 	{
 		"abr": "archotechsculpture",
-		"price": 5000,
+		"price": -10,
 		"category": "Art",
 		"defname": "VFE_ArchotechSculpture"
 	},
@@ -12476,7 +12476,7 @@
 	},
 	{
 		"abr": "archotechviolencegenerator",
-		"price": 5667,
+		"price": -10,
 		"category": "Special",
 		"defname": "VPE_ArchotechViolenceGenerator"
 	},
@@ -14228,7 +14228,7 @@
 	},
 	{
 		"abr": "astromechdroid",
-		"price": 2000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "OuterRim_AstromechDroid"
 	},
@@ -14582,7 +14582,7 @@
 	},
 	{
 		"abr": "dumrepairdroid",
-		"price": 2000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "OuterRim_DUMDroid"
 	},
@@ -14594,7 +14594,7 @@
 	},
 	{
 		"abr": "fx-7medicaldroid",
-		"price": 2000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "OuterRim_FX7Droid"
 	},
@@ -14606,7 +14606,7 @@
 	},
 	{
 		"abr": "gnkpowerdroid",
-		"price": 2000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "OuterRim_GNKDroid"
 	},
@@ -14636,7 +14636,7 @@
 	},
 	{
 		"abr": "mserepairdroid",
-		"price": 2000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "OuterRim_MSEDroid"
 	},
@@ -14648,7 +14648,7 @@
 	},
 	{
 		"abr": "muckrakercrabdroid",
-		"price": 2000,
+		"price": -10,
 		"category": "Animals",
 		"defname": "OuterRim_MuckrakerDroid"
 	},

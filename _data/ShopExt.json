@@ -3186,14 +3186,15 @@
           "+10000% Immunity gain speed",
           "+1000% Pain shock threshold",
           "+$1500 Market value",
-          "+4.80 Move speed"
+          "+4.80 Move speed",
+          "+0% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
       "description": "A standard model of battle droid used widely as a baseline military model. They are cheap and easy to produce compared to other models so they are often also used as a labour force outside of combat.",
       "defName": "OuterRim_BattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "B1 Battle Droid",
       "price": 2500
     },
@@ -3213,14 +3214,15 @@
           "+10000% Immunity gain speed",
           "+1000% Pain shock threshold",
           "+$1800 Market value",
-          "+4.20 Move speed"
+          "+4.20 Move speed",
+          "+0% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
       "description": "A heavy modification of the standard b1 battle droid designed to be capable of handling some basic tasks, allowing it to fulfil the role of both servant and bodyguard to officials in the Separatist Alliance. This came at a much greater manufacturing cost, making them fairly limited in usage.",
       "defName": "OuterRim_BattleDroidAdvanced",
-      "enabled": true,
+      "enabled": false,
       "name": "B1A Battle Droid",
       "price": 3000
     },
@@ -3240,14 +3242,15 @@
           "+10000% Immunity gain speed",
           "+1000% Pain shock threshold",
           "+$2000 Market value",
-          "+5.40 Move speed"
+          "+5.40 Move speed",
+          "+0% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
       "description": "A stealthy model of battle droid capable of much more flexible movement, even imitating humanoids to a degree along with a high melee proficiency which the standard models lack almost entirely. They are much more difficult to produce.",
       "defName": "OuterRim_CommandoDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "BX Commando Droid",
       "price": 3333
     },
@@ -3267,7 +3270,8 @@
           "+10000% Immunity gain speed",
           "+1000% Pain shock threshold",
           "+$2000 Market value",
-          "+5.00 Move speed"
+          "+5.00 Move speed",
+          "+0% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3295,7 +3299,8 @@
           "+1000% Pain shock threshold",
           "+$1500 Market value",
           "+4.80 Move speed",
-          "+100% Suppression power"
+          "+100% Suppression power",
+          "+0% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
@@ -3322,14 +3327,15 @@
           "+10000% Immunity gain speed",
           "+1000% Pain shock threshold",
           "+$1000 Market value",
-          "+5.40 Move speed"
+          "+5.40 Move speed",
+          "+0% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
       "description": "An advanced assassin and bodyguard droid model, proficient in melee combat but not so much with ranged.",
       "defName": "OuterRim_MagnaGuardDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "MagnaGuard Droid",
       "price": 1667
     },
@@ -3349,14 +3355,15 @@
           "+10000% Immunity gain speed",
           "+1000% Pain shock threshold",
           "+$1500 Market value",
-          "+4.80 Move speed"
+          "+4.80 Move speed",
+          "+0% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
       "description": "A standard model of battle droid used widely as a baseline military model. They are cheap and easy to produce compared to other models so they are often also used as a labour force outside of combat.",
       "defName": "OuterRim_ProtocolDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "protocol droid",
       "price": 2500
     },
@@ -3376,14 +3383,15 @@
           "+10000% Immunity gain speed",
           "+1000% Pain shock threshold",
           "+$2000 Market value",
-          "+4.00 Move speed"
+          "+4.00 Move speed",
+          "+0% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
       "description": "An advanced battle droid model that is larger, tougher and generally better than the standard Battle Droid. Their advantages come at the cost of significantly more materials.",
       "defName": "OuterRim_SuperBattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "B2 Super Battle Droid",
       "price": 3333
     },
@@ -3403,14 +3411,15 @@
           "+10000% Immunity gain speed",
           "+1000% Pain shock threshold",
           "+$1000 Market value",
-          "+4.60 Move speed"
+          "+4.60 Move speed",
+          "+0% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
       },
       "description": "A superior model of tactical droid, capable of much more complex calculations than the standard series.",
       "defName": "OuterRim_SuperTacticalDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "Super Tactical Droid",
       "price": 1667
     },
@@ -3430,7 +3439,8 @@
           "+10000% Immunity gain speed",
           "+1000% Pain shock threshold",
           "+$1500 Market value",
-          "+4.60 Move speed"
+          "+4.60 Move speed",
+          "+0% Global learning factor"
         ],
         "mod": "Unknown",
         "karmaType": null
