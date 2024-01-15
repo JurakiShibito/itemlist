@@ -5831,7 +5831,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2500,
+      "addPrice": 10000,
       "removePrice": 2500,
       "degree": 0,
       "description": "Timmy is an expert at scouting out new locations. he frequently leave the relative safety of the colony to patrol the wilderness.",
@@ -6357,7 +6357,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 2500,
+      "addPrice": 35000,
       "removePrice": 2500,
       "degree": 0,
       "description": "A tongue as sharp as a blade with a sword arm to match, Timmy represents his faction's best interest and will gladly defend its name.",
@@ -6654,8 +6654,8 @@
           "+70% Flammability",
           "+$1750 Market value",
           "+4.60 Move speed",
-          "+16.0C Minimum comfortable temperature",
-          "+26.0C Maximum comfortable temperature",
+          "+28.8F Minimum comfortable temperature",
+          "+46.8F Maximum comfortable temperature",
           "+75 Leather amount",
           "+3 Honor value"
         ],
@@ -6666,7 +6666,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 1500
     }
   ]
 }

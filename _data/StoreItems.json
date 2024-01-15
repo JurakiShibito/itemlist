@@ -574,7 +574,7 @@
       "abr": "silver",
       "category": "Raw resources",
       "defname": "Silver",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "gold",
@@ -11356,7 +11356,7 @@
       "abr": "dvergrxenogerm",
       "category": "Items",
       "defname": "Xenogerm_BS_Dwarf",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "dwarfxenogerm",
@@ -11446,7 +11446,7 @@
       "abr": "feraldraculxenogerm",
       "category": "Items",
       "defname": "Xenogerm_VU_Dracul_Feral",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "firejotunxenogerm",
@@ -12106,13 +12106,13 @@
       "abr": "nightelfxenogerm",
       "category": "Items",
       "defname": "Xenogerm_nightelf",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "nissexenogerm",
       "category": "Items",
       "defname": "Xenogerm_BS_Gnome",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "nosferatuxenogerm",
@@ -12286,7 +12286,7 @@
       "abr": "returnedxenogerm",
       "category": "Items",
       "defname": "Xenogerm_VU_Returned",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "revolver",
@@ -12718,7 +12718,7 @@
       "abr": "svartalfxenogerm",
       "category": "Items",
       "defname": "Xenogerm_BS_Svartalf",
-      "price": -10
+      "price": 15000
     },
     {
       "abr": "tablet",
@@ -12947,7 +12947,13 @@
       "category": "Items",
       "defname": "Xenogerm_Yttakin",
       "price": -10
+    },
+    {
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     }
   ],
-  "total": 2158
+  "total": 2159
 }
