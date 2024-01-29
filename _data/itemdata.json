@@ -15680,7 +15680,7 @@
     "KarmaType": null
   },
   "Dankpyon_Apparel_Gambeson": {
-    "CustomName": null,
+    "CustomName": "gambesonskin",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -17880,7 +17880,7 @@
     "KarmaType": null
   },
   "DankPyon_MeleeWeapon_NamedGreatsword1c": {
-    "CustomName": null,
+    "CustomName": "namedgreatsword2",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -17900,7 +17900,7 @@
     "KarmaType": null
   },
   "DankPyon_MeleeWeapon_NamedGreatsword2c": {
-    "CustomName": null,
+    "CustomName": "namedgreatsword3",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -17980,7 +17980,7 @@
     "KarmaType": null
   },
   "DankPyon_MeleeWeapon_NamedTwoHandedHammer1c": {
-    "CustomName": null,
+    "CustomName": "namedtwo-handedheadedhammer",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -18020,7 +18020,7 @@
     "KarmaType": null
   },
   "DankPyon_MeleeWeapon_NamedHalberd1c": {
-    "CustomName": null,
+    "CustomName": "namedhalberd2",
     "HasQuantityLimit": false,
     "IsMelee": true,
     "IsRanged": false,
@@ -27740,7 +27740,7 @@
     "KarmaType": null
   },
   "Apparel_GaliaC": {
-    "CustomName": null,
+    "CustomName": "galialeftright",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -27760,7 +27760,7 @@
     "KarmaType": null
   },
   "Apparel_GaliaL": {
-    "CustomName": null,
+    "CustomName": "galiafrontback",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -30000,7 +30000,7 @@
     "KarmaType": null
   },
   "AMT_Apparel_Gambeson": {
-    "CustomName": null,
+    "CustomName": "gambesonmiddle",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42549,7 +42549,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -43029,7 +43029,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
