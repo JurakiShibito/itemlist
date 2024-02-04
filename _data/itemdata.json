@@ -19820,7 +19820,7 @@
     "KarmaType": null
   },
   "DevDesigner_Blood_Apparel_ArmetWinged": {
-    "CustomName": null,
+    "CustomName": "armetwings(sanguin)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -19980,7 +19980,7 @@
     "KarmaType": null
   },
   "DevDesigner_Blood_Apparel_Kite2Shield": {
-    "CustomName": null,
+    "CustomName": "kiteshieldpoint(sanguin)",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -33420,7 +33420,7 @@
     "KarmaType": null
   },
   "LTS_KivikS": {
-    "CustomName": null,
+    "CustomName": "kiviksmall",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -42409,7 +42409,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -42529,7 +42529,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
