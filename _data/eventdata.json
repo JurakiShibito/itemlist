@@ -458,9 +458,9 @@
   "levelskill": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 2,
     "Mod": "Twitch Toolkit"
   },
   "trait": {
@@ -514,9 +514,9 @@
   "randominspire": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 5,
     "Mod": "Twitch Toolkit"
   },
   "torytalkervote": {
@@ -570,9 +570,9 @@
   "healme": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 4,
     "Mod": "ToolkitUtils"
   },
   "surgery": {
