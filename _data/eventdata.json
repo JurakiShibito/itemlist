@@ -548,7 +548,7 @@
     "HasGlobalCooldown": false,
     "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 14400,
+    "LocalCooldown": 7200,
     "Mod": "ToolkitUtils"
   },
   "healall": {
