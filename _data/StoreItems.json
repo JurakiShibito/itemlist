@@ -406,7 +406,7 @@
       "abr": "healingpotion",
       "category": "Drugs",
       "defname": "MechSerumHealer",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "rebirthpotion",
@@ -532,49 +532,49 @@
       "abr": "chickenegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggChickenFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "cobraegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCobraFertilized",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "iguanaegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggIguanaFertilized",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "tortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTortoiseFertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "cassowaryegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCassowaryFertilized",
-      "price": 32
+      "price": -10
     },
     {
       "abr": "emuegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggEmuFertilized",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "ostrichegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggOstrichFertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "turkeyegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTurkeyFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "duckegg(unfert.)",
@@ -586,7 +586,7 @@
       "abr": "duckegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDuckFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "gooseegg(unfert.)",
@@ -598,7 +598,7 @@
       "abr": "gooseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggGooseFertilized",
-      "price": 18
+      "price": -10
     },
     {
       "abr": "healroot",
@@ -706,7 +706,7 @@
       "abr": "silver",
       "category": "Metallics",
       "defname": "Silver",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "gold",
@@ -1480,19 +1480,19 @@
       "abr": "possessedruniclongsword",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_MonoSwordBladelink",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "possessedstormhammer",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_ZeusHammerBladelink",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "possessedmagmablade",
       "category": "Persona weapons",
       "defname": "MeleeWeapon_PlasmaSwordBladelink",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "axe",
@@ -4474,49 +4474,49 @@
       "abr": "largeforestcobraegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "DankPyon_EggLargeForestCobraFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "largecavecobraegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "DankPyon_EggLargeCobraCaveFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "giantforestconstrictoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "DankPyon_EggConstrictorForestFertilized",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "giantcaveconstrictoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "DankPyon_EggConstrictorCaveFertilized",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "giantforestlindwurmegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "DankPyon_EggLindwurmForestFertilized",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "giantcavelindwurmegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "DankPyon_EggLindwurmCaveFertilized",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "webknechtegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "DankPyon_Webknecht_EggFertilized",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "griffonegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "DankPyon_Griffon_EggFertilized",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "hornetjelly",
@@ -5122,7 +5122,7 @@
       "abr": "namedfullplate",
       "category": "Apparel",
       "defname": "DankPyon_Apparel_FullPlateNamed",
-      "price": 9008
+      "price": -10
     },
     {
       "abr": "citrinenecklace",
@@ -5620,7 +5620,7 @@
       "abr": "namedarmet",
       "category": "Headgear",
       "defname": "DankPyon_Headgear_ArmetNamed",
-      "price": 6567
+      "price": -10
     },
     {
       "abr": "roundshield",
@@ -5926,55 +5926,55 @@
       "abr": "namedgreatsword",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedGreatsword",
-      "price": 11350
+      "price": -10
     },
     {
       "abr": "namedgreatsword",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedGreatsword1c",
-      "price": 11350
+      "price": -10
     },
     {
       "abr": "namedgreatsword",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedGreatsword2c",
-      "price": 11350
+      "price": -10
     },
     {
       "abr": "namedtwo-handedflangedmace",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace",
-      "price": 10108
+      "price": -10
     },
     {
       "abr": "namedgreataxe",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedGreataxe",
-      "price": 10883
+      "price": -10
     },
     {
       "abr": "namedtwo-handedhammer",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedTwoHandedHammer",
-      "price": 10942
+      "price": -10
     },
     {
       "abr": "namedtwo-handedhammer",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedTwoHandedHammer1c",
-      "price": 10942
+      "price": -10
     },
     {
       "abr": "namedhalberd",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedHalberd",
-      "price": 10058
+      "price": -10
     },
     {
       "abr": "namedhalberd",
       "category": "Melee weapons",
       "defname": "DankPyon_MeleeWeapon_NamedHalberd1c",
-      "price": 10058
+      "price": -10
     },
     {
       "abr": "crossbow",

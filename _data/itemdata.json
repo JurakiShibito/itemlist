@@ -129,7 +129,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
@@ -23300,7 +23300,7 @@
     "KarmaType": null
   },
   "Apparel_GaliaC": {
-    "CustomName": null,
+    "CustomName": "galia2",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -23320,7 +23320,7 @@
     "KarmaType": null
   },
   "Apparel_GaliaL": {
-    "CustomName": null,
+    "CustomName": "galia3",
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
