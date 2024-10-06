@@ -546,9 +546,9 @@
   "reviveme": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 7200,
     "Mod": "ToolkitUtils"
   },
   "healall": {
@@ -570,9 +570,9 @@
   "healme": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
-    "HasLocalCooldown": false,
+    "HasLocalCooldown": true,
     "GlobalCooldown": 0,
-    "LocalCooldown": 0,
+    "LocalCooldown": 600,
     "Mod": "ToolkitUtils"
   },
   "surgery": {
