@@ -88,7 +88,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": 4333
+      "price": -10
     },
     {
       "abr": "archotecheye",
@@ -694,7 +694,7 @@
       "abr": "psychicemanator",
       "category": "Special",
       "defname": "PsychicEmanator",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "vanometricpowercell",
@@ -3160,7 +3160,7 @@
       "abr": "xenogerm",
       "category": "Misc",
       "defname": "Xenogerm",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "architecapsule",
@@ -16414,79 +16414,79 @@
       "abr": "techprint(cataphractarmor)",
       "category": "Techprints",
       "defname": "Techprint_CataphractArmor",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "techprint(jumppacks)",
       "category": "Techprints",
       "defname": "Techprint_JumpPack",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(brainwiring)",
       "category": "Techprints",
       "defname": "Techprint_BrainWiring",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(specializedlimbs)",
       "category": "Techprints",
       "defname": "Techprint_SpecializedLimbs",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(compactweaponry)",
       "category": "Techprints",
       "defname": "Techprint_CompactWeaponry",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(poisonsynthesis)",
       "category": "Techprints",
       "defname": "Techprint_VenomSynthesis",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "techprint(artificialmetabolism)",
       "category": "Techprints",
       "defname": "Techprint_ArtificialMetabolism",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(neuralcomputation)",
       "category": "Techprints",
       "defname": "Techprint_NeuralComputation",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(skinhardening)",
       "category": "Techprints",
       "defname": "Techprint_SkinHardening",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(healingfactors)",
       "category": "Techprints",
       "defname": "Techprint_HealingFactors",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(fleshshaping)",
       "category": "Techprints",
       "defname": "Techprint_FleshShaping",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(molecularanalysis)",
       "category": "Techprints",
       "defname": "Techprint_MolecularAnalysis",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(circadianinfluence)",
       "category": "Techprints",
       "defname": "Techprint_CircadianInfluence",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "techprint(towncharterrulesfragment1)",
@@ -18232,313 +18232,313 @@
       "abr": "dirtmolexenogerm",
       "category": "Items",
       "defname": "Xenogerm_Dirtmole",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "geniexenogerm",
       "category": "Items",
       "defname": "Xenogerm_Genie",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "hussarxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Hussar",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "sanguophagexenogerm",
       "category": "Items",
       "defname": "Xenogerm_Sanguophage",
-      "price": 10000
+      "price": -10
     },
     {
       "abr": "neanderthalxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Neanderthal",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "pigskinxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Pigskin",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "impidxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Impid",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "wasterxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Waster",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "yttakinxenogerm",
       "category": "Items",
       "defname": "Xenogerm_Yttakin",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "highmatexenogerm",
       "category": "Items",
       "defname": "Xenogerm_Highmate",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "chissxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Chiss",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "fettclonexenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_FettClone",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "abednedoxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Abednedo",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "aqualishxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Aqualish",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "arkanianxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Arkanian",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "bithxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Bith",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "bothanxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Bothan",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "catharxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Cathar",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "cereanxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Cerean",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "dathomirianxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Dathomirian",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "devaronianxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Devaronian",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "durosxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Duros",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "ewokxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Ewok",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "forcegremlinxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_ForceGremlin",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "geonosianxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Geonosian",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "gunganxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Gungan",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "herglicxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Herglic",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "iktotchixenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Iktotchi",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "iridonianxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Iridonian",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "ithorianxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Ithorian",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "jawaxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Jawa",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "kaminoanxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Kaminoan",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "massassixenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Massassi",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "miralukaxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Miraluka",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "mirialanxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Mirialan",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "moncalamarixenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_MonCalamari",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "neimoidianxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Neimoidian",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "niktoxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Nikto",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "pantoranxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Pantoran",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "pykexenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Pyke",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "quarrenxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Quarren",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "rakataxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Rakata",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "selkathxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Selkath",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "sithxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Sith",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "sullustanxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Sullustan",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "togrutaxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Togruta",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "trandoshanxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Trandoshan",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "tuskenxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Tusken",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "twi'lekxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Twilek",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "umbaranxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Umbaran",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "wookieexenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Wookiee",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "zeltronxenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_Zeltron",
-      "price": -10
+      "price": 3333
     }
   ],
   "total": 3090
